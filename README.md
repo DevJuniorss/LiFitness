@@ -79,7 +79,7 @@ Ao finalizar o desenvolvimento, abrir um **pull request** para a branch principa
 | Nome | Função | LinkedIn |
 |------|---------|-----------|
 | **Alexandre Júnior** | Engenheiro de Software | [DevJuniorSS](https://www.linkedin.com/in/devjuniorss/) |
-| **Eduardo Nunes** | Engenheiro de Software | [LinkedIn]() |
+| **Eduardo Nunes** | Engenheiro de Software | [LinkedIn](https://github.com/eduardonunes2819313-blip) |
 
 ---
 
@@ -87,9 +87,9 @@ Ao finalizar o desenvolvimento, abrir um **pull request** para a branch principa
 
 | Documento | Descrição | Link |
 |----------|-----------|------|
-| **Especificação** | Documento inicial do projeto | [Link]() |
+| **Documeno Geral** | Documento inicial do projeto | [Link](https://docs.google.com/document/d/1Fc0bmevbTcJc3lWGMYGQplLVg3WwxtzTC8MdohL1UBk/edit?tab=t.0) |
 | **Entrevista** | Entrevista com stakeholders | [Link]() |
-| **Protótipo** | Telas e fluxo principal no Figma | [Link]() |
+| **Protótipo** | Telas e fluxo principal no Figma | [Link](https://www.figma.com/proto/kpAmeslbdwWbFey51SuAtt/Lifitness-prot%C3%B3tipo?node-id=4-0&t=EnYhyPwU2pGgxdm9-1) |
 
 ---
 
