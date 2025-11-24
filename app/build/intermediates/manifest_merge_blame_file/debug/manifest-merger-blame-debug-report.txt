@@ -1,0 +1,467 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.lifitness"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="30"
+9        android:targetSdkVersion="34" />
+10
+11    <uses-feature android:name="android.hardware.camera.any" />
+11-->/home/nero/Dev/Projetos Mobile/LiFitness/app/src/main/AndroidManifest.xml:5:5-63
+11-->/home/nero/Dev/Projetos Mobile/LiFitness/app/src/main/AndroidManifest.xml:5:19-61
+12
+13    <uses-permission android:name="android.permission.CAMERA" />
+13-->/home/nero/Dev/Projetos Mobile/LiFitness/app/src/main/AndroidManifest.xml:6:5-64
+13-->/home/nero/Dev/Projetos Mobile/LiFitness/app/src/main/AndroidManifest.xml:6:22-62
+14    <uses-permission android:name="android.permission.INTERNET" />
+14-->[com.google.firebase:firebase-auth:22.3.0] /home/nero/.gradle/caches/transforms-3/9190f7ac235672c2e8dd65b25400216f/transformed/firebase-auth-22.3.0/AndroidManifest.xml:25:5-67
+14-->[com.google.firebase:firebase-auth:22.3.0] /home/nero/.gradle/caches/transforms-3/9190f7ac235672c2e8dd65b25400216f/transformed/firebase-auth-22.3.0/AndroidManifest.xml:25:22-64
+15    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+15-->[com.google.firebase:firebase-auth:22.3.0] /home/nero/.gradle/caches/transforms-3/9190f7ac235672c2e8dd65b25400216f/transformed/firebase-auth-22.3.0/AndroidManifest.xml:26:5-79
+15-->[com.google.firebase:firebase-auth:22.3.0] /home/nero/.gradle/caches/transforms-3/9190f7ac235672c2e8dd65b25400216f/transformed/firebase-auth-22.3.0/AndroidManifest.xml:26:22-76
+16    <uses-permission android:name="android.permission.WAKE_LOCK" />
+16-->[com.google.android.gms:play-services-measurement-api:21.3.0] /home/nero/.gradle/caches/transforms-3/29b523bdba4867fdee8e9eed5c1d7938/transformed/play-services-measurement-api-21.3.0/AndroidManifest.xml:24:5-68
+16-->[com.google.android.gms:play-services-measurement-api:21.3.0] /home/nero/.gradle/caches/transforms-3/29b523bdba4867fdee8e9eed5c1d7938/transformed/play-services-measurement-api-21.3.0/AndroidManifest.xml:24:22-65
+17    <uses-permission android:name="com.google.android.gms.permission.AD_ID" /> <!-- This permission is required to start foreground services in Android P. -->
+17-->[com.google.android.gms:play-services-measurement-api:21.3.0] /home/nero/.gradle/caches/transforms-3/29b523bdba4867fdee8e9eed5c1d7938/transformed/play-services-measurement-api-21.3.0/AndroidManifest.xml:25:5-79
+17-->[com.google.android.gms:play-services-measurement-api:21.3.0] /home/nero/.gradle/caches/transforms-3/29b523bdba4867fdee8e9eed5c1d7938/transformed/play-services-measurement-api-21.3.0/AndroidManifest.xml:25:22-76
+18    <uses-permission android:name="android.permission.FOREGROUND_SERVICE" />
+18-->[com.google.android.gms:play-services-cast-framework:21.2.0] /home/nero/.gradle/caches/transforms-3/7bfa03322a05c72d0200be1f676fe85f/transformed/play-services-cast-framework-21.2.0/AndroidManifest.xml:10:5-77
+18-->[com.google.android.gms:play-services-cast-framework:21.2.0] /home/nero/.gradle/caches/transforms-3/7bfa03322a05c72d0200be1f676fe85f/transformed/play-services-cast-framework-21.2.0/AndroidManifest.xml:10:22-74
+19
+20    <queries>
+20-->[com.google.android.gms:play-services-cast-framework:21.2.0] /home/nero/.gradle/caches/transforms-3/7bfa03322a05c72d0200be1f676fe85f/transformed/play-services-cast-framework-21.2.0/AndroidManifest.xml:12:5-14:15
+21        <package android:name="com.google.android.gms.policy_cast_dynamite" />
+21-->[com.google.android.gms:play-services-cast-framework:21.2.0] /home/nero/.gradle/caches/transforms-3/7bfa03322a05c72d0200be1f676fe85f/transformed/play-services-cast-framework-21.2.0/AndroidManifest.xml:13:9-79
+21-->[com.google.android.gms:play-services-cast-framework:21.2.0] /home/nero/.gradle/caches/transforms-3/7bfa03322a05c72d0200be1f676fe85f/transformed/play-services-cast-framework-21.2.0/AndroidManifest.xml:13:18-76
+22    </queries>
+23
+24    <uses-permission android:name="com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE" />
+24-->[com.google.android.gms:play-services-measurement:21.3.0] /home/nero/.gradle/caches/transforms-3/10ec94a2bdf174171ad5b4985b8656ae/transformed/play-services-measurement-21.3.0/AndroidManifest.xml:26:5-110
+24-->[com.google.android.gms:play-services-measurement:21.3.0] /home/nero/.gradle/caches/transforms-3/10ec94a2bdf174171ad5b4985b8656ae/transformed/play-services-measurement-21.3.0/AndroidManifest.xml:26:22-107
+25
+26    <permission
+26-->[androidx.core:core:1.12.0] /home/nero/.gradle/caches/transforms-3/bb4800bfc309142893ca44efe8856733/transformed/core-1.12.0/AndroidManifest.xml:22:5-24:47
+27        android:name="com.lifitness.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+27-->[androidx.core:core:1.12.0] /home/nero/.gradle/caches/transforms-3/bb4800bfc309142893ca44efe8856733/transformed/core-1.12.0/AndroidManifest.xml:23:9-81
+28        android:protectionLevel="signature" />
+28-->[androidx.core:core:1.12.0] /home/nero/.gradle/caches/transforms-3/bb4800bfc309142893ca44efe8856733/transformed/core-1.12.0/AndroidManifest.xml:24:9-44
+29
+30    <uses-permission android:name="com.lifitness.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION" />
+30-->[androidx.core:core:1.12.0] /home/nero/.gradle/caches/transforms-3/bb4800bfc309142893ca44efe8856733/transformed/core-1.12.0/AndroidManifest.xml:26:5-97
+30-->[androidx.core:core:1.12.0] /home/nero/.gradle/caches/transforms-3/bb4800bfc309142893ca44efe8856733/transformed/core-1.12.0/AndroidManifest.xml:26:22-94
+31
+32    <application
+32-->/home/nero/Dev/Projetos Mobile/LiFitness/app/src/main/AndroidManifest.xml:7:5-28:19
+33        android:allowBackup="true"
+33-->/home/nero/Dev/Projetos Mobile/LiFitness/app/src/main/AndroidManifest.xml:8:9-35
+34        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+34-->[androidx.core:core:1.12.0] /home/nero/.gradle/caches/transforms-3/bb4800bfc309142893ca44efe8856733/transformed/core-1.12.0/AndroidManifest.xml:28:18-86
+35        android:dataExtractionRules="@xml/data_extraction_rules"
+35-->/home/nero/Dev/Projetos Mobile/LiFitness/app/src/main/AndroidManifest.xml:9:9-65
+36        android:debuggable="true"
+37        android:extractNativeLibs="false"
+38        android:fullBackupContent="@xml/backup_rules"
+38-->/home/nero/Dev/Projetos Mobile/LiFitness/app/src/main/AndroidManifest.xml:10:9-54
+39        android:icon="@mipmap/lifitness_icon"
+39-->/home/nero/Dev/Projetos Mobile/LiFitness/app/src/main/AndroidManifest.xml:11:9-46
+40        android:label="@string/app_name"
+40-->/home/nero/Dev/Projetos Mobile/LiFitness/app/src/main/AndroidManifest.xml:12:9-41
+41        android:roundIcon="@mipmap/lifitness_icon_round"
+41-->/home/nero/Dev/Projetos Mobile/LiFitness/app/src/main/AndroidManifest.xml:13:9-57
+42        android:supportsRtl="true"
+42-->/home/nero/Dev/Projetos Mobile/LiFitness/app/src/main/AndroidManifest.xml:14:9-35
+43        android:testOnly="true"
+44        android:theme="@style/Theme.Lifitness" >
+44-->/home/nero/Dev/Projetos Mobile/LiFitness/app/src/main/AndroidManifest.xml:15:9-47
+45        <activity
+45-->/home/nero/Dev/Projetos Mobile/LiFitness/app/src/main/AndroidManifest.xml:17:9-27:20
+46            android:name="com.lifitness.MainActivity"
+46-->/home/nero/Dev/Projetos Mobile/LiFitness/app/src/main/AndroidManifest.xml:18:13-41
+47            android:exported="true"
+47-->/home/nero/Dev/Projetos Mobile/LiFitness/app/src/main/AndroidManifest.xml:19:13-36
+48            android:label="@string/app_name"
+48-->/home/nero/Dev/Projetos Mobile/LiFitness/app/src/main/AndroidManifest.xml:20:13-45
+49            android:theme="@style/Theme.Lifitness" >
+49-->/home/nero/Dev/Projetos Mobile/LiFitness/app/src/main/AndroidManifest.xml:21:13-51
+50            <intent-filter>
+50-->/home/nero/Dev/Projetos Mobile/LiFitness/app/src/main/AndroidManifest.xml:22:13-26:29
+51                <action android:name="android.intent.action.MAIN" />
+51-->/home/nero/Dev/Projetos Mobile/LiFitness/app/src/main/AndroidManifest.xml:23:17-69
+51-->/home/nero/Dev/Projetos Mobile/LiFitness/app/src/main/AndroidManifest.xml:23:25-66
+52
+53                <category android:name="android.intent.category.LAUNCHER" />
+53-->/home/nero/Dev/Projetos Mobile/LiFitness/app/src/main/AndroidManifest.xml:25:17-77
+53-->/home/nero/Dev/Projetos Mobile/LiFitness/app/src/main/AndroidManifest.xml:25:27-74
+54            </intent-filter>
+55        </activity>
+56        <activity
+56-->[com.google.firebase:firebase-auth:22.3.0] /home/nero/.gradle/caches/transforms-3/9190f7ac235672c2e8dd65b25400216f/transformed/firebase-auth-22.3.0/AndroidManifest.xml:29:9-46:20
+57            android:name="com.google.firebase.auth.internal.GenericIdpActivity"
+57-->[com.google.firebase:firebase-auth:22.3.0] /home/nero/.gradle/caches/transforms-3/9190f7ac235672c2e8dd65b25400216f/transformed/firebase-auth-22.3.0/AndroidManifest.xml:30:13-80
+58            android:excludeFromRecents="true"
+58-->[com.google.firebase:firebase-auth:22.3.0] /home/nero/.gradle/caches/transforms-3/9190f7ac235672c2e8dd65b25400216f/transformed/firebase-auth-22.3.0/AndroidManifest.xml:31:13-46
+59            android:exported="true"
+59-->[com.google.firebase:firebase-auth:22.3.0] /home/nero/.gradle/caches/transforms-3/9190f7ac235672c2e8dd65b25400216f/transformed/firebase-auth-22.3.0/AndroidManifest.xml:32:13-36
+60            android:launchMode="singleTask"
+60-->[com.google.firebase:firebase-auth:22.3.0] /home/nero/.gradle/caches/transforms-3/9190f7ac235672c2e8dd65b25400216f/transformed/firebase-auth-22.3.0/AndroidManifest.xml:33:13-44
+61            android:theme="@android:style/Theme.Translucent.NoTitleBar" >
+61-->[com.google.firebase:firebase-auth:22.3.0] /home/nero/.gradle/caches/transforms-3/9190f7ac235672c2e8dd65b25400216f/transformed/firebase-auth-22.3.0/AndroidManifest.xml:34:13-72
+62            <intent-filter>
+62-->[com.google.firebase:firebase-auth:22.3.0] /home/nero/.gradle/caches/transforms-3/9190f7ac235672c2e8dd65b25400216f/transformed/firebase-auth-22.3.0/AndroidManifest.xml:35:13-45:29
+63                <action android:name="android.intent.action.VIEW" />
+63-->[com.google.firebase:firebase-auth:22.3.0] /home/nero/.gradle/caches/transforms-3/9190f7ac235672c2e8dd65b25400216f/transformed/firebase-auth-22.3.0/AndroidManifest.xml:36:17-69
+63-->[com.google.firebase:firebase-auth:22.3.0] /home/nero/.gradle/caches/transforms-3/9190f7ac235672c2e8dd65b25400216f/transformed/firebase-auth-22.3.0/AndroidManifest.xml:36:25-66
+64
+65                <category android:name="android.intent.category.DEFAULT" />
+65-->[com.google.firebase:firebase-auth:22.3.0] /home/nero/.gradle/caches/transforms-3/9190f7ac235672c2e8dd65b25400216f/transformed/firebase-auth-22.3.0/AndroidManifest.xml:38:17-76
+65-->[com.google.firebase:firebase-auth:22.3.0] /home/nero/.gradle/caches/transforms-3/9190f7ac235672c2e8dd65b25400216f/transformed/firebase-auth-22.3.0/AndroidManifest.xml:38:27-73
+66                <category android:name="android.intent.category.BROWSABLE" />
+66-->[com.google.firebase:firebase-auth:22.3.0] /home/nero/.gradle/caches/transforms-3/9190f7ac235672c2e8dd65b25400216f/transformed/firebase-auth-22.3.0/AndroidManifest.xml:39:17-78
+66-->[com.google.firebase:firebase-auth:22.3.0] /home/nero/.gradle/caches/transforms-3/9190f7ac235672c2e8dd65b25400216f/transformed/firebase-auth-22.3.0/AndroidManifest.xml:39:27-75
+67
+68                <data
+68-->[com.google.firebase:firebase-auth:22.3.0] /home/nero/.gradle/caches/transforms-3/9190f7ac235672c2e8dd65b25400216f/transformed/firebase-auth-22.3.0/AndroidManifest.xml:41:17-44:51
+69                    android:host="firebase.auth"
+69-->[com.google.firebase:firebase-auth:22.3.0] /home/nero/.gradle/caches/transforms-3/9190f7ac235672c2e8dd65b25400216f/transformed/firebase-auth-22.3.0/AndroidManifest.xml:42:21-49
+70                    android:path="/"
+70-->[com.google.firebase:firebase-auth:22.3.0] /home/nero/.gradle/caches/transforms-3/9190f7ac235672c2e8dd65b25400216f/transformed/firebase-auth-22.3.0/AndroidManifest.xml:43:21-37
+71                    android:scheme="genericidp" />
+71-->[com.google.firebase:firebase-auth:22.3.0] /home/nero/.gradle/caches/transforms-3/9190f7ac235672c2e8dd65b25400216f/transformed/firebase-auth-22.3.0/AndroidManifest.xml:44:21-48
+72            </intent-filter>
+73        </activity>
+74        <activity
+74-->[com.google.firebase:firebase-auth:22.3.0] /home/nero/.gradle/caches/transforms-3/9190f7ac235672c2e8dd65b25400216f/transformed/firebase-auth-22.3.0/AndroidManifest.xml:47:9-64:20
+75            android:name="com.google.firebase.auth.internal.RecaptchaActivity"
+75-->[com.google.firebase:firebase-auth:22.3.0] /home/nero/.gradle/caches/transforms-3/9190f7ac235672c2e8dd65b25400216f/transformed/firebase-auth-22.3.0/AndroidManifest.xml:48:13-79
+76            android:excludeFromRecents="true"
+76-->[com.google.firebase:firebase-auth:22.3.0] /home/nero/.gradle/caches/transforms-3/9190f7ac235672c2e8dd65b25400216f/transformed/firebase-auth-22.3.0/AndroidManifest.xml:49:13-46
+77            android:exported="true"
+77-->[com.google.firebase:firebase-auth:22.3.0] /home/nero/.gradle/caches/transforms-3/9190f7ac235672c2e8dd65b25400216f/transformed/firebase-auth-22.3.0/AndroidManifest.xml:50:13-36
+78            android:launchMode="singleTask"
+78-->[com.google.firebase:firebase-auth:22.3.0] /home/nero/.gradle/caches/transforms-3/9190f7ac235672c2e8dd65b25400216f/transformed/firebase-auth-22.3.0/AndroidManifest.xml:51:13-44
+79            android:theme="@android:style/Theme.Translucent.NoTitleBar" >
+79-->[com.google.firebase:firebase-auth:22.3.0] /home/nero/.gradle/caches/transforms-3/9190f7ac235672c2e8dd65b25400216f/transformed/firebase-auth-22.3.0/AndroidManifest.xml:52:13-72
+80            <intent-filter>
+80-->[com.google.firebase:firebase-auth:22.3.0] /home/nero/.gradle/caches/transforms-3/9190f7ac235672c2e8dd65b25400216f/transformed/firebase-auth-22.3.0/AndroidManifest.xml:53:13-63:29
+81                <action android:name="android.intent.action.VIEW" />
+81-->[com.google.firebase:firebase-auth:22.3.0] /home/nero/.gradle/caches/transforms-3/9190f7ac235672c2e8dd65b25400216f/transformed/firebase-auth-22.3.0/AndroidManifest.xml:36:17-69
+81-->[com.google.firebase:firebase-auth:22.3.0] /home/nero/.gradle/caches/transforms-3/9190f7ac235672c2e8dd65b25400216f/transformed/firebase-auth-22.3.0/AndroidManifest.xml:36:25-66
+82
+83                <category android:name="android.intent.category.DEFAULT" />
+83-->[com.google.firebase:firebase-auth:22.3.0] /home/nero/.gradle/caches/transforms-3/9190f7ac235672c2e8dd65b25400216f/transformed/firebase-auth-22.3.0/AndroidManifest.xml:38:17-76
+83-->[com.google.firebase:firebase-auth:22.3.0] /home/nero/.gradle/caches/transforms-3/9190f7ac235672c2e8dd65b25400216f/transformed/firebase-auth-22.3.0/AndroidManifest.xml:38:27-73
+84                <category android:name="android.intent.category.BROWSABLE" />
+84-->[com.google.firebase:firebase-auth:22.3.0] /home/nero/.gradle/caches/transforms-3/9190f7ac235672c2e8dd65b25400216f/transformed/firebase-auth-22.3.0/AndroidManifest.xml:39:17-78
+84-->[com.google.firebase:firebase-auth:22.3.0] /home/nero/.gradle/caches/transforms-3/9190f7ac235672c2e8dd65b25400216f/transformed/firebase-auth-22.3.0/AndroidManifest.xml:39:27-75
+85
+86                <data
+86-->[com.google.firebase:firebase-auth:22.3.0] /home/nero/.gradle/caches/transforms-3/9190f7ac235672c2e8dd65b25400216f/transformed/firebase-auth-22.3.0/AndroidManifest.xml:41:17-44:51
+87                    android:host="firebase.auth"
+87-->[com.google.firebase:firebase-auth:22.3.0] /home/nero/.gradle/caches/transforms-3/9190f7ac235672c2e8dd65b25400216f/transformed/firebase-auth-22.3.0/AndroidManifest.xml:42:21-49
+88                    android:path="/"
+88-->[com.google.firebase:firebase-auth:22.3.0] /home/nero/.gradle/caches/transforms-3/9190f7ac235672c2e8dd65b25400216f/transformed/firebase-auth-22.3.0/AndroidManifest.xml:43:21-37
+89                    android:scheme="recaptcha" />
+89-->[com.google.firebase:firebase-auth:22.3.0] /home/nero/.gradle/caches/transforms-3/9190f7ac235672c2e8dd65b25400216f/transformed/firebase-auth-22.3.0/AndroidManifest.xml:44:21-48
+90            </intent-filter>
+91        </activity>
+92
+93        <service
+93-->[com.google.firebase:firebase-auth:22.3.0] /home/nero/.gradle/caches/transforms-3/9190f7ac235672c2e8dd65b25400216f/transformed/firebase-auth-22.3.0/AndroidManifest.xml:66:9-72:19
+94            android:name="com.google.firebase.components.ComponentDiscoveryService"
+94-->[com.google.firebase:firebase-auth:22.3.0] /home/nero/.gradle/caches/transforms-3/9190f7ac235672c2e8dd65b25400216f/transformed/firebase-auth-22.3.0/AndroidManifest.xml:67:13-84
+95            android:directBootAware="true"
+95-->[com.google.firebase:firebase-common:20.4.2] /home/nero/.gradle/caches/transforms-3/743238af6460e3bd3b8de0879d02272f/transformed/firebase-common-20.4.2/AndroidManifest.xml:32:13-43
+96            android:exported="false" >
+96-->[com.google.firebase:firebase-auth:22.3.0] /home/nero/.gradle/caches/transforms-3/9190f7ac235672c2e8dd65b25400216f/transformed/firebase-auth-22.3.0/AndroidManifest.xml:68:13-37
+97            <meta-data
+97-->[com.google.firebase:firebase-auth:22.3.0] /home/nero/.gradle/caches/transforms-3/9190f7ac235672c2e8dd65b25400216f/transformed/firebase-auth-22.3.0/AndroidManifest.xml:69:13-71:85
+98                android:name="com.google.firebase.components:com.google.firebase.auth.FirebaseAuthRegistrar"
+98-->[com.google.firebase:firebase-auth:22.3.0] /home/nero/.gradle/caches/transforms-3/9190f7ac235672c2e8dd65b25400216f/transformed/firebase-auth-22.3.0/AndroidManifest.xml:70:17-109
+99                android:value="com.google.firebase.components.ComponentRegistrar" />
+99-->[com.google.firebase:firebase-auth:22.3.0] /home/nero/.gradle/caches/transforms-3/9190f7ac235672c2e8dd65b25400216f/transformed/firebase-auth-22.3.0/AndroidManifest.xml:71:17-82
+100            <meta-data
+100-->[com.google.firebase:firebase-database:20.3.0] /home/nero/.gradle/caches/transforms-3/84fd63e044a00d6b8aac292ee7ce7eee/transformed/firebase-database-20.3.0/AndroidManifest.xml:29:13-31:85
+101                android:name="com.google.firebase.components:com.google.firebase.database.FirebaseDatabaseKtxRegistrar"
+101-->[com.google.firebase:firebase-database:20.3.0] /home/nero/.gradle/caches/transforms-3/84fd63e044a00d6b8aac292ee7ce7eee/transformed/firebase-database-20.3.0/AndroidManifest.xml:30:17-120
+102                android:value="com.google.firebase.components.ComponentRegistrar" />
+102-->[com.google.firebase:firebase-database:20.3.0] /home/nero/.gradle/caches/transforms-3/84fd63e044a00d6b8aac292ee7ce7eee/transformed/firebase-database-20.3.0/AndroidManifest.xml:31:17-82
+103            <meta-data
+103-->[com.google.firebase:firebase-database:20.3.0] /home/nero/.gradle/caches/transforms-3/84fd63e044a00d6b8aac292ee7ce7eee/transformed/firebase-database-20.3.0/AndroidManifest.xml:32:13-34:85
+104                android:name="com.google.firebase.components:com.google.firebase.database.DatabaseRegistrar"
+104-->[com.google.firebase:firebase-database:20.3.0] /home/nero/.gradle/caches/transforms-3/84fd63e044a00d6b8aac292ee7ce7eee/transformed/firebase-database-20.3.0/AndroidManifest.xml:33:17-109
+105                android:value="com.google.firebase.components.ComponentRegistrar" />
+105-->[com.google.firebase:firebase-database:20.3.0] /home/nero/.gradle/caches/transforms-3/84fd63e044a00d6b8aac292ee7ce7eee/transformed/firebase-database-20.3.0/AndroidManifest.xml:34:17-82
+106            <meta-data
+106-->[com.google.firebase:firebase-firestore:24.9.1] /home/nero/.gradle/caches/transforms-3/0916fbaeae599d4dd24026a9f1e8ac44/transformed/firebase-firestore-24.9.1/AndroidManifest.xml:17:13-19:85
+107                android:name="com.google.firebase.components:com.google.firebase.firestore.FirebaseFirestoreKtxRegistrar"
+107-->[com.google.firebase:firebase-firestore:24.9.1] /home/nero/.gradle/caches/transforms-3/0916fbaeae599d4dd24026a9f1e8ac44/transformed/firebase-firestore-24.9.1/AndroidManifest.xml:18:17-122
+108                android:value="com.google.firebase.components.ComponentRegistrar" />
+108-->[com.google.firebase:firebase-firestore:24.9.1] /home/nero/.gradle/caches/transforms-3/0916fbaeae599d4dd24026a9f1e8ac44/transformed/firebase-firestore-24.9.1/AndroidManifest.xml:19:17-82
+109            <meta-data
+109-->[com.google.firebase:firebase-firestore:24.9.1] /home/nero/.gradle/caches/transforms-3/0916fbaeae599d4dd24026a9f1e8ac44/transformed/firebase-firestore-24.9.1/AndroidManifest.xml:20:13-22:85
+110                android:name="com.google.firebase.components:com.google.firebase.firestore.FirestoreRegistrar"
+110-->[com.google.firebase:firebase-firestore:24.9.1] /home/nero/.gradle/caches/transforms-3/0916fbaeae599d4dd24026a9f1e8ac44/transformed/firebase-firestore-24.9.1/AndroidManifest.xml:21:17-111
+111                android:value="com.google.firebase.components.ComponentRegistrar" />
+111-->[com.google.firebase:firebase-firestore:24.9.1] /home/nero/.gradle/caches/transforms-3/0916fbaeae599d4dd24026a9f1e8ac44/transformed/firebase-firestore-24.9.1/AndroidManifest.xml:22:17-82
+112            <meta-data
+112-->[com.google.firebase:firebase-storage:20.3.0] /home/nero/.gradle/caches/transforms-3/e0eca0542a5775ae91438854fc4de7b3/transformed/firebase-storage-20.3.0/AndroidManifest.xml:30:13-32:85
+113                android:name="com.google.firebase.components:com.google.firebase.storage.FirebaseStorageKtxRegistrar"
+113-->[com.google.firebase:firebase-storage:20.3.0] /home/nero/.gradle/caches/transforms-3/e0eca0542a5775ae91438854fc4de7b3/transformed/firebase-storage-20.3.0/AndroidManifest.xml:31:17-118
+114                android:value="com.google.firebase.components.ComponentRegistrar" />
+114-->[com.google.firebase:firebase-storage:20.3.0] /home/nero/.gradle/caches/transforms-3/e0eca0542a5775ae91438854fc4de7b3/transformed/firebase-storage-20.3.0/AndroidManifest.xml:32:17-82
+115            <meta-data
+115-->[com.google.firebase:firebase-storage:20.3.0] /home/nero/.gradle/caches/transforms-3/e0eca0542a5775ae91438854fc4de7b3/transformed/firebase-storage-20.3.0/AndroidManifest.xml:33:13-35:85
+116                android:name="com.google.firebase.components:com.google.firebase.storage.StorageRegistrar"
+116-->[com.google.firebase:firebase-storage:20.3.0] /home/nero/.gradle/caches/transforms-3/e0eca0542a5775ae91438854fc4de7b3/transformed/firebase-storage-20.3.0/AndroidManifest.xml:34:17-107
+117                android:value="com.google.firebase.components.ComponentRegistrar" />
+117-->[com.google.firebase:firebase-storage:20.3.0] /home/nero/.gradle/caches/transforms-3/e0eca0542a5775ae91438854fc4de7b3/transformed/firebase-storage-20.3.0/AndroidManifest.xml:35:17-82
+118            <meta-data
+118-->[com.google.firebase:firebase-analytics-ktx:21.3.0] /home/nero/.gradle/caches/transforms-3/26230058690feec651d85841b1c5a904/transformed/firebase-analytics-ktx-21.3.0/AndroidManifest.xml:11:13-13:85
+119                android:name="com.google.firebase.components:com.google.firebase.analytics.ktx.FirebaseAnalyticsKtxRegistrar"
+119-->[com.google.firebase:firebase-analytics-ktx:21.3.0] /home/nero/.gradle/caches/transforms-3/26230058690feec651d85841b1c5a904/transformed/firebase-analytics-ktx-21.3.0/AndroidManifest.xml:12:17-126
+120                android:value="com.google.firebase.components.ComponentRegistrar" />
+120-->[com.google.firebase:firebase-analytics-ktx:21.3.0] /home/nero/.gradle/caches/transforms-3/26230058690feec651d85841b1c5a904/transformed/firebase-analytics-ktx-21.3.0/AndroidManifest.xml:13:17-82
+121            <meta-data
+121-->[com.google.firebase:firebase-appcheck:17.1.0] /home/nero/.gradle/caches/transforms-3/923c00c3a95d143bb0ce76c1a817dd1c/transformed/firebase-appcheck-17.1.0/AndroidManifest.xml:25:13-27:85
+122                android:name="com.google.firebase.components:com.google.firebase.appcheck.FirebaseAppCheckKtxRegistrar"
+122-->[com.google.firebase:firebase-appcheck:17.1.0] /home/nero/.gradle/caches/transforms-3/923c00c3a95d143bb0ce76c1a817dd1c/transformed/firebase-appcheck-17.1.0/AndroidManifest.xml:26:17-120
+123                android:value="com.google.firebase.components.ComponentRegistrar" />
+123-->[com.google.firebase:firebase-appcheck:17.1.0] /home/nero/.gradle/caches/transforms-3/923c00c3a95d143bb0ce76c1a817dd1c/transformed/firebase-appcheck-17.1.0/AndroidManifest.xml:27:17-82
+124            <meta-data
+124-->[com.google.firebase:firebase-appcheck:17.1.0] /home/nero/.gradle/caches/transforms-3/923c00c3a95d143bb0ce76c1a817dd1c/transformed/firebase-appcheck-17.1.0/AndroidManifest.xml:28:13-30:85
+125                android:name="com.google.firebase.components:com.google.firebase.appcheck.FirebaseAppCheckRegistrar"
+125-->[com.google.firebase:firebase-appcheck:17.1.0] /home/nero/.gradle/caches/transforms-3/923c00c3a95d143bb0ce76c1a817dd1c/transformed/firebase-appcheck-17.1.0/AndroidManifest.xml:29:17-117
+126                android:value="com.google.firebase.components.ComponentRegistrar" />
+126-->[com.google.firebase:firebase-appcheck:17.1.0] /home/nero/.gradle/caches/transforms-3/923c00c3a95d143bb0ce76c1a817dd1c/transformed/firebase-appcheck-17.1.0/AndroidManifest.xml:30:17-82
+127            <meta-data
+127-->[com.google.firebase:firebase-common-ktx:20.4.2] /home/nero/.gradle/caches/transforms-3/3d67ddf077b85e8193d2b954ef65795e/transformed/firebase-common-ktx-20.4.2/AndroidManifest.xml:12:13-14:85
+128                android:name="com.google.firebase.components:com.google.firebase.ktx.FirebaseCommonLegacyRegistrar"
+128-->[com.google.firebase:firebase-common-ktx:20.4.2] /home/nero/.gradle/caches/transforms-3/3d67ddf077b85e8193d2b954ef65795e/transformed/firebase-common-ktx-20.4.2/AndroidManifest.xml:13:17-116
+129                android:value="com.google.firebase.components.ComponentRegistrar" />
+129-->[com.google.firebase:firebase-common-ktx:20.4.2] /home/nero/.gradle/caches/transforms-3/3d67ddf077b85e8193d2b954ef65795e/transformed/firebase-common-ktx-20.4.2/AndroidManifest.xml:14:17-82
+130            <meta-data
+130-->[com.google.android.gms:play-services-measurement-api:21.3.0] /home/nero/.gradle/caches/transforms-3/29b523bdba4867fdee8e9eed5c1d7938/transformed/play-services-measurement-api-21.3.0/AndroidManifest.xml:31:13-33:85
+131                android:name="com.google.firebase.components:com.google.firebase.analytics.connector.internal.AnalyticsConnectorRegistrar"
+131-->[com.google.android.gms:play-services-measurement-api:21.3.0] /home/nero/.gradle/caches/transforms-3/29b523bdba4867fdee8e9eed5c1d7938/transformed/play-services-measurement-api-21.3.0/AndroidManifest.xml:32:17-139
+132                android:value="com.google.firebase.components.ComponentRegistrar" />
+132-->[com.google.android.gms:play-services-measurement-api:21.3.0] /home/nero/.gradle/caches/transforms-3/29b523bdba4867fdee8e9eed5c1d7938/transformed/play-services-measurement-api-21.3.0/AndroidManifest.xml:33:17-82
+133            <meta-data
+133-->[com.google.firebase:firebase-installations:17.1.4] /home/nero/.gradle/caches/transforms-3/00d6c5db0f0ec65bc3536d06d6237d76/transformed/firebase-installations-17.1.4/AndroidManifest.xml:15:13-17:85
+134                android:name="com.google.firebase.components:com.google.firebase.installations.FirebaseInstallationsRegistrar"
+134-->[com.google.firebase:firebase-installations:17.1.4] /home/nero/.gradle/caches/transforms-3/00d6c5db0f0ec65bc3536d06d6237d76/transformed/firebase-installations-17.1.4/AndroidManifest.xml:16:17-127
+135                android:value="com.google.firebase.components.ComponentRegistrar" />
+135-->[com.google.firebase:firebase-installations:17.1.4] /home/nero/.gradle/caches/transforms-3/00d6c5db0f0ec65bc3536d06d6237d76/transformed/firebase-installations-17.1.4/AndroidManifest.xml:17:17-82
+136            <meta-data
+136-->[com.google.firebase:firebase-common:20.4.2] /home/nero/.gradle/caches/transforms-3/743238af6460e3bd3b8de0879d02272f/transformed/firebase-common-20.4.2/AndroidManifest.xml:35:13-37:85
+137                android:name="com.google.firebase.components:com.google.firebase.FirebaseCommonKtxRegistrar"
+137-->[com.google.firebase:firebase-common:20.4.2] /home/nero/.gradle/caches/transforms-3/743238af6460e3bd3b8de0879d02272f/transformed/firebase-common-20.4.2/AndroidManifest.xml:36:17-109
+138                android:value="com.google.firebase.components.ComponentRegistrar" />
+138-->[com.google.firebase:firebase-common:20.4.2] /home/nero/.gradle/caches/transforms-3/743238af6460e3bd3b8de0879d02272f/transformed/firebase-common-20.4.2/AndroidManifest.xml:37:17-82
+139        </service>
+140
+141        <provider
+141-->[com.google.firebase:firebase-common:20.4.2] /home/nero/.gradle/caches/transforms-3/743238af6460e3bd3b8de0879d02272f/transformed/firebase-common-20.4.2/AndroidManifest.xml:23:9-28:39
+142            android:name="com.google.firebase.provider.FirebaseInitProvider"
+142-->[com.google.firebase:firebase-common:20.4.2] /home/nero/.gradle/caches/transforms-3/743238af6460e3bd3b8de0879d02272f/transformed/firebase-common-20.4.2/AndroidManifest.xml:24:13-77
+143            android:authorities="com.lifitness.firebaseinitprovider"
+143-->[com.google.firebase:firebase-common:20.4.2] /home/nero/.gradle/caches/transforms-3/743238af6460e3bd3b8de0879d02272f/transformed/firebase-common-20.4.2/AndroidManifest.xml:25:13-72
+144            android:directBootAware="true"
+144-->[com.google.firebase:firebase-common:20.4.2] /home/nero/.gradle/caches/transforms-3/743238af6460e3bd3b8de0879d02272f/transformed/firebase-common-20.4.2/AndroidManifest.xml:26:13-43
+145            android:exported="false"
+145-->[com.google.firebase:firebase-common:20.4.2] /home/nero/.gradle/caches/transforms-3/743238af6460e3bd3b8de0879d02272f/transformed/firebase-common-20.4.2/AndroidManifest.xml:27:13-37
+146            android:initOrder="100" />
+146-->[com.google.firebase:firebase-common:20.4.2] /home/nero/.gradle/caches/transforms-3/743238af6460e3bd3b8de0879d02272f/transformed/firebase-common-20.4.2/AndroidManifest.xml:28:13-36
+147
+148        <receiver
+148-->[com.google.android.gms:play-services-cast-framework:21.2.0] /home/nero/.gradle/caches/transforms-3/7bfa03322a05c72d0200be1f676fe85f/transformed/play-services-cast-framework-21.2.0/AndroidManifest.xml:17:9-19:40
+149            android:name="com.google.android.gms.cast.framework.media.MediaIntentReceiver"
+149-->[com.google.android.gms:play-services-cast-framework:21.2.0] /home/nero/.gradle/caches/transforms-3/7bfa03322a05c72d0200be1f676fe85f/transformed/play-services-cast-framework-21.2.0/AndroidManifest.xml:18:13-91
+150            android:exported="false" />
+150-->[com.google.android.gms:play-services-cast-framework:21.2.0] /home/nero/.gradle/caches/transforms-3/7bfa03322a05c72d0200be1f676fe85f/transformed/play-services-cast-framework-21.2.0/AndroidManifest.xml:19:13-37
+151
+152        <service
+152-->[com.google.android.gms:play-services-cast-framework:21.2.0] /home/nero/.gradle/caches/transforms-3/7bfa03322a05c72d0200be1f676fe85f/transformed/play-services-cast-framework-21.2.0/AndroidManifest.xml:21:9-24:61
+153            android:name="com.google.android.gms.cast.framework.media.MediaNotificationService"
+153-->[com.google.android.gms:play-services-cast-framework:21.2.0] /home/nero/.gradle/caches/transforms-3/7bfa03322a05c72d0200be1f676fe85f/transformed/play-services-cast-framework-21.2.0/AndroidManifest.xml:22:13-96
+154            android:exported="false"
+154-->[com.google.android.gms:play-services-cast-framework:21.2.0] /home/nero/.gradle/caches/transforms-3/7bfa03322a05c72d0200be1f676fe85f/transformed/play-services-cast-framework-21.2.0/AndroidManifest.xml:23:13-37
+155            android:foregroundServiceType="mediaPlayback" />
+155-->[com.google.android.gms:play-services-cast-framework:21.2.0] /home/nero/.gradle/caches/transforms-3/7bfa03322a05c72d0200be1f676fe85f/transformed/play-services-cast-framework-21.2.0/AndroidManifest.xml:24:13-58
+156        <service
+156-->[com.google.android.gms:play-services-cast-framework:21.2.0] /home/nero/.gradle/caches/transforms-3/7bfa03322a05c72d0200be1f676fe85f/transformed/play-services-cast-framework-21.2.0/AndroidManifest.xml:25:9-27:40
+157            android:name="com.google.android.gms.cast.framework.ReconnectionService"
+157-->[com.google.android.gms:play-services-cast-framework:21.2.0] /home/nero/.gradle/caches/transforms-3/7bfa03322a05c72d0200be1f676fe85f/transformed/play-services-cast-framework-21.2.0/AndroidManifest.xml:26:13-85
+158            android:exported="false" />
+158-->[com.google.android.gms:play-services-cast-framework:21.2.0] /home/nero/.gradle/caches/transforms-3/7bfa03322a05c72d0200be1f676fe85f/transformed/play-services-cast-framework-21.2.0/AndroidManifest.xml:27:13-37
+159
+160        <activity
+160-->[com.google.android.gms:play-services-base:18.1.0] /home/nero/.gradle/caches/transforms-3/33d04105ff530cbbc4ac7a43fc753fca/transformed/play-services-base-18.1.0/AndroidManifest.xml:20:9-22:45
+161            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+161-->[com.google.android.gms:play-services-base:18.1.0] /home/nero/.gradle/caches/transforms-3/33d04105ff530cbbc4ac7a43fc753fca/transformed/play-services-base-18.1.0/AndroidManifest.xml:20:19-85
+162            android:exported="false"
+162-->[com.google.android.gms:play-services-base:18.1.0] /home/nero/.gradle/caches/transforms-3/33d04105ff530cbbc4ac7a43fc753fca/transformed/play-services-base-18.1.0/AndroidManifest.xml:22:19-43
+163            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+163-->[com.google.android.gms:play-services-base:18.1.0] /home/nero/.gradle/caches/transforms-3/33d04105ff530cbbc4ac7a43fc753fca/transformed/play-services-base-18.1.0/AndroidManifest.xml:21:19-78
+164        <activity
+164-->[androidx.compose.ui:ui-tooling-android:1.5.3] /home/nero/.gradle/caches/transforms-3/3e51f3971472ab160cc5e2ba1b8c9abe/transformed/ui-tooling-release/AndroidManifest.xml:23:9-25:39
+165            android:name="androidx.compose.ui.tooling.PreviewActivity"
+165-->[androidx.compose.ui:ui-tooling-android:1.5.3] /home/nero/.gradle/caches/transforms-3/3e51f3971472ab160cc5e2ba1b8c9abe/transformed/ui-tooling-release/AndroidManifest.xml:24:13-71
+166            android:exported="true" />
+166-->[androidx.compose.ui:ui-tooling-android:1.5.3] /home/nero/.gradle/caches/transforms-3/3e51f3971472ab160cc5e2ba1b8c9abe/transformed/ui-tooling-release/AndroidManifest.xml:25:13-36
+167        <activity
+167-->[androidx.compose.ui:ui-test-manifest:1.5.3] /home/nero/.gradle/caches/transforms-3/22cff6f7eac49cde41ca5e11cd68acfd/transformed/ui-test-manifest-1.5.3/AndroidManifest.xml:23:9-25:39
+168            android:name="androidx.activity.ComponentActivity"
+168-->[androidx.compose.ui:ui-test-manifest:1.5.3] /home/nero/.gradle/caches/transforms-3/22cff6f7eac49cde41ca5e11cd68acfd/transformed/ui-test-manifest-1.5.3/AndroidManifest.xml:24:13-63
+169            android:exported="true" />
+169-->[androidx.compose.ui:ui-test-manifest:1.5.3] /home/nero/.gradle/caches/transforms-3/22cff6f7eac49cde41ca5e11cd68acfd/transformed/ui-test-manifest-1.5.3/AndroidManifest.xml:25:13-36
+170
+171        <provider
+171-->[androidx.emoji2:emoji2:1.4.0] /home/nero/.gradle/caches/transforms-3/1440a6e249980a92471921b165e0b01c/transformed/emoji2-1.4.0/AndroidManifest.xml:24:9-32:20
+172            android:name="androidx.startup.InitializationProvider"
+172-->[androidx.emoji2:emoji2:1.4.0] /home/nero/.gradle/caches/transforms-3/1440a6e249980a92471921b165e0b01c/transformed/emoji2-1.4.0/AndroidManifest.xml:25:13-67
+173            android:authorities="com.lifitness.androidx-startup"
+173-->[androidx.emoji2:emoji2:1.4.0] /home/nero/.gradle/caches/transforms-3/1440a6e249980a92471921b165e0b01c/transformed/emoji2-1.4.0/AndroidManifest.xml:26:13-68
+174            android:exported="false" >
+174-->[androidx.emoji2:emoji2:1.4.0] /home/nero/.gradle/caches/transforms-3/1440a6e249980a92471921b165e0b01c/transformed/emoji2-1.4.0/AndroidManifest.xml:27:13-37
+175            <meta-data
+175-->[androidx.emoji2:emoji2:1.4.0] /home/nero/.gradle/caches/transforms-3/1440a6e249980a92471921b165e0b01c/transformed/emoji2-1.4.0/AndroidManifest.xml:29:13-31:52
+176                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+176-->[androidx.emoji2:emoji2:1.4.0] /home/nero/.gradle/caches/transforms-3/1440a6e249980a92471921b165e0b01c/transformed/emoji2-1.4.0/AndroidManifest.xml:30:17-75
+177                android:value="androidx.startup" />
+177-->[androidx.emoji2:emoji2:1.4.0] /home/nero/.gradle/caches/transforms-3/1440a6e249980a92471921b165e0b01c/transformed/emoji2-1.4.0/AndroidManifest.xml:31:17-49
+178            <meta-data
+178-->[androidx.lifecycle:lifecycle-process:2.6.2] /home/nero/.gradle/caches/transforms-3/95306e78cf723f219624e67ea4a7282d/transformed/lifecycle-process-2.6.2/AndroidManifest.xml:29:13-31:52
+179                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+179-->[androidx.lifecycle:lifecycle-process:2.6.2] /home/nero/.gradle/caches/transforms-3/95306e78cf723f219624e67ea4a7282d/transformed/lifecycle-process-2.6.2/AndroidManifest.xml:30:17-78
+180                android:value="androidx.startup" />
+180-->[androidx.lifecycle:lifecycle-process:2.6.2] /home/nero/.gradle/caches/transforms-3/95306e78cf723f219624e67ea4a7282d/transformed/lifecycle-process-2.6.2/AndroidManifest.xml:31:17-49
+181            <meta-data
+181-->[androidx.profileinstaller:profileinstaller:1.3.0] /home/nero/.gradle/caches/transforms-3/0e45b4311e2f8854077ffa210d073c95/transformed/profileinstaller-1.3.0/AndroidManifest.xml:29:13-31:52
+182                android:name="androidx.profileinstaller.ProfileInstallerInitializer"
+182-->[androidx.profileinstaller:profileinstaller:1.3.0] /home/nero/.gradle/caches/transforms-3/0e45b4311e2f8854077ffa210d073c95/transformed/profileinstaller-1.3.0/AndroidManifest.xml:30:17-85
+183                android:value="androidx.startup" />
+183-->[androidx.profileinstaller:profileinstaller:1.3.0] /home/nero/.gradle/caches/transforms-3/0e45b4311e2f8854077ffa210d073c95/transformed/profileinstaller-1.3.0/AndroidManifest.xml:31:17-49
+184        </provider>
+185
+186        <receiver
+186-->[com.google.android.gms:play-services-measurement:21.3.0] /home/nero/.gradle/caches/transforms-3/10ec94a2bdf174171ad5b4985b8656ae/transformed/play-services-measurement-21.3.0/AndroidManifest.xml:29:9-33:20
+187            android:name="com.google.android.gms.measurement.AppMeasurementReceiver"
+187-->[com.google.android.gms:play-services-measurement:21.3.0] /home/nero/.gradle/caches/transforms-3/10ec94a2bdf174171ad5b4985b8656ae/transformed/play-services-measurement-21.3.0/AndroidManifest.xml:30:13-85
+188            android:enabled="true"
+188-->[com.google.android.gms:play-services-measurement:21.3.0] /home/nero/.gradle/caches/transforms-3/10ec94a2bdf174171ad5b4985b8656ae/transformed/play-services-measurement-21.3.0/AndroidManifest.xml:31:13-35
+189            android:exported="false" >
+189-->[com.google.android.gms:play-services-measurement:21.3.0] /home/nero/.gradle/caches/transforms-3/10ec94a2bdf174171ad5b4985b8656ae/transformed/play-services-measurement-21.3.0/AndroidManifest.xml:32:13-37
+190        </receiver>
+191
+192        <service
+192-->[com.google.android.gms:play-services-measurement:21.3.0] /home/nero/.gradle/caches/transforms-3/10ec94a2bdf174171ad5b4985b8656ae/transformed/play-services-measurement-21.3.0/AndroidManifest.xml:35:9-38:40
+193            android:name="com.google.android.gms.measurement.AppMeasurementService"
+193-->[com.google.android.gms:play-services-measurement:21.3.0] /home/nero/.gradle/caches/transforms-3/10ec94a2bdf174171ad5b4985b8656ae/transformed/play-services-measurement-21.3.0/AndroidManifest.xml:36:13-84
+194            android:enabled="true"
+194-->[com.google.android.gms:play-services-measurement:21.3.0] /home/nero/.gradle/caches/transforms-3/10ec94a2bdf174171ad5b4985b8656ae/transformed/play-services-measurement-21.3.0/AndroidManifest.xml:37:13-35
+195            android:exported="false" />
+195-->[com.google.android.gms:play-services-measurement:21.3.0] /home/nero/.gradle/caches/transforms-3/10ec94a2bdf174171ad5b4985b8656ae/transformed/play-services-measurement-21.3.0/AndroidManifest.xml:38:13-37
+196        <service
+196-->[com.google.android.gms:play-services-measurement:21.3.0] /home/nero/.gradle/caches/transforms-3/10ec94a2bdf174171ad5b4985b8656ae/transformed/play-services-measurement-21.3.0/AndroidManifest.xml:39:9-43:72
+197            android:name="com.google.android.gms.measurement.AppMeasurementJobService"
+197-->[com.google.android.gms:play-services-measurement:21.3.0] /home/nero/.gradle/caches/transforms-3/10ec94a2bdf174171ad5b4985b8656ae/transformed/play-services-measurement-21.3.0/AndroidManifest.xml:40:13-87
+198            android:enabled="true"
+198-->[com.google.android.gms:play-services-measurement:21.3.0] /home/nero/.gradle/caches/transforms-3/10ec94a2bdf174171ad5b4985b8656ae/transformed/play-services-measurement-21.3.0/AndroidManifest.xml:41:13-35
+199            android:exported="false"
+199-->[com.google.android.gms:play-services-measurement:21.3.0] /home/nero/.gradle/caches/transforms-3/10ec94a2bdf174171ad5b4985b8656ae/transformed/play-services-measurement-21.3.0/AndroidManifest.xml:42:13-37
+200            android:permission="android.permission.BIND_JOB_SERVICE" />
+200-->[com.google.android.gms:play-services-measurement:21.3.0] /home/nero/.gradle/caches/transforms-3/10ec94a2bdf174171ad5b4985b8656ae/transformed/play-services-measurement-21.3.0/AndroidManifest.xml:43:13-69
+201
+202        <uses-library
+202-->[androidx.window:window:1.0.0] /home/nero/.gradle/caches/transforms-3/e0e50d2b17b243e7e67a5c228e9f0900/transformed/window-1.0.0/AndroidManifest.xml:25:9-27:40
+203            android:name="androidx.window.extensions"
+203-->[androidx.window:window:1.0.0] /home/nero/.gradle/caches/transforms-3/e0e50d2b17b243e7e67a5c228e9f0900/transformed/window-1.0.0/AndroidManifest.xml:26:13-54
+204            android:required="false" />
+204-->[androidx.window:window:1.0.0] /home/nero/.gradle/caches/transforms-3/e0e50d2b17b243e7e67a5c228e9f0900/transformed/window-1.0.0/AndroidManifest.xml:27:13-37
+205        <uses-library
+205-->[androidx.window:window:1.0.0] /home/nero/.gradle/caches/transforms-3/e0e50d2b17b243e7e67a5c228e9f0900/transformed/window-1.0.0/AndroidManifest.xml:28:9-30:40
+206            android:name="androidx.window.sidecar"
+206-->[androidx.window:window:1.0.0] /home/nero/.gradle/caches/transforms-3/e0e50d2b17b243e7e67a5c228e9f0900/transformed/window-1.0.0/AndroidManifest.xml:29:13-51
+207            android:required="false" />
+207-->[androidx.window:window:1.0.0] /home/nero/.gradle/caches/transforms-3/e0e50d2b17b243e7e67a5c228e9f0900/transformed/window-1.0.0/AndroidManifest.xml:30:13-37
+208
+209        <meta-data
+209-->[com.google.android.gms:play-services-basement:18.1.0] /home/nero/.gradle/caches/transforms-3/f4dd249cad9347bc16e8ef560448cfd1/transformed/play-services-basement-18.1.0/AndroidManifest.xml:21:9-23:69
+210            android:name="com.google.android.gms.version"
+210-->[com.google.android.gms:play-services-basement:18.1.0] /home/nero/.gradle/caches/transforms-3/f4dd249cad9347bc16e8ef560448cfd1/transformed/play-services-basement-18.1.0/AndroidManifest.xml:22:13-58
+211            android:value="@integer/google_play_services_version" />
+211-->[com.google.android.gms:play-services-basement:18.1.0] /home/nero/.gradle/caches/transforms-3/f4dd249cad9347bc16e8ef560448cfd1/transformed/play-services-basement-18.1.0/AndroidManifest.xml:23:13-66
+212
+213        <receiver
+213-->[androidx.profileinstaller:profileinstaller:1.3.0] /home/nero/.gradle/caches/transforms-3/0e45b4311e2f8854077ffa210d073c95/transformed/profileinstaller-1.3.0/AndroidManifest.xml:34:9-52:20
+214            android:name="androidx.profileinstaller.ProfileInstallReceiver"
+214-->[androidx.profileinstaller:profileinstaller:1.3.0] /home/nero/.gradle/caches/transforms-3/0e45b4311e2f8854077ffa210d073c95/transformed/profileinstaller-1.3.0/AndroidManifest.xml:35:13-76
+215            android:directBootAware="false"
+215-->[androidx.profileinstaller:profileinstaller:1.3.0] /home/nero/.gradle/caches/transforms-3/0e45b4311e2f8854077ffa210d073c95/transformed/profileinstaller-1.3.0/AndroidManifest.xml:36:13-44
+216            android:enabled="true"
+216-->[androidx.profileinstaller:profileinstaller:1.3.0] /home/nero/.gradle/caches/transforms-3/0e45b4311e2f8854077ffa210d073c95/transformed/profileinstaller-1.3.0/AndroidManifest.xml:37:13-35
+217            android:exported="true"
+217-->[androidx.profileinstaller:profileinstaller:1.3.0] /home/nero/.gradle/caches/transforms-3/0e45b4311e2f8854077ffa210d073c95/transformed/profileinstaller-1.3.0/AndroidManifest.xml:38:13-36
+218            android:permission="android.permission.DUMP" >
+218-->[androidx.profileinstaller:profileinstaller:1.3.0] /home/nero/.gradle/caches/transforms-3/0e45b4311e2f8854077ffa210d073c95/transformed/profileinstaller-1.3.0/AndroidManifest.xml:39:13-57
+219            <intent-filter>
+219-->[androidx.profileinstaller:profileinstaller:1.3.0] /home/nero/.gradle/caches/transforms-3/0e45b4311e2f8854077ffa210d073c95/transformed/profileinstaller-1.3.0/AndroidManifest.xml:40:13-42:29
+220                <action android:name="androidx.profileinstaller.action.INSTALL_PROFILE" />
+220-->[androidx.profileinstaller:profileinstaller:1.3.0] /home/nero/.gradle/caches/transforms-3/0e45b4311e2f8854077ffa210d073c95/transformed/profileinstaller-1.3.0/AndroidManifest.xml:41:17-91
+220-->[androidx.profileinstaller:profileinstaller:1.3.0] /home/nero/.gradle/caches/transforms-3/0e45b4311e2f8854077ffa210d073c95/transformed/profileinstaller-1.3.0/AndroidManifest.xml:41:25-88
+221            </intent-filter>
+222            <intent-filter>
+222-->[androidx.profileinstaller:profileinstaller:1.3.0] /home/nero/.gradle/caches/transforms-3/0e45b4311e2f8854077ffa210d073c95/transformed/profileinstaller-1.3.0/AndroidManifest.xml:43:13-45:29
+223                <action android:name="androidx.profileinstaller.action.SKIP_FILE" />
+223-->[androidx.profileinstaller:profileinstaller:1.3.0] /home/nero/.gradle/caches/transforms-3/0e45b4311e2f8854077ffa210d073c95/transformed/profileinstaller-1.3.0/AndroidManifest.xml:44:17-85
+223-->[androidx.profileinstaller:profileinstaller:1.3.0] /home/nero/.gradle/caches/transforms-3/0e45b4311e2f8854077ffa210d073c95/transformed/profileinstaller-1.3.0/AndroidManifest.xml:44:25-82
+224            </intent-filter>
+225            <intent-filter>
+225-->[androidx.profileinstaller:profileinstaller:1.3.0] /home/nero/.gradle/caches/transforms-3/0e45b4311e2f8854077ffa210d073c95/transformed/profileinstaller-1.3.0/AndroidManifest.xml:46:13-48:29
+226                <action android:name="androidx.profileinstaller.action.SAVE_PROFILE" />
+226-->[androidx.profileinstaller:profileinstaller:1.3.0] /home/nero/.gradle/caches/transforms-3/0e45b4311e2f8854077ffa210d073c95/transformed/profileinstaller-1.3.0/AndroidManifest.xml:47:17-88
+226-->[androidx.profileinstaller:profileinstaller:1.3.0] /home/nero/.gradle/caches/transforms-3/0e45b4311e2f8854077ffa210d073c95/transformed/profileinstaller-1.3.0/AndroidManifest.xml:47:25-85
+227            </intent-filter>
+228            <intent-filter>
+228-->[androidx.profileinstaller:profileinstaller:1.3.0] /home/nero/.gradle/caches/transforms-3/0e45b4311e2f8854077ffa210d073c95/transformed/profileinstaller-1.3.0/AndroidManifest.xml:49:13-51:29
+229                <action android:name="androidx.profileinstaller.action.BENCHMARK_OPERATION" />
+229-->[androidx.profileinstaller:profileinstaller:1.3.0] /home/nero/.gradle/caches/transforms-3/0e45b4311e2f8854077ffa210d073c95/transformed/profileinstaller-1.3.0/AndroidManifest.xml:50:17-95
+229-->[androidx.profileinstaller:profileinstaller:1.3.0] /home/nero/.gradle/caches/transforms-3/0e45b4311e2f8854077ffa210d073c95/transformed/profileinstaller-1.3.0/AndroidManifest.xml:50:25-92
+230            </intent-filter>
+231        </receiver>
+232
+233        <service
+233-->[com.google.android.datatransport:transport-backend-cct:3.1.3] /home/nero/.gradle/caches/transforms-3/ad51286c88ef9b9268c63e26dfc81a84/transformed/transport-backend-cct-3.1.3/AndroidManifest.xml:29:9-35:19
+234            android:name="com.google.android.datatransport.runtime.backends.TransportBackendDiscovery"
+234-->[com.google.android.datatransport:transport-backend-cct:3.1.3] /home/nero/.gradle/caches/transforms-3/ad51286c88ef9b9268c63e26dfc81a84/transformed/transport-backend-cct-3.1.3/AndroidManifest.xml:30:13-103
+235            android:exported="false" >
+235-->[com.google.android.datatransport:transport-backend-cct:3.1.3] /home/nero/.gradle/caches/transforms-3/ad51286c88ef9b9268c63e26dfc81a84/transformed/transport-backend-cct-3.1.3/AndroidManifest.xml:31:13-37
+236            <meta-data
+236-->[com.google.android.datatransport:transport-backend-cct:3.1.3] /home/nero/.gradle/caches/transforms-3/ad51286c88ef9b9268c63e26dfc81a84/transformed/transport-backend-cct-3.1.3/AndroidManifest.xml:32:13-34:39
+237                android:name="backend:com.google.android.datatransport.cct.CctBackendFactory"
+237-->[com.google.android.datatransport:transport-backend-cct:3.1.3] /home/nero/.gradle/caches/transforms-3/ad51286c88ef9b9268c63e26dfc81a84/transformed/transport-backend-cct-3.1.3/AndroidManifest.xml:33:17-94
+238                android:value="cct" />
+238-->[com.google.android.datatransport:transport-backend-cct:3.1.3] /home/nero/.gradle/caches/transforms-3/ad51286c88ef9b9268c63e26dfc81a84/transformed/transport-backend-cct-3.1.3/AndroidManifest.xml:34:17-36
+239        </service>
+240        <service
+240-->[com.google.android.datatransport:transport-runtime:3.1.3] /home/nero/.gradle/caches/transforms-3/4b42e09efd7535d6b6b1dc621694bba1/transformed/transport-runtime-3.1.3/AndroidManifest.xml:26:9-30:19
+241            android:name="com.google.android.datatransport.runtime.scheduling.jobscheduling.JobInfoSchedulerService"
+241-->[com.google.android.datatransport:transport-runtime:3.1.3] /home/nero/.gradle/caches/transforms-3/4b42e09efd7535d6b6b1dc621694bba1/transformed/transport-runtime-3.1.3/AndroidManifest.xml:27:13-117
+242            android:exported="false"
+242-->[com.google.android.datatransport:transport-runtime:3.1.3] /home/nero/.gradle/caches/transforms-3/4b42e09efd7535d6b6b1dc621694bba1/transformed/transport-runtime-3.1.3/AndroidManifest.xml:28:13-37
+243            android:permission="android.permission.BIND_JOB_SERVICE" >
+243-->[com.google.android.datatransport:transport-runtime:3.1.3] /home/nero/.gradle/caches/transforms-3/4b42e09efd7535d6b6b1dc621694bba1/transformed/transport-runtime-3.1.3/AndroidManifest.xml:29:13-69
+244        </service>
+245
+246        <receiver
+246-->[com.google.android.datatransport:transport-runtime:3.1.3] /home/nero/.gradle/caches/transforms-3/4b42e09efd7535d6b6b1dc621694bba1/transformed/transport-runtime-3.1.3/AndroidManifest.xml:32:9-34:40
+247            android:name="com.google.android.datatransport.runtime.scheduling.jobscheduling.AlarmManagerSchedulerBroadcastReceiver"
+247-->[com.google.android.datatransport:transport-runtime:3.1.3] /home/nero/.gradle/caches/transforms-3/4b42e09efd7535d6b6b1dc621694bba1/transformed/transport-runtime-3.1.3/AndroidManifest.xml:33:13-132
+248            android:exported="false" />
+248-->[com.google.android.datatransport:transport-runtime:3.1.3] /home/nero/.gradle/caches/transforms-3/4b42e09efd7535d6b6b1dc621694bba1/transformed/transport-runtime-3.1.3/AndroidManifest.xml:34:13-37
+249    </application>
+250
+251</manifest>

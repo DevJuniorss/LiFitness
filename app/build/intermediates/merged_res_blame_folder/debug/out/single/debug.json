@@ -1,0 +1,158 @@
+[
+    {
+        "merged": "com.lifitness.app-merged_res-86:/drawable_active.png.flat",
+        "source": "com.lifitness.app-main-88:/drawable/active.png"
+    },
+    {
+        "merged": "com.lifitness.app-merged_res-86:/drawable_squatting_description.jpg.flat",
+        "source": "com.lifitness.app-main-88:/drawable/squatting_description.jpg"
+    },
+    {
+        "merged": "com.lifitness.app-merged_res-86:/mipmap-xxhdpi_lifitness_icon.webp.flat",
+        "source": "com.lifitness.app-main-88:/mipmap-xxhdpi/lifitness_icon.webp"
+    },
+    {
+        "merged": "com.lifitness.app-merged_res-86:/drawable_lifitnesslogo.png.flat",
+        "source": "com.lifitness.app-main-88:/drawable/lifitnesslogo.png"
+    },
+    {
+        "merged": "com.lifitness.app-merged_res-86:/mipmap-xhdpi_lifitness_icon.webp.flat",
+        "source": "com.lifitness.app-main-88:/mipmap-xhdpi/lifitness_icon.webp"
+    },
+    {
+        "merged": "com.lifitness.app-merged_res-86:/drawable_not_enough_guidance.png.flat",
+        "source": "com.lifitness.app-main-88:/drawable/not_enough_guidance.png"
+    },
+    {
+        "merged": "com.lifitness.app-merged_res-86:/mipmap-anydpi-v26_lifitness_icon_round.xml.flat",
+        "source": "com.lifitness.app-main-88:/mipmap-anydpi-v26/lifitness_icon_round.xml"
+    },
+    {
+        "merged": "com.lifitness.app-merged_res-86:/xml_backup_rules.xml.flat",
+        "source": "com.lifitness.app-main-88:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.lifitness.app-merged_res-86:/drawable_facebook_logo.xml.flat",
+        "source": "com.lifitness.app-main-88:/drawable/facebook_logo.xml"
+    },
+    {
+        "merged": "com.lifitness.app-merged_res-86:/mipmap-xxxhdpi_lifitness_icon.webp.flat",
+        "source": "com.lifitness.app-main-88:/mipmap-xxxhdpi/lifitness_icon.webp"
+    },
+    {
+        "merged": "com.lifitness.app-merged_res-86:/drawable_exercises_perfoming.png.flat",
+        "source": "com.lifitness.app-main-88:/drawable/exercises_perfoming.png"
+    },
+    {
+        "merged": "com.lifitness.app-merged_res-86:/drawable_image_16.png.flat",
+        "source": "com.lifitness.app-main-88:/drawable/image_16.png"
+    },
+    {
+        "merged": "com.lifitness.app-merged_res-86:/mipmap-hdpi_lifitness_icon_round.webp.flat",
+        "source": "com.lifitness.app-main-88:/mipmap-hdpi/lifitness_icon_round.webp"
+    },
+    {
+        "merged": "com.lifitness.app-merged_res-86:/drawable_busy_schedule.png.flat",
+        "source": "com.lifitness.app-main-88:/drawable/busy_schedule.png"
+    },
+    {
+        "merged": "com.lifitness.app-merged_res-86:/drawable_frame_3.png.flat",
+        "source": "com.lifitness.app-main-88:/drawable/frame_3.png"
+    },
+    {
+        "merged": "com.lifitness.app-merged_res-86:/mipmap-hdpi_lifitness_icon.webp.flat",
+        "source": "com.lifitness.app-main-88:/mipmap-hdpi/lifitness_icon.webp"
+    },
+    {
+        "merged": "com.lifitness.app-merged_res-86:/drawable_to_lose_weight.png.flat",
+        "source": "com.lifitness.app-main-88:/drawable/to_lose_weight.png"
+    },
+    {
+        "merged": "com.lifitness.app-merged_res-86:/xml_data_extraction_rules.xml.flat",
+        "source": "com.lifitness.app-main-88:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.lifitness.app-merged_res-86:/drawable_facebook__logo_2.xml.flat",
+        "source": "com.lifitness.app-main-88:/drawable/facebook__logo_2.xml"
+    },
+    {
+        "merged": "com.lifitness.app-merged_res-86:/drawable_lifitness_icon_foreground.xml.flat",
+        "source": "com.lifitness.app-main-88:/drawable/lifitness_icon_foreground.xml"
+    },
+    {
+        "merged": "com.lifitness.app-merged_res-86:/mipmap-xhdpi_lifitness_icon_round.webp.flat",
+        "source": "com.lifitness.app-main-88:/mipmap-xhdpi/lifitness_icon_round.webp"
+    },
+    {
+        "merged": "com.lifitness.app-merged_res-86:/drawable_slightly_active.png.flat",
+        "source": "com.lifitness.app-main-88:/drawable/slightly_active.png"
+    },
+    {
+        "merged": "com.lifitness.app-merged_res-86:/drawable_to_gain_lean_mass.png.flat",
+        "source": "com.lifitness.app-main-88:/drawable/to_gain_lean_mass.png"
+    },
+    {
+        "merged": "com.lifitness.app-merged_res-86:/drawable_no_motivation.png.flat",
+        "source": "com.lifitness.app-main-88:/drawable/no_motivation.png"
+    },
+    {
+        "merged": "com.lifitness.app-merged_res-86:/drawable_very_active.png.flat",
+        "source": "com.lifitness.app-main-88:/drawable/very_active.png"
+    },
+    {
+        "merged": "com.lifitness.app-merged_res-86:/mipmap-mdpi_lifitness_icon_round.webp.flat",
+        "source": "com.lifitness.app-main-88:/mipmap-mdpi/lifitness_icon_round.webp"
+    },
+    {
+        "merged": "com.lifitness.app-merged_res-86:/drawable_to_be_healthy.png.flat",
+        "source": "com.lifitness.app-main-88:/drawable/to_be_healthy.png"
+    },
+    {
+        "merged": "com.lifitness.app-merged_res-86:/drawable_ic_google_logo.xml.flat",
+        "source": "com.lifitness.app-main-88:/drawable/ic_google_logo.xml"
+    },
+    {
+        "merged": "com.lifitness.app-merged_res-86:/mipmap-mdpi_lifitness_icon.webp.flat",
+        "source": "com.lifitness.app-main-88:/mipmap-mdpi/lifitness_icon.webp"
+    },
+    {
+        "merged": "com.lifitness.app-merged_res-86:/drawable_lack_of_knowledge.png.flat",
+        "source": "com.lifitness.app-main-88:/drawable/lack_of_knowledge.png"
+    },
+    {
+        "merged": "com.lifitness.app-merged_res-86:/drawable_frame_leg.png.flat",
+        "source": "com.lifitness.app-main-88:/drawable/frame_leg.png"
+    },
+    {
+        "merged": "com.lifitness.app-merged_res-86:/drawable_nutricionist.jpg.flat",
+        "source": "com.lifitness.app-main-88:/drawable/nutricionist.jpg"
+    },
+    {
+        "merged": "com.lifitness.app-merged_res-86:/mipmap-xxxhdpi_lifitness_icon_round.webp.flat",
+        "source": "com.lifitness.app-main-88:/mipmap-xxxhdpi/lifitness_icon_round.webp"
+    },
+    {
+        "merged": "com.lifitness.app-merged_res-86:/drawable_frame_bean.png.flat",
+        "source": "com.lifitness.app-main-88:/drawable/frame_bean.png"
+    },
+    {
+        "merged": "com.lifitness.app-merged_res-86:/mipmap-xxhdpi_lifitness_icon_round.webp.flat",
+        "source": "com.lifitness.app-main-88:/mipmap-xxhdpi/lifitness_icon_round.webp"
+    },
+    {
+        "merged": "com.lifitness.app-merged_res-86:/drawable_healthy_diet.png.flat",
+        "source": "com.lifitness.app-main-88:/drawable/healthy_diet.png"
+    },
+    {
+        "merged": "com.lifitness.app-merged_res-86:/mipmap-anydpi-v26_lifitness_icon.xml.flat",
+        "source": "com.lifitness.app-main-88:/mipmap-anydpi-v26/lifitness_icon.xml"
+    },
+    {
+        "merged": "com.lifitness.app-merged_res-86:/drawable_sedentary.png.flat",
+        "source": "com.lifitness.app-main-88:/drawable/sedentary.png"
+    },
+    {
+        "merged": "com.lifitness.app-merged_res-86:/drawable_to_become_strong.png.flat",
+        "source": "com.lifitness.app-main-88:/drawable/to_become_strong.png"
+    }
+]
