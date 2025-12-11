@@ -40,7 +40,6 @@
         android:label="@string/app_name"
         android:roundIcon="@mipmap/lifitness_icon_round"
         android:supportsRtl="true"
-        android:testOnly="true"
         android:theme="@style/Theme.Lifitness" >
         <activity
             android:name="com.lifitness.MainActivity"
