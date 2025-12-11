@@ -1,0 +1,134 @@
+12-10 23:35:40.183 21370 21413 I TestRunner: started: testProfileImageIsDisplayed(com.lifitness.composables.profile.ImageTest)
+12-10 23:35:40.197 21370 21413 D IdlingRegistry: Registering idling resources: [androidx.compose.ui.test.junit4.EspressoLink@9d4d043]
+12-10 23:35:40.206 21370 21413 W Settings: Setting always_finish_activities has moved from android.provider.Settings.System to android.provider.Settings.Global, returning read-only value.
+12-10 23:35:40.235  1160  1160 I QTI PowerHAL: Power setBoost: 0, duration: 0
+12-10 23:35:40.260  2056  2620 D WifiStaIfaceHidlImpl: getCachedScanData is not implemented by HIDL
+12-10 23:35:40.295  3874  3874 D GameMode: isScreenUnlocked: true
+12-10 23:35:40.297  3874  3874 D GameMode: exiting game mode
+12-10 23:35:40.300  2735  2749 I ndroid.systemu: NativeAlloc concurrent copying GC freed 3086(240KB) AllocSpace objects, 9(2100KB) LOS objects, 49% free, 8689KB/16MB, paused 254us total 190.121ms
+12-10 23:35:40.302  2735  2754 W System  : A resource failed to call release.
+12-10 23:35:40.305  2735  2754 W System  : A resource failed to call release.
+12-10 23:35:40.306  3874  3874 D GameMode: reset:
+12-10 23:35:40.306  2056  2072 I system_server: NativeAlloc concurrent copying GC freed 214402(9274KB) AllocSpace objects, 37(1124KB) LOS objects, 30% free, 55MB/79MB, paused 355us total 800.791ms
+12-10 23:35:40.313  3874  3874 D MFL     : Always in FF not supported; Disabling always in freeform
+12-10 23:35:40.313  3874  5323 D MFL     : getFreeFormPackages: is blank
+12-10 23:35:40.321  1160  1160 I QTI PowerHAL: Power setMode: 5 to: 1
+12-10 23:35:40.326  2056  2074 W System  : A resource failed to call release.
+12-10 23:35:40.327  2056  2074 W System  : A resource failed to call release.
+12-10 23:35:40.327  3874  5323 D MFL     : getDensityIndependentPixel: smallest width = 411
+12-10 23:35:40.327  2056  2074 W System  : A resource failed to call release.
+12-10 23:35:40.327  3874  5323 D MFL     : getLaunchRect: margin = 0
+12-10 23:35:40.328  2056  2074 W System  : A resource failed to call release.
+12-10 23:35:40.331  2056  2074 I chatty  : uid=1000(system) FinalizerDaemon identical 4 lines
+12-10 23:35:40.331  2056  2074 W System  : A resource failed to call release.
+12-10 23:35:40.340  4917  5857 W DynamicVolume-DynamicVolumeService: onForegroundActivitiesChanged, record latest volume: a[packageName=com.motorola.launcher3, time=Wed Dec 10 23:35:40 GMT-03:00 2025, startVolume=11]
+12-10 23:35:40.341  2056  2074 W System  : A resource failed to call release.
+12-10 23:35:40.359  2056  2074 I chatty  : uid=1000(system) FinalizerDaemon identical 14 lines
+12-10 23:35:40.359  2056  2074 W System  : A resource failed to call release.
+12-10 23:35:40.359 14719 14719 I bort    : onStart
+12-10 23:35:40.359  2056  2074 W System  : A resource failed to call release.
+12-10 23:35:40.366  2056  2074 I chatty  : uid=1000(system) FinalizerDaemon identical 4 lines
+12-10 23:35:40.366  2056  2074 W System  : A resource failed to call release.
+12-10 23:35:40.394 14719 14719 I bmhc    : (REDACTED) [%s] onStart()
+12-10 23:35:40.394 14719 14719 I bmjj    : Reloading theme data
+12-10 23:35:40.406 14719 14719 I bort    : onResume
+12-10 23:35:40.463  3874  3874 D GameMode: isScreenUnlocked: true
+12-10 23:35:40.463  3874  3874 D GameMode: exiting game mode
+12-10 23:35:40.479 21370 21370 D LifecycleMonitor: Lifecycle status change: androidx.activity.ComponentActivity@75d416 in: PRE_ON_CREATE
+12-10 23:35:40.480 21370 21370 V ActivityScenario: Activity lifecycle changed event received but ignored because the reported transition was not ON_CREATE while the last known transition was PRE_ON_CREATE
+12-10 23:35:40.494 20683 20683 W soft_error.cpp: [pando::graphql::PandoGraphQLRequestHybrid::assertValid] : Using a PandoGraphQLRequest after it has been consumed. Query name is IGSharedAccountsQuery
+12-10 23:35:40.497 14719 14719 I bort    : onPause
+12-10 23:35:40.500 21370 21370 D LifecycleMonitor: Lifecycle status change: androidx.activity.ComponentActivity@75d416 in: CREATED
+12-10 23:35:40.500 14719 14719 I bort    : onStop
+12-10 23:35:40.501 21370 21370 V ActivityScenario: Update currentActivityStage to CREATED, currentActivity=androidx.activity.ComponentActivity@75d416
+12-10 23:35:40.503  3874  3874 D GameMode: reset:
+12-10 23:35:40.504  4917  5857 W DynamicVolume-DynamicVolumeService: onForegroundActivitiesChanged, record latest volume: a[packageName=com.lifitness, time=Wed Dec 10 23:35:40 GMT-03:00 2025, startVolume=11]
+12-10 23:35:40.522 21370 21370 D LifecycleMonitor: Lifecycle status change: androidx.activity.ComponentActivity@75d416 in: STARTED
+12-10 23:35:40.525 21370 21370 V ActivityScenario: Update currentActivityStage to STARTED, currentActivity=androidx.activity.ComponentActivity@75d416
+12-10 23:35:40.525  3874  3874 D MFL     : Always in FF not supported; Disabling always in freeform
+12-10 23:35:40.526  3874  5323 D MFL     : getFreeFormPackages: is blank
+12-10 23:35:40.527  3874  5323 D MFL     : getDensityIndependentPixel: smallest width = 411
+12-10 23:35:40.527  3874  5323 D MFL     : getLaunchRect: margin = 0
+12-10 23:35:40.529 21370 21370 D LifecycleMonitor: Lifecycle status change: androidx.activity.ComponentActivity@75d416 in: RESUMED
+12-10 23:35:40.529 21370 21370 V ActivityScenario: Update currentActivityStage to RESUMED, currentActivity=androidx.activity.ComponentActivity@75d416
+12-10 23:35:40.594  2056  2214 D ArtManagerInternalImpl: /data/misc/iorapd/com.lifitness/1/androidx.activity.ComponentActivity/compiled_traces/compiled_trace.pb doesn't exist
+12-10 23:35:40.595  2056  2214 I ActivityTaskManager: Displayed com.lifitness/androidx.activity.ComponentActivity: +280ms
+12-10 23:35:40.596  1160  1160 I QTI PowerHAL: Power setMode: 5 to: 0
+12-10 23:35:40.602  1160  1160 I QTI PowerHAL: Power setBoost: 0, duration: 0
+12-10 23:35:40.631 23314 21534 I NetworkScheduler: (REDACTED) Error inserting %s
+12-10 23:35:40.710 21781 21843 I TetheringManager: registerTetheringEventCallback:com.google.android.youtube
+12-10 23:35:40.792 21370 21370 I TetheringManager: registerTetheringEventCallback:com.lifitness
+12-10 23:35:40.830  2056  2684 D Ethernet: got request NetworkRequest [ TRACK_DEFAULT id=18457, [ Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED Uid: 10226 AdministratorUids: [] RequestorUid: 10226 RequestorPackageName: com.google.android.youtube] ] with score 60 and providerId 5
+12-10 23:35:40.831  2056  2620 D UntrustedWifiNetworkFactory: got request NetworkRequest [ TRACK_DEFAULT id=18457, [ Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED Uid: 10226 AdministratorUids: [] RequestorUid: 10226 RequestorPackageName: com.google.android.youtube] ] with score 60 and providerId 5
+12-10 23:35:40.831  2056  2620 D MultiInternetWifiNetworkFactory: got request NetworkRequest [ TRACK_DEFAULT id=18457, [ Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED Uid: 10226 AdministratorUids: [] RequestorUid: 10226 RequestorPackageName: com.google.android.youtube] ] with score 60 and providerId 5
+12-10 23:35:40.831  2056  2620 D WifiNetworkFactory: got request NetworkRequest [ TRACK_DEFAULT id=18457, [ Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED Uid: 10226 AdministratorUids: [] RequestorUid: 10226 RequestorPackageName: com.google.android.youtube] ] with score 60 and providerId 5
+12-10 23:35:40.831  2056  2620 D RestrictedWifiNetworkFactory: got request NetworkRequest [ TRACK_DEFAULT id=18457, [ Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED Uid: 10226 AdministratorUids: [] RequestorUid: 10226 RequestorPackageName: com.google.android.youtube] ] with score 60 and providerId 5
+12-10 23:35:40.831  2056  2620 D OemPaidWifiNetworkFactory: got request NetworkRequest [ TRACK_DEFAULT id=18457, [ Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED Uid: 10226 AdministratorUids: [] RequestorUid: 10226 RequestorPackageName: com.google.android.youtube] ] with score 60 and providerId 5
+12-10 23:35:40.832  3050  3050 D PhoneSwitcherNetworkRequstListener: got request NetworkRequest [ TRACK_DEFAULT id=18457, [ Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED Uid: 10226 AdministratorUids: [] RequestorUid: 10226 RequestorPackageName: com.google.android.youtube] ] with score 60 and providerId 5
+12-10 23:35:40.870  2056  2684 D Ethernet: got request NetworkRequest [ TRACK_DEFAULT id=18459, [ Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED Uid: 10226 AdministratorUids: [] RequestorUid: 10226 RequestorPackageName: com.google.android.youtube] ] with score 60 and providerId 5
+12-10 23:35:40.871  3050  3050 D PhoneSwitcherNetworkRequstListener: got request NetworkRequest [ TRACK_DEFAULT id=18459, [ Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED Uid: 10226 AdministratorUids: [] RequestorUid: 10226 RequestorPackageName: com.google.android.youtube] ] with score 60 and providerId 5
+12-10 23:35:40.872  2056  2620 D UntrustedWifiNetworkFactory: got request NetworkRequest [ TRACK_DEFAULT id=18459, [ Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED Uid: 10226 AdministratorUids: [] RequestorUid: 10226 RequestorPackageName: com.google.android.youtube] ] with score 60 and providerId 5
+12-10 23:35:40.872  2056  2620 D MultiInternetWifiNetworkFactory: got request NetworkRequest [ TRACK_DEFAULT id=18459, [ Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED Uid: 10226 AdministratorUids: [] RequestorUid: 10226 RequestorPackageName: com.google.android.youtube] ] with score 60 and providerId 5
+12-10 23:35:40.872  2056  2620 D WifiNetworkFactory: got request NetworkRequest [ TRACK_DEFAULT id=18459, [ Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED Uid: 10226 AdministratorUids: [] RequestorUid: 10226 RequestorPackageName: com.google.android.youtube] ] with score 60 and providerId 5
+12-10 23:35:40.872  2056  2620 D RestrictedWifiNetworkFactory: got request NetworkRequest [ TRACK_DEFAULT id=18459, [ Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED Uid: 10226 AdministratorUids: [] RequestorUid: 10226 RequestorPackageName: com.google.android.youtube] ] with score 60 and providerId 5
+12-10 23:35:40.873  2056  2620 D OemPaidWifiNetworkFactory: got request NetworkRequest [ TRACK_DEFAULT id=18459, [ Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED Uid: 10226 AdministratorUids: [] RequestorUid: 10226 RequestorPackageName: com.google.android.youtube] ] with score 60 and providerId 5
+12-10 23:35:40.875 23314 23314 D BoundBrokerSvc: onRebind: Intent { act=com.google.android.gms.auth.aang.events.services.START dat=chimera-action: cmp=com.google.android.gms/.chimera.PersistentApiService }
+12-10 23:35:40.897 23314 23314 D BoundBrokerSvc: onRebind: Intent { act=com.google.android.gms.common.telemetry.service.START dat=chimera-action: cmp=com.google.android.gms/.chimera.PersistentApiService }
+12-10 23:35:40.914  2056  2620 D UntrustedWifiNetworkFactory: got request NetworkRequest [ TRACK_DEFAULT id=18460, [ Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED Uid: 10226 AdministratorUids: [] RequestorUid: 10226 RequestorPackageName: com.google.android.youtube] ] with score 60 and providerId 5
+12-10 23:35:40.914  2056  2620 D MultiInternetWifiNetworkFactory: got request NetworkRequest [ TRACK_DEFAULT id=18460, [ Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED Uid: 10226 AdministratorUids: [] RequestorUid: 10226 RequestorPackageName: com.google.android.youtube] ] with score 60 and providerId 5
+12-10 23:35:40.914  2056  2684 D Ethernet: got request NetworkRequest [ TRACK_DEFAULT id=18460, [ Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED Uid: 10226 AdministratorUids: [] RequestorUid: 10226 RequestorPackageName: com.google.android.youtube] ] with score 60 and providerId 5
+12-10 23:35:40.914  3050  3050 D PhoneSwitcherNetworkRequstListener: got request NetworkRequest [ TRACK_DEFAULT id=18460, [ Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED Uid: 10226 AdministratorUids: [] RequestorUid: 10226 RequestorPackageName: com.google.android.youtube] ] with score 60 and providerId 5
+12-10 23:35:40.915  2056  2620 D WifiNetworkFactory: got request NetworkRequest [ TRACK_DEFAULT id=18460, [ Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED Uid: 10226 AdministratorUids: [] RequestorUid: 10226 RequestorPackageName: com.google.android.youtube] ] with score 60 and providerId 5
+12-10 23:35:40.916  2056  2620 D RestrictedWifiNetworkFactory: got request NetworkRequest [ TRACK_DEFAULT id=18460, [ Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED Uid: 10226 AdministratorUids: [] RequestorUid: 10226 RequestorPackageName: com.google.android.youtube] ] with score 60 and providerId 5
+12-10 23:35:40.916  2056  2620 D OemPaidWifiNetworkFactory: got request NetworkRequest [ TRACK_DEFAULT id=18460, [ Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED Uid: 10226 AdministratorUids: [] RequestorUid: 10226 RequestorPackageName: com.google.android.youtube] ] with score 60 and providerId 5
+12-10 23:35:40.933  4079  4079 I GoogleInputMethodService: GoogleInputMethodService.onFinishInput():2097
+12-10 23:35:40.949  4079  4079 I Module  : DeviceLockedStatusModuleProvider$Module.updateDeviceLockedStatus():103 repeatCheckTimes = 0, locked = false
+12-10 23:35:40.951  4079  4079 I GoogleInputMethodService: GoogleInputMethodService.onStartInput():1347 onStartInput(EditorInfo{EditorInfo{packageName=com.lifitness, inputType=0, inputTypeString=NULL, enableLearning=false, autoCorrection=false, autoComplete=false, imeOptions=0, privateImeOptions=null, actionName=UNSPECIFIED, actionLabel=null, initialSelStart=-1, initialSelEnd=-1, initialCapsMode=0, label=null, fieldId=-1, fieldName=null, extras=null, hintText=null, hintLocales=[]}}, false)
+12-10 23:35:40.963 21781 21842 D CompatibilityChangeReporter: Compat change id reported: 147600208; UID 10226; state: ENABLED
+12-10 23:35:40.969  4079  4079 I Module  : DeviceLockedStatusModuleProvider$Module.updateDeviceLockedStatus():103 repeatCheckTimes = 1, locked = false
+12-10 23:35:41.063  1160  1160 I QTI PowerHAL: Power setMode: 5 to: 1
+12-10 23:35:41.086 21370 21370 D LifecycleMonitor: Lifecycle status change: androidx.activity.ComponentActivity@75d416 in: PAUSED
+12-10 23:35:41.087 21370 21370 V ActivityScenario: Update currentActivityStage to PAUSED, currentActivity=androidx.activity.ComponentActivity@75d416
+12-10 23:35:41.091  1427  1427 W ServiceManager: Permission failure: android.permission.SYSTEM_CAMERA from uid=10226 pid=21781
+12-10 23:35:41.102  1427  1427 I chatty  : uid=1047(cameraserver) /system/bin/cameraserver identical 1 line
+12-10 23:35:41.104  1427  1427 W ServiceManager: Permission failure: android.permission.SYSTEM_CAMERA from uid=10226 pid=21781
+12-10 23:35:41.107  3874  3874 D GameMode: isScreenUnlocked: true
+12-10 23:35:41.110  3874  3874 D GameMode: exiting game mode
+12-10 23:35:41.114  1427  1427 W ServiceManager: Permission failure: android.permission.SYSTEM_CAMERA from uid=10226 pid=21781
+12-10 23:35:41.129  4917  5858 W DynamicVolume-DynamicVolumeService: onForegroundActivitiesChanged, record latest volume: a[packageName=com.lifitness.test, time=Wed Dec 10 23:35:41 GMT-03:00 2025, startVolume=11]
+12-10 23:35:41.129  3874  3874 D GameMode: reset:
+12-10 23:35:41.153  1427  1427 W ServiceManager: Permission failure: android.permission.SYSTEM_CAMERA from uid=10226 pid=21781
+12-10 23:35:41.156  3874  3874 D MFL     : Always in FF not supported; Disabling always in freeform
+12-10 23:35:41.157  3874  5325 D MFL     : getFreeFormPackages: is blank
+12-10 23:35:41.163  3874  5325 D MFL     : getDensityIndependentPixel: smallest width = 411
+12-10 23:35:41.163  3874  5325 D MFL     : getLaunchRect: margin = 0
+12-10 23:35:41.192 21370 21370 D LifecycleMonitor: Lifecycle status change: androidx.activity.ComponentActivity@75d416 in: STOPPED
+12-10 23:35:41.193 21370 21370 V ActivityScenario: Update currentActivityStage to STOPPED, currentActivity=androidx.activity.ComponentActivity@75d416
+12-10 23:35:41.209 21370 21876 W com.lifitness: Accessing hidden method Ldalvik/system/CloseGuard;->get()Ldalvik/system/CloseGuard; (greylist,core-platform-api, reflection, allowed)
+12-10 23:35:41.209 21370 21876 W com.lifitness: Accessing hidden method Ldalvik/system/CloseGuard;->open(Ljava/lang/String;)V (greylist,core-platform-api, reflection, allowed)
+12-10 23:35:41.209 21370 21876 W com.lifitness: Accessing hidden method Ldalvik/system/CloseGuard;->warnIfOpen()V (greylist,core-platform-api, reflection, allowed)
+12-10 23:35:41.213  1427  1427 W ServiceManager: Permission failure: android.permission.SYSTEM_CAMERA from uid=10226 pid=21781
+12-10 23:35:41.228  1427  1427 I chatty  : uid=1047(cameraserver) /system/bin/cameraserver identical 2 lines
+12-10 23:35:41.229  1427  1427 W ServiceManager: Permission failure: android.permission.SYSTEM_CAMERA from uid=10226 pid=21781
+12-10 23:35:41.249  7085 22465 W SQLiteLog: (28) double-quoted string literal: "1765247741243"
+12-10 23:35:41.249  7085 22465 W SQLiteLog: (28) double-quoted string literal: "1"
+12-10 23:35:41.259 21781 21781 W pool-3-thread-7: type=1400 audit(0.0:417155): avc: granted { execute } for path="/data/data/com.google.android.youtube/app_pccache2/5/570F2F567A7BD29610D50DF58B388F1BEB118159/oat/arm64/pcam.odex" dev="mmcblk0p77" ino=1450133 scontext=u:r:untrusted_app:s0:c226,c256,c512,c768 tcontext=u:object_r:app_data_file:s0:c226,c256,c512,c768 tclass=file app=com.google.android.youtube
+12-10 23:35:41.308 21370 21370 D LifecycleMonitor: Lifecycle status change: androidx.activity.ComponentActivity@75d416 in: DESTROYED
+12-10 23:35:41.310 21370 21370 V ActivityScenario: Update currentActivityStage to DESTROYED, currentActivity=null
+12-10 23:35:41.310  2056  2214 D ArtManagerInternalImpl: /data/misc/iorapd/com.lifitness.test/0/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity/compiled_traces/compiled_trace.pb doesn't exist
+12-10 23:35:41.311  2056  2214 I ActivityTaskManager: Displayed com.lifitness.test/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity: +254ms
+12-10 23:35:41.320  3156  3175 I orola.launcher: NativeAlloc concurrent copying GC freed 3016(243KB) AllocSpace objects, 0(0B) LOS objects, 49% free, 4793KB/9586KB, paused 118us total 125.836ms
+12-10 23:35:41.324 21781 21829 W linker  : Warning: "/data/app/~~NJI5MbdMhtACDSBro5WoWg==/com.google.android.youtube-2hivRQJcKgATMiJ8XNY3Ug==/split_config.arm64_v8a.apk!/lib/arm64-v8a/libcronet.144.0.7500.8.so" unused DT entry: unknown processor-specific (type 0x70000001 arg 0x0) (ignoring)
+12-10 23:35:41.328  6340  6375 D AudioFlinger: ro.audio.silent is ignored since no output device is set
+12-10 23:35:41.329  6340  6377 D AudioFlinger: ro.audio.silent is ignored since no output device is set
+12-10 23:35:41.330  2056  2092 I system_server: oneway function results will be dropped but finished with status OK and parcel size 4
+12-10 23:35:41.331  2056  2092 I chatty  : uid=1000(system) Binder:2056_2 identical 1 line
+12-10 23:35:41.331  2056  2092 I system_server: oneway function results will be dropped but finished with status OK and parcel size 4
+12-10 23:35:41.331  2056  4671 I system_server: oneway function results will be dropped but finished with status OK and parcel size 4
+12-10 23:35:41.333  2056  4671 I chatty  : uid=1000(system) Binder:2056_19 identical 3 lines
+12-10 23:35:41.334  2056  4671 I system_server: oneway function results will be dropped but finished with status OK and parcel size 4
+12-10 23:35:41.351  1160  1160 I QTI PowerHAL: Power setBoost: 0, duration: 0
+12-10 23:35:41.378  3874  3874 D GameMode: isScreenUnlocked: true
+12-10 23:35:41.379  3874  3874 D GameMode: exiting game mode
+12-10 23:35:41.385 21370 21413 D IdlingRegistry: Unregistering idling resources: [androidx.compose.ui.test.junit4.EspressoLink@9d4d043]
+12-10 23:35:41.388 21370 21413 I TestRunner: finished: testProfileImageIsDisplayed(com.lifitness.composables.profile.ImageTest)

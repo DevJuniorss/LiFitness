@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<testsuite name="com.lifitness.composables.ButtonTests" tests="27" failures="0" errors="0" skipped="0" time="30.37" timestamp="2025-12-11T02:35:49" hostname="localhost">
+  <properties>
+    <property name="device" value="moto g(9) power - 11" />
+    <property name="flavor" value="" />
+    <property name="project" value=":app" />
+  </properties>
+  <testcase name="testButtonIsEnable" classname="com.lifitness.composables.ButtonTests" time="2.774" />
+  <testcase name="testClickableText" classname="com.lifitness.composables.ButtonTests" time="0.594" />
+  <testcase name="testSmallButtonHeight" classname="com.lifitness.composables.ButtonTests" time="0.629" />
+  <testcase name="testButtonIsDisplayed" classname="com.lifitness.composables.ButtonTests" time="1.081" />
+  <testcase name="testSmallButtonIsEnable" classname="com.lifitness.composables.ButtonTests" time="1.131" />
+  <testcase name="testButtonHeight" classname="com.lifitness.composables.ButtonTests" time="0.98" />
+  <testcase name="testShowDefaultButtonText" classname="com.lifitness.composables.ButtonTests" time="0.654" />
+  <testcase name="testCardDietDimensions" classname="com.lifitness.composables.DietCardComposable" time="0.88" />
+  <testcase name="testShowCardDietTexts" classname="com.lifitness.composables.DietCardComposable" time="0.679" />
+  <testcase name="testClicableCardDietImages" classname="com.lifitness.composables.DietCardComposable" time="1.007" />
+  <testcase name="testShowCardDietImages" classname="com.lifitness.composables.DietCardComposable" time="0.829" />
+  <testcase name="testShowCardExerciseTexts" classname="com.lifitness.composables.ExerciseCardComposable" time="0.804" />
+  <testcase name="testCardExerciseDimensions" classname="com.lifitness.composables.ExerciseCardComposable" time="0.628" />
+  <testcase name="testClickableCardExerciseImages" classname="com.lifitness.composables.ExerciseCardComposable" time="0.829" />
+  <testcase name="testShowCardExerciseImages" classname="com.lifitness.composables.ExerciseCardComposable" time="0.732" />
+  <testcase name="testShowCardHealthInstructorImages" classname="com.lifitness.composables.HealthInstructorCard" time="0.752" />
+  <testcase name="testShowCardHealthInstructorDimensions" classname="com.lifitness.composables.HealthInstructorCard" time="0.73" />
+  <testcase name="testClickableCardHealthImages" classname="com.lifitness.composables.HealthInstructorCard" time="0.703" />
+  <testcase name="testShowCardHealthInstructorTexts" classname="com.lifitness.composables.HealthInstructorCard" time="0.629" />
+  <testcase name="testInputIsClickable" classname="com.lifitness.composables.editProfile.InputTextTest" time="1.131" />
+  <testcase name="testInputShowText" classname="com.lifitness.composables.editProfile.InputTextTest" time="0.98" />
+  <testcase name="testTitleIsDisplayed" classname="com.lifitness.composables.editProfile.TitleTest" time="0.805" />
+  <testcase name="testButtonsClick" classname="com.lifitness.composables.home.client.HomePersonalTest" time="0.679" />
+  <testcase name="testButtonsClick" classname="com.lifitness.composables.home.personal.HomePersonalTest" time="0.779" />
+  <testcase name="testBackgroundImageIsDisplayed" classname="com.lifitness.composables.profile.ImageTest" time="0.804" />
+  <testcase name="testProfileImageIsDisplayed" classname="com.lifitness.composables.profile.ImageTest" time="1.206" />
+  <testcase name="testUserListIsDisplayed" classname="com.lifitness.composables.students.UserListTest" time="1.207" />
+</testsuite>

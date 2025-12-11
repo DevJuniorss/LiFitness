@@ -1,0 +1,36 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.lifitness.app-mergeDebugResources-84:/values-v24/values-v24.xml",
+            "map": [
+                {
+                    "source": "/home/nero/.gradle/caches/8.13/transforms/f2bd382130713de27249179aa9b0e21d/transformed/appcompat-1.2.0/res/values-v24/values-v24.xml",
+                    "from": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,212",
+                        "endColumns": "156,134",
+                        "endOffsets": "207,342"
+                    }
+                },
+                {
+                    "source": "/home/nero/.gradle/caches/8.13/transforms/4211fc74b7659771caa33ad0a13e5671/transformed/media-1.6.0/res/values-v24/values-v24.xml",
+                    "from": {
+                        "startLines": "2,3,4,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,121,182,248",
+                        "endColumns": "65,60,65,66",
+                        "endOffsets": "116,177,243,310"
+                    },
+                    "to": {
+                        "startLines": "4,5,6,7",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "347,413,474,540",
+                        "endColumns": "65,60,65,66",
+                        "endOffsets": "408,469,535,602"
+                    }
+                }
+            ]
+        }
+    ]
+}

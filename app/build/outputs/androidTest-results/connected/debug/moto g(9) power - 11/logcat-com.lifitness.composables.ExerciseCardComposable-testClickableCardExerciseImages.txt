@@ -1,0 +1,73 @@
+12-10 23:35:30.485 21370 21413 I TestRunner: started: testClickableCardExerciseImages(com.lifitness.composables.ExerciseCardComposable)
+12-10 23:35:30.492  2056  2214 D ArtManagerInternalImpl: /data/misc/iorapd/com.lifitness.test/0/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity/compiled_traces/compiled_trace.pb doesn't exist
+12-10 23:35:30.494  2056  2214 I ActivityTaskManager: Displayed com.lifitness.test/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity: +244ms
+12-10 23:35:30.501 21370 21413 D IdlingRegistry: Registering idling resources: [androidx.compose.ui.test.junit4.EspressoLink@3b55153]
+12-10 23:35:30.515 21370 21413 W Settings: Setting always_finish_activities has moved from android.provider.Settings.System to android.provider.Settings.Global, returning read-only value.
+12-10 23:35:30.536  1160  1160 I QTI PowerHAL: Power setBoost: 0, duration: 0
+12-10 23:35:30.551  3874  3874 D GameMode: isScreenUnlocked: true
+12-10 23:35:30.552  3874  3874 D GameMode: exiting game mode
+12-10 23:35:30.561  1160  1160 I QTI PowerHAL: Power setMode: 5 to: 1
+12-10 23:35:30.562  4917  5550 D SharedPreferencesImpl: Time required to fsync /data/user/0/com.motorola.dynamicvolume/shared_prefs/com.motorola.dynamicvolume.SETTINGS.xml: [<1: 20, <2: 284, <4: 271, <8: 268, <16: 104, <32: 43, <64: 20, <128: 12, <256: 2, <512: 0, <1024: 0, <2048: 0, <4096: 0, <8192: 0, <16384: 0, >=16384: 0]
+12-10 23:35:30.578  4079  4079 I GoogleInputMethodService: GoogleInputMethodService.onFinishInput():2097
+12-10 23:35:30.579  4079  4079 I Module  : DeviceLockedStatusModuleProvider$Module.updateDeviceLockedStatus():103 repeatCheckTimes = 0, locked = false
+12-10 23:35:30.581  4079  4079 I GoogleInputMethodService: GoogleInputMethodService.onStartInput():1347 onStartInput(EditorInfo{EditorInfo{packageName=com.lifitness.test, inputType=0, inputTypeString=NULL, enableLearning=false, autoCorrection=false, autoComplete=false, imeOptions=0, privateImeOptions=null, actionName=UNSPECIFIED, actionLabel=null, initialSelStart=-1, initialSelEnd=-1, initialCapsMode=0, label=null, fieldId=-1, fieldName=null, extras=null, hintText=null, hintLocales=[]}}, false)
+12-10 23:35:30.583 14719 14719 I bort    : onStart
+12-10 23:35:30.589  4079  4079 I Module  : DeviceLockedStatusModuleProvider$Module.updateDeviceLockedStatus():103 repeatCheckTimes = 1, locked = false
+12-10 23:35:30.599  2735  2749 I ndroid.systemu: NativeAlloc concurrent copying GC freed 1638(144KB) AllocSpace objects, 0(0B) LOS objects, 49% free, 7760KB/15MB, paused 189us total 202.894ms
+12-10 23:35:30.601  2735  2754 W System  : A resource failed to call release.
+12-10 23:35:30.601  2735  2754 W System  : A resource failed to call release.
+12-10 23:35:30.612 14719 14719 I bmhc    : (REDACTED) [%s] onStart()
+12-10 23:35:30.613 14719 14719 I bmjj    : Reloading theme data
+12-10 23:35:30.621  3874  3874 D GameMode: reset:
+12-10 23:35:30.622  4917  5858 W DynamicVolume-DynamicVolumeService: onForegroundActivitiesChanged, record latest volume: a[packageName=com.motorola.launcher3, time=Wed Dec 10 23:35:30 GMT-03:00 2025, startVolume=11]
+12-10 23:35:30.624 14719 14719 I bort    : onResume
+12-10 23:35:30.638  3874  3874 D MFL     : Always in FF not supported; Disabling always in freeform
+12-10 23:35:30.640  3874  5323 D MFL     : getFreeFormPackages: is blank
+12-10 23:35:30.654  3874  5323 D MFL     : getDensityIndependentPixel: smallest width = 411
+12-10 23:35:30.655  3874  5323 D MFL     : getLaunchRect: margin = 0
+12-10 23:35:30.700  3874  3874 D GameMode: isScreenUnlocked: true
+12-10 23:35:30.702  3874  3874 D GameMode: exiting game mode
+12-10 23:35:30.732 21370 21370 D LifecycleMonitor: Lifecycle status change: androidx.activity.ComponentActivity@c7e8e66 in: PRE_ON_CREATE
+12-10 23:35:30.734 21370 21370 V ActivityScenario: Activity lifecycle changed event received but ignored because the reported transition was not ON_CREATE while the last known transition was PRE_ON_CREATE
+12-10 23:35:30.750  4917  5858 W DynamicVolume-DynamicVolumeService: onForegroundActivitiesChanged, record latest volume: a[packageName=com.lifitness, time=Wed Dec 10 23:35:30 GMT-03:00 2025, startVolume=11]
+12-10 23:35:30.752  3874  3874 D GameMode: reset:
+12-10 23:35:30.753 14719 14719 I bort    : onPause
+12-10 23:35:30.756 14719 14719 I bort    : onStop
+12-10 23:35:30.764 21370 21370 D LifecycleMonitor: Lifecycle status change: androidx.activity.ComponentActivity@c7e8e66 in: CREATED
+12-10 23:35:30.765 21370 21370 V ActivityScenario: Update currentActivityStage to CREATED, currentActivity=androidx.activity.ComponentActivity@c7e8e66
+12-10 23:35:30.769  3874  3874 D MFL     : Always in FF not supported; Disabling always in freeform
+12-10 23:35:30.770  3874  5323 D MFL     : getFreeFormPackages: is blank
+12-10 23:35:30.776  3874  5323 D MFL     : getDensityIndependentPixel: smallest width = 411
+12-10 23:35:30.776  3874  5323 D MFL     : getLaunchRect: margin = 0
+12-10 23:35:30.777 21370 21370 D LifecycleMonitor: Lifecycle status change: androidx.activity.ComponentActivity@c7e8e66 in: STARTED
+12-10 23:35:30.778 21370 21370 V ActivityScenario: Update currentActivityStage to STARTED, currentActivity=androidx.activity.ComponentActivity@c7e8e66
+12-10 23:35:30.780 21370 21370 D LifecycleMonitor: Lifecycle status change: androidx.activity.ComponentActivity@c7e8e66 in: RESUMED
+12-10 23:35:30.780 21370 21370 V ActivityScenario: Update currentActivityStage to RESUMED, currentActivity=androidx.activity.ComponentActivity@c7e8e66
+12-10 23:35:30.826 13242 13242 W Finsky  : [2] STU: Failed to get storage stats for package 'com.google.android.media.swcodec' (1601: Error getting stats: android.content.pm.PackageManager.NameNotFoundException)
+12-10 23:35:30.863  2056  2214 D ArtManagerInternalImpl: /data/misc/iorapd/com.lifitness/1/androidx.activity.ComponentActivity/compiled_traces/compiled_trace.pb doesn't exist
+12-10 23:35:30.865  2056  2214 I ActivityTaskManager: Displayed com.lifitness/androidx.activity.ComponentActivity: +315ms
+12-10 23:35:30.866  1160  1160 I QTI PowerHAL: Power setMode: 5 to: 0
+12-10 23:35:30.886  1160  1160 I QTI PowerHAL: Power setBoost: 0, duration: 0
+12-10 23:35:30.904  4079  4079 I GoogleInputMethodService: GoogleInputMethodService.onFinishInput():2097
+12-10 23:35:30.906  4079  4079 I Module  : DeviceLockedStatusModuleProvider$Module.updateDeviceLockedStatus():103 repeatCheckTimes = 0, locked = false
+12-10 23:35:30.907 23314 21124 I NetworkScheduler: (REDACTED) Error inserting %s
+12-10 23:35:30.908  4079  4079 I GoogleInputMethodService: GoogleInputMethodService.onStartInput():1347 onStartInput(EditorInfo{EditorInfo{packageName=com.lifitness, inputType=0, inputTypeString=NULL, enableLearning=false, autoCorrection=false, autoComplete=false, imeOptions=0, privateImeOptions=null, actionName=UNSPECIFIED, actionLabel=null, initialSelStart=-1, initialSelEnd=-1, initialCapsMode=0, label=null, fieldId=-1, fieldName=null, extras=null, hintText=null, hintLocales=[]}}, false)
+12-10 23:35:30.910  4079  4079 I Module  : DeviceLockedStatusModuleProvider$Module.updateDeviceLockedStatus():103 repeatCheckTimes = 1, locked = false
+12-10 23:35:31.080  1160  1160 I QTI PowerHAL: Power setMode: 5 to: 1
+12-10 23:35:31.094 21370 21370 D LifecycleMonitor: Lifecycle status change: androidx.activity.ComponentActivity@c7e8e66 in: PAUSED
+12-10 23:35:31.095 21370 21370 V ActivityScenario: Update currentActivityStage to PAUSED, currentActivity=androidx.activity.ComponentActivity@c7e8e66
+12-10 23:35:31.115  3874  3874 D GameMode: isScreenUnlocked: true
+12-10 23:35:31.115  3874  3874 D GameMode: exiting game mode
+12-10 23:35:31.131  4917  5858 W DynamicVolume-DynamicVolumeService: onForegroundActivitiesChanged, record latest volume: a[packageName=com.lifitness.test, time=Wed Dec 10 23:35:31 GMT-03:00 2025, startVolume=11]
+12-10 23:35:31.170  2056  2620 D WifiStaIfaceHidlImpl: getCachedScanData is not implemented by HIDL
+12-10 23:35:31.181  3874  3874 D GameMode: reset:
+12-10 23:35:31.194  3874  3874 D MFL     : Always in FF not supported; Disabling always in freeform
+12-10 23:35:31.196  3874  5325 D MFL     : getFreeFormPackages: is blank
+12-10 23:35:31.203  3874  5325 D MFL     : getDensityIndependentPixel: smallest width = 411
+12-10 23:35:31.204  3874  5325 D MFL     : getLaunchRect: margin = 0
+12-10 23:35:31.247 21370 21370 D LifecycleMonitor: Lifecycle status change: androidx.activity.ComponentActivity@c7e8e66 in: STOPPED
+12-10 23:35:31.248 21370 21370 V ActivityScenario: Update currentActivityStage to STOPPED, currentActivity=androidx.activity.ComponentActivity@c7e8e66
+12-10 23:35:31.264 21370 21370 D LifecycleMonitor: Lifecycle status change: androidx.activity.ComponentActivity@c7e8e66 in: DESTROYED
+12-10 23:35:31.265 21370 21370 V ActivityScenario: Update currentActivityStage to DESTROYED, currentActivity=null
+12-10 23:35:31.305 21370 21413 D IdlingRegistry: Unregistering idling resources: [androidx.compose.ui.test.junit4.EspressoLink@3b55153]
+12-10 23:35:31.314 21370 21413 I TestRunner: finished: testClickableCardExerciseImages(com.lifitness.composables.ExerciseCardComposable)

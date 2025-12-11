@@ -1,0 +1,70 @@
+INFO: Constructing runner from config.
+INFO: Configuring Android Instrumentation driver: android_instrumentation_runtime {
+  instrumentation_info {
+    app_package: "com.lifitness"
+    test_package: "com.lifitness.test"
+    test_runner_class: "androidx.test.runner.AndroidJUnitRunner"
+  }
+  instrumentation_args {
+    args_map {
+      key: "additionalTestOutputDir"
+      value: "/sdcard/Android/media/com.lifitness/additional_test_output"
+    }
+    args_map {
+      key: "package"
+      value: "com.lifitness.composables"
+    }
+  }
+}
+am_instrument_timeout: 31536000
+
+INFO: Configuring AndroidTestApkInstallerPlugin: apks_to_install {
+  apk_paths: "/home/nero/Downloads/Lifitness-Kotlin/Lifitness-Kotlin/Lifitness/app/build/intermediates/apk/debug/app-debug.apk"
+  install_options {
+  }
+  uninstall_after_test: true
+}
+apks_to_install {
+  apk_paths: "/home/nero/Downloads/Lifitness-Kotlin/Lifitness-Kotlin/Lifitness/app/build/intermediates/apk/androidTest/debug/app-debug-androidTest.apk"
+  install_options {
+  }
+  uninstall_after_test: true
+}
+instrumentation_target_package_id: "com.lifitness"
+
+INFO: No installables found in test fixture. Nothing to install.
+INFO: Installing [/home/nero/Downloads/Lifitness-Kotlin/Lifitness-Kotlin/Lifitness/app/build/intermediates/apk/debug/app-debug.apk] on device 0072583803.
+INFO: Installing [/home/nero/Downloads/Lifitness-Kotlin/Lifitness-Kotlin/Lifitness/app/build/intermediates/apk/androidTest/debug/app-debug-androidTest.apk] on device 0072583803.
+INFO: Start logcat streaming.
+INFO: Running Android Instrumentation driver.
+INFO: Copying files from device to host: /sdcard/Android/media/com.lifitness/additional_test_output to /home/nero/Downloads/Lifitness-Kotlin/Lifitness-Kotlin/Lifitness/app/build/outputs/connected_android_test_additional_output/debugAndroidTest/connected/moto g(9) power - 11
+INFO: Stop logcat streaming.
+INFO: Uninstalling com.lifitness for device 0072583803.
+INFO: Uninstalling com.lifitness.test for device 0072583803.
+INFO: Execute com.lifitness.composables.ButtonTests.testButtonIsEnable: PASSED
+INFO: Execute com.lifitness.composables.ButtonTests.testClickableText: PASSED
+INFO: Execute com.lifitness.composables.ButtonTests.testSmallButtonHeight: PASSED
+INFO: Execute com.lifitness.composables.ButtonTests.testButtonIsDisplayed: PASSED
+INFO: Execute com.lifitness.composables.ButtonTests.testSmallButtonIsEnable: PASSED
+INFO: Execute com.lifitness.composables.ButtonTests.testButtonHeight: PASSED
+INFO: Execute com.lifitness.composables.ButtonTests.testShowDefaultButtonText: PASSED
+INFO: Execute com.lifitness.composables.DietCardComposable.testCardDietDimensions: PASSED
+INFO: Execute com.lifitness.composables.DietCardComposable.testShowCardDietTexts: PASSED
+INFO: Execute com.lifitness.composables.DietCardComposable.testClicableCardDietImages: PASSED
+INFO: Execute com.lifitness.composables.DietCardComposable.testShowCardDietImages: PASSED
+INFO: Execute com.lifitness.composables.ExerciseCardComposable.testShowCardExerciseTexts: PASSED
+INFO: Execute com.lifitness.composables.ExerciseCardComposable.testCardExerciseDimensions: PASSED
+INFO: Execute com.lifitness.composables.ExerciseCardComposable.testClickableCardExerciseImages: PASSED
+INFO: Execute com.lifitness.composables.ExerciseCardComposable.testShowCardExerciseImages: PASSED
+INFO: Execute com.lifitness.composables.HealthInstructorCard.testShowCardHealthInstructorImages: PASSED
+INFO: Execute com.lifitness.composables.HealthInstructorCard.testShowCardHealthInstructorDimensions: PASSED
+INFO: Execute com.lifitness.composables.HealthInstructorCard.testClickableCardHealthImages: PASSED
+INFO: Execute com.lifitness.composables.HealthInstructorCard.testShowCardHealthInstructorTexts: PASSED
+INFO: Execute com.lifitness.composables.editProfile.InputTextTest.testInputIsClickable: PASSED
+INFO: Execute com.lifitness.composables.editProfile.InputTextTest.testInputShowText: PASSED
+INFO: Execute com.lifitness.composables.editProfile.TitleTest.testTitleIsDisplayed: PASSED
+INFO: Execute com.lifitness.composables.home.client.HomePersonalTest.testButtonsClick: PASSED
+INFO: Execute com.lifitness.composables.home.personal.HomePersonalTest.testButtonsClick: PASSED
+INFO: Execute com.lifitness.composables.profile.ImageTest.testBackgroundImageIsDisplayed: PASSED
+INFO: Execute com.lifitness.composables.profile.ImageTest.testProfileImageIsDisplayed: PASSED
+INFO: Execute com.lifitness.composables.students.UserListTest.testUserListIsDisplayed: PASSED

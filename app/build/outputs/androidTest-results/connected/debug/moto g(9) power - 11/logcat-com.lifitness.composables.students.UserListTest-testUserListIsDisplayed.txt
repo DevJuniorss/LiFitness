@@ -1,0 +1,91 @@
+12-10 23:35:41.400 21370 21413 I TestRunner: started: testUserListIsDisplayed(com.lifitness.composables.students.UserListTest)
+12-10 23:35:41.400  4079  4079 I Module  : DeviceLockedStatusModuleProvider$Module.updateDeviceLockedStatus():103 repeatCheckTimes = 0, locked = false
+12-10 23:35:41.408  4079  4079 I GoogleInputMethodService: GoogleInputMethodService.onStartInput():1347 onStartInput(EditorInfo{EditorInfo{packageName=com.lifitness.test, inputType=0, inputTypeString=NULL, enableLearning=false, autoCorrection=false, autoComplete=false, imeOptions=0, privateImeOptions=null, actionName=UNSPECIFIED, actionLabel=null, initialSelStart=-1, initialSelEnd=-1, initialCapsMode=0, label=null, fieldId=-1, fieldName=null, extras=null, hintText=null, hintLocales=[]}}, false)
+12-10 23:35:41.411  4079  4079 I Module  : DeviceLockedStatusModuleProvider$Module.updateDeviceLockedStatus():103 repeatCheckTimes = 1, locked = false
+12-10 23:35:41.424  4917  5858 W DynamicVolume-DynamicVolumeService: onForegroundActivitiesChanged, record latest volume: a[packageName=com.motorola.launcher3, time=Wed Dec 10 23:35:41 GMT-03:00 2025, startVolume=11]
+12-10 23:35:41.424 14719 14719 I bort    : onStart
+12-10 23:35:41.430 14719 14719 I bmhc    : (REDACTED) [%s] onStart()
+12-10 23:35:41.430 14719 14719 I bmjj    : Reloading theme data
+12-10 23:35:41.431  3874  3874 D GameMode: reset:
+12-10 23:35:41.432 14719 14719 I bort    : onResume
+12-10 23:35:41.433 21370 21413 D IdlingRegistry: Registering idling resources: [androidx.compose.ui.test.junit4.EspressoLink@bcc104f]
+12-10 23:35:41.443  3874  3874 D MFL     : Always in FF not supported; Disabling always in freeform
+12-10 23:35:41.444  3874  5325 D MFL     : getFreeFormPackages: is blank
+12-10 23:35:41.446  3874  5325 D MFL     : getDensityIndependentPixel: smallest width = 411
+12-10 23:35:41.446  3874  5325 D MFL     : getLaunchRect: margin = 0
+12-10 23:35:41.460 21370 21413 W Settings: Setting always_finish_activities has moved from android.provider.Settings.System to android.provider.Settings.Global, returning read-only value.
+12-10 23:35:41.487  1160  1160 I QTI PowerHAL: Power setMode: 5 to: 0
+12-10 23:35:41.502 21781 21781 W pool-3-thread-7: type=1400 audit(0.0:417156): avc: granted { execute } for path="/data/data/com.google.android.youtube/app_pccache2/5/570F2F567A7BD29610D50DF58B388F1BEB118159/pcam.jar" dev="mmcblk0p77" ino=1482945 scontext=u:r:untrusted_app:s0:c226,c256,c512,c768 tcontext=u:object_r:app_data_file:s0:c226,c256,c512,c768 tclass=file app=com.google.android.youtube
+12-10 23:35:41.506  2735  2749 I ndroid.systemu: NativeAlloc concurrent copying GC freed 4941(270KB) AllocSpace objects, 2(944KB) LOS objects, 49% free, 7768KB/15MB, paused 190us total 311.022ms
+12-10 23:35:41.516  1160  1160 I QTI PowerHAL: Power setMode: 5 to: 1
+12-10 23:35:41.556  4079  4079 I GoogleInputMethodService: GoogleInputMethodService.onFinishInput():2097
+12-10 23:35:41.557  4079  4079 I Module  : DeviceLockedStatusModuleProvider$Module.updateDeviceLockedStatus():103 repeatCheckTimes = 0, locked = false
+12-10 23:35:41.558  4079  4079 I GoogleInputMethodService: GoogleInputMethodService.onStartInput():1347 onStartInput(EditorInfo{EditorInfo{packageName=com.motorola.launcher3, inputType=0, inputTypeString=NULL, enableLearning=false, autoCorrection=false, autoComplete=false, imeOptions=0, privateImeOptions=null, actionName=UNSPECIFIED, actionLabel=null, initialSelStart=-1, initialSelEnd=-1, initialCapsMode=0, label=null, fieldId=-1, fieldName=null, extras=null, hintText=null, hintLocales=[]}}, false)
+12-10 23:35:41.560  4079  4079 I Module  : DeviceLockedStatusModuleProvider$Module.updateDeviceLockedStatus():103 repeatCheckTimes = 1, locked = false
+12-10 23:35:41.578  3874  3874 D GameMode: isScreenUnlocked: true
+12-10 23:35:41.579  3874  3874 D GameMode: exiting game mode
+12-10 23:35:41.602 21370 21370 D LifecycleMonitor: Lifecycle status change: androidx.activity.ComponentActivity@b2e0012 in: PRE_ON_CREATE
+12-10 23:35:41.602 21370 21370 V ActivityScenario: Activity lifecycle changed event received but ignored because the reported transition was not ON_CREATE while the last known transition was PRE_ON_CREATE
+12-10 23:35:41.632  4917  5858 W DynamicVolume-DynamicVolumeService: onForegroundActivitiesChanged, record latest volume: a[packageName=com.lifitness, time=Wed Dec 10 23:35:41 GMT-03:00 2025, startVolume=11]
+12-10 23:35:41.634 21370 21370 D LifecycleMonitor: Lifecycle status change: androidx.activity.ComponentActivity@b2e0012 in: CREATED
+12-10 23:35:41.635 21370 21370 V ActivityScenario: Update currentActivityStage to CREATED, currentActivity=androidx.activity.ComponentActivity@b2e0012
+12-10 23:35:41.636  1160  1160 I QTI PowerHAL: Power setBoost: 0, duration: 0
+12-10 23:35:41.643  3874  3874 D GameMode: reset:
+12-10 23:35:41.648  3874  3874 D MFL     : Always in FF not supported; Disabling always in freeform
+12-10 23:35:41.649  3874  5325 D MFL     : getFreeFormPackages: is blank
+12-10 23:35:41.650  3874  5325 D MFL     : getDensityIndependentPixel: smallest width = 411
+12-10 23:35:41.650  3874  5325 D MFL     : getLaunchRect: margin = 0
+12-10 23:35:41.651  1228  1228 E Layer   : [Surface(name=Task=1)/@0x99d1d5c - animation-leash#0] No local sync point found
+12-10 23:35:41.659 14719 14719 I bort    : onPause
+12-10 23:35:41.664 21370 21370 D LifecycleMonitor: Lifecycle status change: androidx.activity.ComponentActivity@b2e0012 in: STARTED
+12-10 23:35:41.668  1228  1228 E Layer   : [Surface(name=Task=1)/@0x99d1d5c - animation-leash#0] No local sync point found
+12-10 23:35:41.668 21370 21370 V ActivityScenario: Update currentActivityStage to STARTED, currentActivity=androidx.activity.ComponentActivity@b2e0012
+12-10 23:35:41.671 21370 21370 D LifecycleMonitor: Lifecycle status change: androidx.activity.ComponentActivity@b2e0012 in: RESUMED
+12-10 23:35:41.671 21370 21370 V ActivityScenario: Update currentActivityStage to RESUMED, currentActivity=androidx.activity.ComponentActivity@b2e0012
+12-10 23:35:41.684  1228  1228 E Layer   : [Surface(name=Task=1)/@0x99d1d5c - animation-leash#0] No local sync point found
+12-10 23:35:41.689 21781 21781 E YT.mlplayer: setAudioDrc(enabled=1)
+12-10 23:35:41.701  1228  1228 E Layer   : [Surface(name=Task=1)/@0x99d1d5c - animation-leash#0] No local sync point found
+12-10 23:35:41.751  1228  1228 I chatty  : uid=1000(system) /system/bin/surfaceflinger identical 2 lines
+12-10 23:35:41.751  1228  1228 E Layer   : [Surface(name=Task=1)/@0x99d1d5c - animation-leash#0] No local sync point found
+12-10 23:35:41.812  2056  2214 D ArtManagerInternalImpl: /data/misc/iorapd/com.lifitness/1/androidx.activity.ComponentActivity/compiled_traces/compiled_trace.pb doesn't exist
+12-10 23:35:41.814  1160  1160 I QTI PowerHAL: Power setMode: 5 to: 0
+12-10 23:35:41.817  2056  2214 I ActivityTaskManager: Displayed com.lifitness/androidx.activity.ComponentActivity: +321ms
+12-10 23:35:41.836  1160  1160 I QTI PowerHAL: Power setBoost: 0, duration: 0
+12-10 23:35:41.859  4079  4079 I GoogleInputMethodService: GoogleInputMethodService.onFinishInput():2097
+12-10 23:35:41.861  4079  4079 I Module  : DeviceLockedStatusModuleProvider$Module.updateDeviceLockedStatus():103 repeatCheckTimes = 0, locked = false
+12-10 23:35:41.862  4079  4079 I GoogleInputMethodService: GoogleInputMethodService.onStartInput():1347 onStartInput(EditorInfo{EditorInfo{packageName=com.lifitness, inputType=0, inputTypeString=NULL, enableLearning=false, autoCorrection=false, autoComplete=false, imeOptions=0, privateImeOptions=null, actionName=UNSPECIFIED, actionLabel=null, initialSelStart=-1, initialSelEnd=-1, initialCapsMode=0, label=null, fieldId=-1, fieldName=null, extras=null, hintText=null, hintLocales=[]}}, false)
+12-10 23:35:41.864  7085  7085 D BoundBrokerSvc: onRebind: Intent { act=com.google.android.gms.potokens.service.START dat=chimera-action: cmp=com.google.android.gms/.chimera.GmsApiService }
+12-10 23:35:41.865  4079  4079 I Module  : DeviceLockedStatusModuleProvider$Module.updateDeviceLockedStatus():103 repeatCheckTimes = 1, locked = false
+12-10 23:35:41.882  2056  2684 D Ethernet: got request NetworkRequest [ TRACK_DEFAULT id=18461, [ Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED Uid: 10226 AdministratorUids: [] RequestorUid: 10226 RequestorPackageName: com.google.android.youtube] ] with score 60 and providerId 5
+12-10 23:35:41.882  2056  2620 D UntrustedWifiNetworkFactory: got request NetworkRequest [ TRACK_DEFAULT id=18461, [ Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED Uid: 10226 AdministratorUids: [] RequestorUid: 10226 RequestorPackageName: com.google.android.youtube] ] with score 60 and providerId 5
+12-10 23:35:41.882  2056  2620 D MultiInternetWifiNetworkFactory: got request NetworkRequest [ TRACK_DEFAULT id=18461, [ Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED Uid: 10226 AdministratorUids: [] RequestorUid: 10226 RequestorPackageName: com.google.android.youtube] ] with score 60 and providerId 5
+12-10 23:35:41.882  2056  2620 D WifiNetworkFactory: got request NetworkRequest [ TRACK_DEFAULT id=18461, [ Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED Uid: 10226 AdministratorUids: [] RequestorUid: 10226 RequestorPackageName: com.google.android.youtube] ] with score 60 and providerId 5
+12-10 23:35:41.882  2056  2620 D RestrictedWifiNetworkFactory: got request NetworkRequest [ TRACK_DEFAULT id=18461, [ Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED Uid: 10226 AdministratorUids: [] RequestorUid: 10226 RequestorPackageName: com.google.android.youtube] ] with score 60 and providerId 5
+12-10 23:35:41.882  2056  2620 D OemPaidWifiNetworkFactory: got request NetworkRequest [ TRACK_DEFAULT id=18461, [ Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED Uid: 10226 AdministratorUids: [] RequestorUid: 10226 RequestorPackageName: com.google.android.youtube] ] with score 60 and providerId 5
+12-10 23:35:41.886  3050  3050 D PhoneSwitcherNetworkRequstListener: got request NetworkRequest [ TRACK_DEFAULT id=18461, [ Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED Uid: 10226 AdministratorUids: [] RequestorUid: 10226 RequestorPackageName: com.google.android.youtube] ] with score 60 and providerId 5
+12-10 23:35:41.889 23314 21534 I NetworkScheduler: (REDACTED) Error inserting %s
+12-10 23:35:41.959 14719 14719 I bort    : onStop
+12-10 23:35:42.044  4569  6326 I native  : I0000 00:00:1765420542.044590    6326 soda_async_impl.cc:1386] Current audio timestamp: 1765420541719804
+12-10 23:35:42.039  7085  7085 W ThreadPoolForeg: type=1400 audit(0.0:417157): avc: denied { write } for name="traced_producer" dev="tmpfs" ino=36850 scontext=u:r:gmscore_app:s0:c512,c768 tcontext=u:object_r:traced_producer_socket:s0 tclass=sock_file permissive=0 app=com.google.android.gms
+12-10 23:35:42.242  7085  7085 W PerfettoTrace: type=1400 audit(0.0:417158): avc: denied { write } for name="traced_producer" dev="tmpfs" ino=36850 scontext=u:r:gmscore_app:s0:c512,c768 tcontext=u:object_r:traced_producer_socket:s0 tclass=sock_file permissive=0 app=com.google.android.gms
+12-10 23:35:42.263  4569  5446 I dyao    : (REDACTED) #onAudioData: %s bytes, getAudioReadSize %s
+12-10 23:35:42.302 23314 23314 W ThreadPoolForeg: type=1400 audit(0.0:417159): avc: denied { write } for name="traced_producer" dev="tmpfs" ino=36850 scontext=u:r:gmscore_app:s0:c512,c768 tcontext=u:object_r:traced_producer_socket:s0 tclass=sock_file permissive=0 app=com.google.android.gms
+12-10 23:35:42.345  1160  1160 I QTI PowerHAL: Power setMode: 5 to: 1
+12-10 23:35:42.358 21370 21370 D LifecycleMonitor: Lifecycle status change: androidx.activity.ComponentActivity@b2e0012 in: PAUSED
+12-10 23:35:42.359 21370 21370 V ActivityScenario: Update currentActivityStage to PAUSED, currentActivity=androidx.activity.ComponentActivity@b2e0012
+12-10 23:35:42.387  3874  3874 D GameMode: isScreenUnlocked: true
+12-10 23:35:42.388  3874  3874 D GameMode: exiting game mode
+12-10 23:35:42.415  4917  5857 W DynamicVolume-DynamicVolumeService: onForegroundActivitiesChanged, record latest volume: a[packageName=com.lifitness.test, time=Wed Dec 10 23:35:42 GMT-03:00 2025, startVolume=11]
+12-10 23:35:42.456  3874  3874 D GameMode: reset:
+12-10 23:35:42.474  3874  3874 D MFL     : Always in FF not supported; Disabling always in freeform
+12-10 23:35:42.476  3874  5323 D MFL     : getFreeFormPackages: is blank
+12-10 23:35:42.479  3874  5323 D MFL     : getDensityIndependentPixel: smallest width = 411
+12-10 23:35:42.479  3874  5323 D MFL     : getLaunchRect: margin = 0
+12-10 23:35:42.484 21370 21370 D LifecycleMonitor: Lifecycle status change: androidx.activity.ComponentActivity@b2e0012 in: STOPPED
+12-10 23:35:42.486 21370 21370 V ActivityScenario: Update currentActivityStage to STOPPED, currentActivity=androidx.activity.ComponentActivity@b2e0012
+12-10 23:35:42.569 21370 21370 D LifecycleMonitor: Lifecycle status change: androidx.activity.ComponentActivity@b2e0012 in: DESTROYED
+12-10 23:35:42.570 21370 21370 V ActivityScenario: Update currentActivityStage to DESTROYED, currentActivity=null
+12-10 23:35:42.600  2735  2749 I ndroid.systemu: NativeAlloc concurrent copying GC freed 5583(230KB) AllocSpace objects, 0(0B) LOS objects, 49% free, 7730KB/15MB, paused 163us total 114.597ms
+12-10 23:35:42.601  2735  2754 W System  : A resource failed to call release.
+12-10 23:35:42.604 21370 21413 D IdlingRegistry: Unregistering idling resources: [androidx.compose.ui.test.junit4.EspressoLink@bcc104f]
+12-10 23:35:42.609 21370 21413 I TestRunner: finished: testUserListIsDisplayed(com.lifitness.composables.students.UserListTest)

@@ -1,0 +1,210 @@
+12-10 23:35:17.615 21370 21413 I TestRunner: started: testButtonIsEnable(com.lifitness.composables.ButtonTests)
+12-10 23:35:17.725   996   996 D Zygote  : Forked child process 21417
+12-10 23:35:17.741 21370 21413 W FileTestStorage: Output properties is not supported.
+12-10 23:35:17.742 21370 21413 I Tracing : Tracer added: class androidx.test.platform.tracing.AndroidXTracer
+12-10 23:35:17.754 21370 21370 D EventInjectionStrategy: Creating injection strategy with input manager.
+12-10 23:35:17.756 21370 21370 W com.lifitness: Accessing hidden method Landroid/hardware/input/InputManager;->getInstance()Landroid/hardware/input/InputManager; (greylist, reflection, allowed)
+12-10 23:35:17.756 21370 21370 W com.lifitness: Accessing hidden method Landroid/hardware/input/InputManager;->injectInputEvent(Landroid/view/InputEvent;I)Z (greylist, reflection, allowed)
+12-10 23:35:17.756 21370 21370 W com.lifitness: Accessing hidden field Landroid/hardware/input/InputManager;->INJECT_INPUT_EVENT_MODE_WAIT_FOR_FINISH:I (greylist, reflection, allowed)
+12-10 23:35:17.756 21417 21417 E ackageinstalle: Not starting debugger since process cannot load the jdwp agent.
+12-10 23:35:17.785 21370 21370 W com.lifitness: Accessing hidden method Landroid/os/MessageQueue;->next()Landroid/os/Message; (greylist, reflection, allowed)
+12-10 23:35:17.785 21370 21370 W com.lifitness: Accessing hidden field Landroid/os/MessageQueue;->mMessages:Landroid/os/Message; (greylist, reflection, allowed)
+12-10 23:35:17.785 21370 21370 W com.lifitness: Accessing hidden method Landroid/os/Message;->recycleUnchecked()V (greylist, reflection, allowed)
+12-10 23:35:17.787 21370 21413 D IdlingRegistry: Registering idling resources: [androidx.compose.ui.test.junit4.EspressoLink@2126c5f]
+12-10 23:35:17.821 23314 14754 I PhenotypeResourceReader: unable to find any Phenotype resource metadata for com.lifitness
+12-10 23:35:17.840 21370 21438 W com.lifitness: Accessing hidden method Ldalvik/system/VMStack;->getStackClass2()Ljava/lang/Class; (greylist, linking, allowed)
+12-10 23:35:17.841 21370 21413 W Settings: Setting always_finish_activities has moved from android.provider.Settings.System to android.provider.Settings.Global, returning read-only value.
+12-10 23:35:17.877 21417 21417 D NetworkSecurityConfig: No Network Security Config specified, using platform default
+12-10 23:35:17.877 21417 21417 D NetworkSecurityConfig: No Network Security Config specified, using platform default
+12-10 23:35:17.879 21370 21434 E com.lifitness: No package ID 6b found for ID 0x6b0b0013.
+12-10 23:35:17.888 21370 21434 I FA      : App measurement initialized, version: 146007
+12-10 23:35:17.888 21370 21434 I FA      : To enable debug logging run: adb shell setprop log.tag.FA VERBOSE
+12-10 23:35:17.888 21370 21434 I FA      : To enable faster debug mode event logging run:
+12-10 23:35:17.888 21370 21434 I FA      :   adb shell setprop debug.firebase.analytics.app com.lifitness
+12-10 23:35:17.892  1160  1160 I QTI PowerHAL: Power setMode: 5 to: 1
+12-10 23:35:17.924  3874  3874 D GameMode: isScreenUnlocked: true
+12-10 23:35:17.925  3874  3874 D GameMode: exiting game mode
+12-10 23:35:17.941  4917  5857 W DynamicVolume-DynamicVolumeService: onForegroundActivitiesChanged, record latest volume: a[packageName=com.lifitness, time=Wed Dec 10 23:35:17 GMT-03:00 2025, startVolume=11]
+12-10 23:35:17.948  1502 15386 D BufferPoolAccessor2.0: bufferpool2 0xb400007409af4b88 : 13(31541 size) total buffers - 1(2429 size) used buffers - 2206/6366 (recycle/alloc) - 4404/6365 (fetch/transfer)
+12-10 23:35:17.949  1228  1987 W DisplayIdentification: Invalid EDID: falling back to serial number due to missing display name.
+12-10 23:35:17.949  1228  1987 W DisplayIdentification: Invalid EDID: falling back to ASCII text due to missing serial number.
+12-10 23:35:17.955  3874  3874 D GameMode: reset:
+12-10 23:35:17.963  3874  3874 D MFL     : Always in FF not supported; Disabling always in freeform
+12-10 23:35:17.964  3874  5323 D MFL     : getFreeFormPackages: is blank
+12-10 23:35:17.964  3874  5323 D MFL     : getDensityIndependentPixel: smallest width = 411
+12-10 23:35:17.964  3874  5323 D MFL     : getLaunchRect: margin = 0
+12-10 23:35:17.998 14719 14719 I bort    : onPause
+12-10 23:35:18.005   996   996 D Zygote  : Forked child process 21447
+12-10 23:35:18.015 21370 21370 D LifecycleMonitor: Lifecycle status change: androidx.activity.ComponentActivity@4e61109 in: PRE_ON_CREATE
+12-10 23:35:18.018 21370 21370 V ActivityScenario: Activity lifecycle changed event received but ignored because the reported transition was not ON_CREATE while the last known transition was PRE_ON_CREATE
+12-10 23:35:18.019  1160  1160 I QTI PowerHAL: Power setBoost: 0, duration: 0
+12-10 23:35:18.066 21447 21447 E oid.soundpicke: Not starting debugger since process cannot load the jdwp agent.
+12-10 23:35:18.106 21370 21370 D LifecycleMonitor: Lifecycle status change: androidx.activity.ComponentActivity@4e61109 in: CREATED
+12-10 23:35:18.107 21370 21370 V ActivityScenario: Update currentActivityStage to CREATED, currentActivity=androidx.activity.ComponentActivity@4e61109
+12-10 23:35:18.114 21370 21370 D LifecycleMonitor: Lifecycle status change: androidx.activity.ComponentActivity@4e61109 in: STARTED
+12-10 23:35:18.115 21370 21370 V ActivityScenario: Update currentActivityStage to STARTED, currentActivity=androidx.activity.ComponentActivity@4e61109
+12-10 23:35:18.120 21370 21370 D LifecycleMonitor: Lifecycle status change: androidx.activity.ComponentActivity@4e61109 in: RESUMED
+12-10 23:35:18.121 21370 21370 V ActivityScenario: Update currentActivityStage to RESUMED, currentActivity=androidx.activity.ComponentActivity@4e61109
+12-10 23:35:18.144 21447 21447 W oid.soundpicke: ClassLoaderContext classpath size mismatch. expected=6, found=0 (PCL[/system/framework/com.android.location.provider.jar*1664931834:/system/framework/services.jar*1967620738:/system/framework/services.jar!classes2.dex*2416309408:/system/framework/ethernet-service.jar*2555549550:/system/framework/moto-telephony.jar*193976260:/system/framework/moto-core_services.jar*2037086273] | PCL[])
+12-10 23:35:18.148  7085  7085 D BoundBrokerSvc: onBind: Intent { act=com.google.android.gms.measurement.START pkg=com.google.android.gms }
+12-10 23:35:18.148  7085  7085 D BoundBrokerSvc: Loading bound service for intent: Intent { act=com.google.android.gms.measurement.START pkg=com.google.android.gms }
+12-10 23:35:18.166 21370 21434 I FA      : Tag Manager is not found and thus will not be used
+12-10 23:35:18.192 21370 21442 I AdrenoGLES-0: QUALCOMM build                   : 704ecd9a2b, Ib3f3e69395
+12-10 23:35:18.192 21370 21442 I AdrenoGLES-0: Build Date                       : 12/29/20
+12-10 23:35:18.192 21370 21442 I AdrenoGLES-0: OpenGL ES Shader Compiler Version: EV031.32.02.06
+12-10 23:35:18.192 21370 21442 I AdrenoGLES-0: Local Branch                     :
+12-10 23:35:18.192 21370 21442 I AdrenoGLES-0: Remote Branch                    :
+12-10 23:35:18.192 21370 21442 I AdrenoGLES-0: Remote Branch                    :
+12-10 23:35:18.192 21370 21442 I AdrenoGLES-0: Reconstruct Branch               :
+12-10 23:35:18.192 21370 21442 I AdrenoGLES-0: Build Config                     : S P 10.0.7 AArch64
+12-10 23:35:18.192 21370 21442 I AdrenoGLES-0: Driver Path                      : /vendor/lib64/egl/libGLESv2_adreno.so
+12-10 23:35:18.213 21447 21447 D NetworkSecurityConfig: No Network Security Config specified, using platform default
+12-10 23:35:18.214 21447 21447 D NetworkSecurityConfig: No Network Security Config specified, using platform default
+12-10 23:35:18.223 13242 13242 I Finsky  : [2] agyj - Received: android.intent.action.PACKAGE_CHANGED, [pJShuMUnbTSOsss10VnePmcIVk5z7nEN6wP1ojzDl-8]
+12-10 23:35:18.234 13242 13286 I Finsky  : [71931] AIM: AppInfoManager-Perf > OnDeviceAppInfo > cacheHitCount=1, cacheMissCount=0. Missed  in cache (limit 10) : []
+12-10 23:35:18.234 13242 13286 I Finsky  : [71931] AIM: Got app ownership map. App counts: . Unique apps: 0
+12-10 23:35:18.234 13242 13286 E Finsky  : [71931] [Counters] attempted to use a non-positive increment for: 4752
+12-10 23:35:18.235 13242 13286 E Finsky  : [71931] [Counters] attempted to use a non-positive increment for: 4753
+12-10 23:35:18.243 21370 21442 I AdrenoGLES-0: PFP: 0x016ee190, ME: 0x00000000
+12-10 23:35:18.246 13242 13281 I Finsky  : [71926] AIM: AppInfoManager-Perf > ItemModel > CacheSize=124, cacheHitCount=0, cacheMissCount=0, total appsWithNoServerDataCount=0. Missed  in cache (limit 10) : []
+12-10 23:35:18.248 13242 13242 I Finsky  : [2] AIM: AppInfoCacheUpdater -> invalidating apps: [com.lifitness.test]
+12-10 23:35:18.248 13242 13242 I Finsky  : [2] AIM: AppInfoManager-Perf > getApps > called for 1 apps
+12-10 23:35:18.249 13242 13290 I Finsky  : [71934] AIM: AppInfoManager-Perf > OnDeviceAppInfo > cacheHitCount=0, cacheMissCount=1. Missed  in cache (limit 10) : [com.lifitness.test]
+12-10 23:35:18.250 13242 13266 I Finsky  : [71912] RECEIVER_PACKAGE_MONITOR#logWorkEndAndFinishGoAsync: SUCCESS
+12-10 23:35:18.251 13242 13281 I Finsky  : [71926] AIM: Got app ownership map. App counts: . Unique apps: 0
+12-10 23:35:18.251 13242 13281 E Finsky  : [71926] [Counters] attempted to use a non-positive increment for: 4752
+12-10 23:35:18.252 13242 13281 E Finsky  : [71926] [Counters] attempted to use a non-positive increment for: 4753
+12-10 23:35:18.258 21220 21220 I Finsky:background: [2] agxz - Received: android.intent.action.PACKAGE_CHANGED, [pJShuMUnbTSOsss10VnePmcIVk5z7nEN6wP1ojzDl-8]
+12-10 23:35:18.267 21220 21278 I Finsky:background: [72282] Wrote row to frosting DB: 199078
+12-10 23:35:18.282 13242 13284 I Finsky  : [71929] AIM: AppInfoManager-Perf > ItemModel > CacheSize=124, cacheHitCount=0, cacheMissCount=0, total appsWithNoServerDataCount=0. Missed  in cache (limit 10) : []
+12-10 23:35:18.289 21220 21278 I Finsky:background: [72282] Wrote row to frosting DB: 199079
+12-10 23:35:18.295 21220 21280 I Finsky:background: [72284] RECEIVER_PACKAGE_MONITOR_BACKGROUND#logWorkEndAndFinishGoAsync: SUCCESS
+12-10 23:35:18.302 13242 13290 I Finsky  : [71934] AIM: AppInfoManager-Perf > getApps > data collection finished
+12-10 23:35:18.302 13242 13290 I Finsky  : [71934] AIM: AppInfoManager-Perf > maybeDestroyAppInfoManager is called. actives = 0
+12-10 23:35:18.302 21220 21282 I Finsky:background: [72286] RECEIVER_ENGAGE_PACKAGE_CHANGED#logWorkEndAndFinishGoAsync: SKIPPED_PRECONDITIONS_UNMET
+12-10 23:35:18.345   996   996 D Zygote  : Forked child process 21470
+12-10 23:35:18.393 21470 21470 E .apps.nbu.file: Not starting debugger since process cannot load the jdwp agent.
+12-10 23:35:18.416   996   996 I Zygote  : Process 18881 exited due to signal 9 (Killed)
+12-10 23:35:18.444  1144  1144 I sensors-hal: batch:242, android.sensor.accelerometer/11, period=200000000, max_latency=0
+12-10 23:35:18.444  1144  1144 I sensors-hal: set_config:63, sample_period_ns is adjusted to 200000000 based on min/max delay_ns
+12-10 23:35:18.444  1144  1144 I sensors-hal: batch:251, android.sensor.accelerometer/11, period=200000000, max_latency=0 request completed
+12-10 23:35:18.445   996   996 I Zygote  : Process 19048 exited due to signal 9 (Killed)
+12-10 23:35:18.475 21470 21470 I .apps.nbu.file: The ClassLoaderContext is a special shared library.
+12-10 23:35:18.484  1144  1144 I sensors-hal: activate:209, android.sensor.accelerometer/11 en=0
+12-10 23:35:18.489   996   996 I Zygote  : Process 19088 exited due to signal 9 (Killed)
+12-10 23:35:18.490  1144  1144 I sensors-hal: activate:220, android.sensor.accelerometer/11 en=0 completed
+12-10 23:35:18.494  2056  2248 I libprocessgroup: Successfully killed process cgroup uid 10327 pid 19088 in 142ms
+12-10 23:35:18.495  2056  2248 I libprocessgroup: Successfully killed process cgroup uid 10333 pid 19048 in 0ms
+12-10 23:35:18.496  2056  2248 I libprocessgroup: Successfully killed process cgroup uid 10242 pid 18881 in 0ms
+12-10 23:35:18.508  2056  2214 D ArtManagerInternalImpl: /data/misc/iorapd/com.lifitness/1/androidx.activity.ComponentActivity/compiled_traces/compiled_trace.pb doesn't exist
+12-10 23:35:18.512  2056  2214 I ActivityTaskManager: Displayed com.lifitness/androidx.activity.ComponentActivity: +645ms
+12-10 23:35:18.514  1160  1160 I QTI PowerHAL: Power setMode: 5 to: 0
+12-10 23:35:18.535  1160  1160 I QTI PowerHAL: Power setBoost: 0, duration: 0
+12-10 23:35:18.543  4079  4079 I GoogleInputMethodService: GoogleInputMethodService.onFinishInput():2097
+12-10 23:35:18.552 14719 14719 I bort    : onStop
+12-10 23:35:18.570  4079  4079 I Module  : DeviceLockedStatusModuleProvider$Module.updateDeviceLockedStatus():103 repeatCheckTimes = 0, locked = false
+12-10 23:35:18.580  4079  4079 I GoogleInputMethodService: GoogleInputMethodService.onStartInput():1347 onStartInput(EditorInfo{EditorInfo{packageName=com.lifitness, inputType=0, inputTypeString=NULL, enableLearning=false, autoCorrection=false, autoComplete=false, imeOptions=0, privateImeOptions=null, actionName=UNSPECIFIED, actionLabel=null, initialSelStart=-1, initialSelEnd=-1, initialCapsMode=0, label=null, fieldId=-1, fieldName=null, extras=null, hintText=null, hintLocales=[]}}, false)
+12-10 23:35:18.583  4079  4079 I Module  : DeviceLockedStatusModuleProvider$Module.updateDeviceLockedStatus():103 repeatCheckTimes = 1, locked = false
+12-10 23:35:18.584  7085 21490 D AdvertisingIdClient: AdvertisingIdClient already created.
+12-10 23:35:18.584  7085 21490 D AdvertisingIdClient: AdvertisingIdClient is not bounded. Starting to bind it...
+12-10 23:35:18.615  7085 21490 D AdvertisingIdClient: AdvertisingIdClient is bounded
+12-10 23:35:18.622 23314 23314 D BoundBrokerSvc: onRebind: Intent { act=com.google.android.gms.common.telemetry.service.START dat=chimera-action: cmp=com.google.android.gms/.chimera.PersistentApiService }
+12-10 23:35:18.631  7085 21490 I AdvertisingIdClient: shouldSendLog 345522268
+12-10 23:35:18.631  7085 21490 I AdvertisingIdClient: GetInfoInternal elapse 48ms
+12-10 23:35:18.637 21470 21470 W .apps.nbu.file: JIT profile information will not be recorded: profile file does not exist.
+12-10 23:35:18.637 21470 21470 I chatty  : uid=10170(com.google.android.apps.nbu.files) identical 1 line
+12-10 23:35:18.637 21470 21470 W .apps.nbu.file: JIT profile information will not be recorded: profile file does not exist.
+12-10 23:35:18.669 21470 21470 D NetworkSecurityConfig: Using Network Security Config from resource network_security_config debugBuild: false
+12-10 23:35:18.670 21470 21470 D NetworkSecurityConfig: Using Network Security Config from resource network_security_config debugBuild: false
+12-10 23:35:18.683 23314 23314 D BoundBrokerSvc: onRebind: Intent { act=com.google.android.gms.presencemanager.service.START dat=chimera-action: cmp=com.google.android.gms/.chimera.PersistentApiService }
+12-10 23:35:18.713 23314 23314 D BoundBrokerSvc: onRebind: Intent { act=com.google.android.gms.presencemanager.service.INTERNAL_IDENTITY dat=chimera-action: cmp=com.google.android.gms/.chimera.PersistentApiService }
+12-10 23:35:18.782 23314 21391 I NetworkScheduler: (REDACTED) Error inserting %s
+12-10 23:35:18.870 21470 21498 W .apps.nbu.file: ClassLoaderContext classpath size mismatch. expected=13, found=0 (DLC[];PCL[base.apk*1434477484:base.apk!classes2.dex*2085032457:base.apk!classes3.dex*2853115149:base.apk!classes4.dex*1293879866:base.apk!classes5.dex*2805541983:base.apk!classes6.dex*4214394693:base.apk!classes7.dex*3109580202:base.apk!classes8.dex*1399315529:base.apk!classes9.dex*3018179486:base.apk!classes10.dex*1001692797:base.apk!classes11.dex*888609203:base.apk!classes12.dex*1718127203:base.apk!classes13.dex*430198834]{PCL[/system/framework/org.apache.http.legacy.jar*1522375157]#PCL[/apex/com.android.extservices/javalib/android.ext.adservices.jar*1727077579]#PCL[/system/framework/com.android.media.remotedisplay.jar*1573936315]#PCL[/system/framework/com.android.location.provider.jar*1664931834]#PCL[/system/framework/org.apache.http.legacy.jar*1522375157]#PCL[/apex/com.android.extservices/javalib/android.ext.adservices.jar*1727077579]} | DLC[];PCL[])
+12-10 23:35:18.931 21470 21510 I FA      : App measurement initialized, version: 147012
+12-10 23:35:18.931 21470 21510 I FA      : To enable debug logging run: adb shell setprop log.tag.FA VERBOSE
+12-10 23:35:18.931 21470 21510 I FA      : To enable faster debug mode event logging run:
+12-10 23:35:18.931 21470 21510 I FA      :   adb shell setprop debug.firebase.analytics.app com.google.android.apps.nbu.files
+12-10 23:35:18.968 23314 21193 I Fitness : (REDACTED) OnPackageChangedOperation got intent: %s
+12-10 23:35:19.008  2056  2620 D WifiStaIfaceHidlImpl: getCachedScanData is not implemented by HIDL
+12-10 23:35:19.054 23314 14754 I Fitness : (REDACTED) Package %s enabled.  Potentially restarting recording
+12-10 23:35:19.058 23314 21524 I Fitness : (REDACTED) FitCleanupIntentOperation received Intent %s
+12-10 23:35:19.086  7085 15626 I Icing   : Indexing com.google.android.gms-apps from com.google.android.gms
+12-10 23:35:19.095  7085 21490 D AdvertisingIdClient: AdvertisingIdClient already created.
+12-10 23:35:19.099  7085 21490 I AdvertisingIdClient: shouldSendLog 345522268
+12-10 23:35:19.099  7085 21490 I AdvertisingIdClient: GetInfoInternal elapse 3ms
+12-10 23:35:19.211 23314 20419 I NetworkScheduler.Stats: (REDACTED) Task %s/%s started execution. cause:%s exec_start_elapsed_seconds: %s
+12-10 23:35:19.282  7085 21210 I PlayGamesServices[GamesSyncAdapter]: Starting sync for ee670bfc
+12-10 23:35:19.290  7085 21210 I PlayGamesServices[GamesSyncAdapter]: Sync duration for ee670bfc: 4
+12-10 23:35:19.295  7085 15626 I Icing   : Indexing done com.google.android.gms-apps
+12-10 23:35:19.337 23314 21124 I NetworkScheduler.Stats: (REDACTED) Task %s/%s finished executing. cause:%s result: %s elapsed_millis: %s uptime_millis: %s exec_start_elapsed_seconds: %s
+12-10 23:35:19.349  7085  7341 I GetServiceValidatorImpl: (REDACTED) onGetService() from Client SDK version [%s], Module version [%s], PGA version [%s], Account [%s], Calling package [%s], Game package [%s]
+12-10 23:35:19.359  7085  7341 W GetGamesServiceReqFacto: Parsing request with ignored arguments. signInOptionsBundle [Bundle[{com.google.android.gms.signin.internal.serverClientId=null, com.google.android.gms.signin.internal.usePromptModeForAuthCode=true, com.google.android.gms.signin.internal.logSessionId=null, com.google.android.gms.signin.internal.hostedDomain=null, com.google.android.gms.signin.internal.offlineAccessRequested=false, com.google.android.gms.signin.internal.waitForAccessTokenRefresh=false, com.google.android.gms.signin.internal.clientRequestedAccount=Account {name=<<default account>>, type=com.google}, com.google.android.gms.signin.internal.idTokenRequested=false, com.google.android.gms.signin.internal.forceCodeForRefreshToken=false}]], isRetryingSignIn [false], skipWelcomePopup [false], requireGooglePlus [false]
+12-10 23:35:19.359  7085  7341 I GetGamesServiceReqFacto: Replacing request for `games` scope with `games_lite`
+12-10 23:35:19.388  7085 21535 I SignInPerformer-10: (REDACTED) Handling request [%s], isFirstPartyCaller [%s]
+12-10 23:35:19.393  7085 21535 I SignInPerformer-10: Successfully brokered first-party unauthenticated GamesService [CONTEXT service_id=1 ]
+12-10 23:35:19.397  7085 21535 I GetGamesServiceV2Op: (REDACTED) Successfully brokered GamesService for request %s
+12-10 23:35:19.419 23314 20419 I NetworkScheduler.Stats: (REDACTED) Task %s/%s started execution. cause:%s exec_start_elapsed_seconds: %s
+12-10 23:35:19.473 23314 21123 I NetworkScheduler.Stats: (REDACTED) Task %s/%s started execution. cause:%s exec_start_elapsed_seconds: %s
+12-10 23:35:19.486 23314 20419 I NetworkScheduler.Stats: (REDACTED) Task %s/%s finished executing. cause:%s result: %s elapsed_millis: %s uptime_millis: %s exec_start_elapsed_seconds: %s
+12-10 23:35:19.544 21370 21370 I Choreographer: Skipped 50 frames!  The application may be doing too much work on its main thread.
+12-10 23:35:19.564 23314 25527 I FontLog : (REDACTED) Received query %s, URI %s
+12-10 23:35:19.564 23314 25527 I FontLog : (REDACTED) Query [%s] resolved to %s
+12-10 23:35:19.578 23314 25527 I FontLog : (REDACTED) Fetch %s end status %s
+12-10 23:35:19.592 23314 13711 I FontLog : (REDACTED) Pulling font file for id = %d, cache size = %d
+12-10 23:35:19.610 23314 13711 I FontLog : (REDACTED) Pulling font file for id = %d, cache size = %d
+12-10 23:35:19.657 21370 21370 W com.lifitness: Accessing hidden method Landroid/graphics/Canvas;->drawPatch(Landroid/graphics/NinePatch;Landroid/graphics/Rect;Landroid/graphics/Paint;)V (greylist-max-o, linking, denied)
+12-10 23:35:19.657 21370 21370 W com.lifitness: Accessing hidden method Landroid/graphics/Canvas;->drawPatch(Landroid/graphics/NinePatch;Landroid/graphics/RectF;Landroid/graphics/Paint;)V (greylist-max-o, linking, denied)
+12-10 23:35:19.838 21370 21442 I OpenGLRenderer: Davey! duration=1137ms; Flags=0, IntendedVsync=272312073808707, Vsync=272312907142007, OldestInputEvent=9223372036854775807, NewestInputEvent=0, HandleInputStart=272312917623433, AnimationStart=272312917633798, PerformTraversalsStart=272312976502658, DrawStart=272313104028035, SyncQueued=272313133177257, SyncStart=272313133507101, IssueDrawCommandsStart=272313133626684, SwapBuffers=272313210690025, FrameCompleted=272313211624660, DequeueBufferDuration=386407, QueueBufferDuration=494115, GpuCompleted=0,
+12-10 23:35:19.879 23314 23314 D BoundBrokerSvc: onRebind: Intent { act=com.google.android.gms.auth.aang.events.services.START dat=chimera-action: cmp=com.google.android.gms/.chimera.PersistentApiService }
+12-10 23:35:19.914  1160  1160 I QTI PowerHAL: Power setMode: 5 to: 1
+12-10 23:35:19.934 21370 21370 D LifecycleMonitor: Lifecycle status change: androidx.activity.ComponentActivity@4e61109 in: PAUSED
+12-10 23:35:19.935 21370 21370 V ActivityScenario: Update currentActivityStage to PAUSED, currentActivity=androidx.activity.ComponentActivity@4e61109
+12-10 23:35:19.982   996   996 D Zygote  : Forked child process 21539
+12-10 23:35:20.001 21539 21539 I .lifitness.tes: Late-enabling -Xcheck:jni
+12-10 23:35:20.032 21539 21539 I .lifitness.tes: Unquickening 19 vdex files!
+12-10 23:35:20.046  1805  1833 I adbd    : jdwp connection from 21539
+12-10 23:35:20.058  3025  3025 D DeviceStatisticsService: chargerType=2 batteryLevel=93 totalBatteryCapacity=5842000
+12-10 23:35:20.064 23314 21391 I NetworkScheduler: (REDACTED) Error inserting %s
+12-10 23:35:20.088  3874  3874 D GameMode: isScreenUnlocked: true
+12-10 23:35:20.089  3874  3874 D GameMode: exiting game mode
+12-10 23:35:20.130 21539 21539 D ApplicationLoaders: Returning zygote-cached class loader: /system/framework/android.test.base.jar
+12-10 23:35:20.130 21539 21539 D ApplicationLoaders: Returning zygote-cached class loader: /system/framework/android.test.base.jar
+12-10 23:35:20.137 21539 21539 I .lifitness.tes: The ClassLoaderContext is a special shared library.
+12-10 23:35:20.141  4917  5857 W DynamicVolume-DynamicVolumeService: onForegroundActivitiesChanged, record latest volume: a[packageName=com.lifitness.test, time=Wed Dec 10 23:35:20 GMT-03:00 2025, startVolume=11]
+12-10 23:35:20.144  4569  6326 I native  : I0000 00:00:1765420520.144817    6326 soda_impl.cc:1922] Adding hotword timeout event
+12-10 23:35:20.144  3874  3874 D GameMode: reset:
+12-10 23:35:20.147 21539 21539 D ApplicationLoaders: Returning zygote-cached class loader: /system/framework/android.test.base.jar
+12-10 23:35:20.147  4569  6327 I dybo    : Hotword timeout event!
+12-10 23:35:20.147 21539 21539 D ApplicationLoaders: Returning zygote-cached class loader: /system/framework/android.test.base.jar
+12-10 23:35:20.147  4569  6327 I dybo    : Not DEFAULT_DSP timeout event. Call the onHotwordTimeout callback.
+12-10 23:35:20.147  4569  6327 I dydu    : (REDACTED) Hotword score : %f, Hotword model id : %s.
+12-10 23:35:20.148  4569  6327 I dydu    : (REDACTED) Timeout reason %s, Coarse channel index %d.
+12-10 23:35:20.148  4569  6327 I dxuz    : Not handling the timeoutevent with the timeout reason that is not DEFAULT_DSP for now.
+12-10 23:35:20.150 21539 21539 I .lifitness.tes: The ClassLoaderContext is a special shared library.
+12-10 23:35:20.160  3874  3874 D MFL     : Always in FF not supported; Disabling always in freeform
+12-10 23:35:20.161  3874  5323 D MFL     : getFreeFormPackages: is blank
+12-10 23:35:20.162  3874  5323 D MFL     : getDensityIndependentPixel: smallest width = 411
+12-10 23:35:20.162  3874  5323 D MFL     : getLaunchRect: margin = 0
+12-10 23:35:20.228 21539 21539 D NetworkSecurityConfig: No Network Security Config specified, using platform default
+12-10 23:35:20.230 21539 21539 D NetworkSecurityConfig: No Network Security Config specified, using platform default
+12-10 23:35:20.244  1228  2647 W DisplayIdentification: Invalid EDID: falling back to serial number due to missing display name.
+12-10 23:35:20.244  1228  2647 W DisplayIdentification: Invalid EDID: falling back to ASCII text due to missing serial number.
+12-10 23:35:20.258  2735  2749 I ndroid.systemu: NativeAlloc concurrent copying GC freed 101044(3166KB) AllocSpace objects, 6(120KB) LOS objects, 49% free, 7733KB/15MB, paused 131us total 105.784ms
+12-10 23:35:20.265  2735  2754 W System  : A resource failed to call release.
+12-10 23:35:20.266  2735  2754 W System  : A resource failed to call release.
+12-10 23:35:20.324 21370 21370 D LifecycleMonitor: Lifecycle status change: androidx.activity.ComponentActivity@4e61109 in: STOPPED
+12-10 23:35:20.324 21370 21370 V ActivityScenario: Update currentActivityStage to STOPPED, currentActivity=androidx.activity.ComponentActivity@4e61109
+12-10 23:35:20.348 21370 21370 D LifecycleMonitor: Lifecycle status change: androidx.activity.ComponentActivity@4e61109 in: DESTROYED
+12-10 23:35:20.350 21370 21370 V ActivityScenario: Update currentActivityStage to DESTROYED, currentActivity=null
+12-10 23:35:20.401 21539 21565 I AdrenoGLES-0: QUALCOMM build                   : 704ecd9a2b, Ib3f3e69395
+12-10 23:35:20.401 21539 21565 I AdrenoGLES-0: Build Date                       : 12/29/20
+12-10 23:35:20.401 21539 21565 I AdrenoGLES-0: OpenGL ES Shader Compiler Version: EV031.32.02.06
+12-10 23:35:20.401 21539 21565 I AdrenoGLES-0: Local Branch                     :
+12-10 23:35:20.401 21539 21565 I AdrenoGLES-0: Remote Branch                    :
+12-10 23:35:20.401 21539 21565 I AdrenoGLES-0: Remote Branch                    :
+12-10 23:35:20.401 21539 21565 I AdrenoGLES-0: Reconstruct Branch               :
+12-10 23:35:20.401 21539 21565 I AdrenoGLES-0: Build Config                     : S P 10.0.7 AArch64
+12-10 23:35:20.401 21539 21565 I AdrenoGLES-0: Driver Path                      : /vendor/lib64/egl/libGLESv2_adreno.so
+12-10 23:35:20.424 21539 21565 I AdrenoGLES-0: PFP: 0x016ee190, ME: 0x00000000
+12-10 23:35:20.441 21370 21413 D IdlingRegistry: Unregistering idling resources: [androidx.compose.ui.test.junit4.EspressoLink@2126c5f]
+12-10 23:35:20.444 21370 21413 I TestRunner: finished: testButtonIsEnable(com.lifitness.composables.ButtonTests)

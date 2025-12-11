@@ -79,10 +79,10 @@ com.lifitness.app-recyclerview-1.1.0-77 /home/nero/.gradle/caches/transforms-3/e
 com.lifitness.app-material3-window-size-class-1.1.0-78 /home/nero/.gradle/caches/transforms-3/f0ab85cc5a20a230fb2ed3b300775ab1/transformed/material3-window-size-class-1.1.0/res
 com.lifitness.app-play-services-basement-18.1.0-79 /home/nero/.gradle/caches/transforms-3/f4dd249cad9347bc16e8ef560448cfd1/transformed/play-services-basement-18.1.0/res
 com.lifitness.app-lifecycle-runtime-ktx-2.6.2-80 /home/nero/.gradle/caches/transforms-3/f9699e136cde30dd337d0644d6ba359f/transformed/lifecycle-runtime-ktx-2.6.2/res
-com.lifitness.app-res-81 /home/nero/Dev/Projetos Mobile/LiFitness/app/build/generated/res/processDebugGoogleServices
-com.lifitness.app-resValues-82 /home/nero/Dev/Projetos Mobile/LiFitness/app/build/generated/res/resValues/debug
-com.lifitness.app-packageDebugResources-83 /home/nero/Dev/Projetos Mobile/LiFitness/app/build/intermediates/incremental/debug/packageDebugResources/merged.dir
-com.lifitness.app-packageDebugResources-84 /home/nero/Dev/Projetos Mobile/LiFitness/app/build/intermediates/incremental/debug/packageDebugResources/stripped.dir
-com.lifitness.app-merged_res-85 /home/nero/Dev/Projetos Mobile/LiFitness/app/build/intermediates/merged_res/debug
-com.lifitness.app-debug-86 /home/nero/Dev/Projetos Mobile/LiFitness/app/src/debug/res
-com.lifitness.app-main-87 /home/nero/Dev/Projetos Mobile/LiFitness/app/src/main/res
+com.lifitness.app-res-81 /home/nero/Downloads/Lifitness-Kotlin/Lifitness-Kotlin/Lifitness/app/build/generated/res/processDebugGoogleServices
+com.lifitness.app-resValues-82 /home/nero/Downloads/Lifitness-Kotlin/Lifitness-Kotlin/Lifitness/app/build/generated/res/resValues/debug
+com.lifitness.app-packageDebugResources-83 /home/nero/Downloads/Lifitness-Kotlin/Lifitness-Kotlin/Lifitness/app/build/intermediates/incremental/debug/packageDebugResources/merged.dir
+com.lifitness.app-packageDebugResources-84 /home/nero/Downloads/Lifitness-Kotlin/Lifitness-Kotlin/Lifitness/app/build/intermediates/incremental/debug/packageDebugResources/stripped.dir
+com.lifitness.app-merged_res-85 /home/nero/Downloads/Lifitness-Kotlin/Lifitness-Kotlin/Lifitness/app/build/intermediates/merged_res/debug
+com.lifitness.app-debug-86 /home/nero/Downloads/Lifitness-Kotlin/Lifitness-Kotlin/Lifitness/app/src/debug/res
+com.lifitness.app-main-87 /home/nero/Downloads/Lifitness-Kotlin/Lifitness-Kotlin/Lifitness/app/src/main/res

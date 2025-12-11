@@ -1,0 +1,50 @@
+12-10 23:35:21.069 21370 21413 I TestRunner: started: testSmallButtonHeight(com.lifitness.composables.ButtonTests)
+12-10 23:35:21.083 21370 21413 D IdlingRegistry: Registering idling resources: [androidx.compose.ui.test.junit4.EspressoLink@b14a8f7]
+12-10 23:35:21.099 21370 21413 W Settings: Setting always_finish_activities has moved from android.provider.Settings.System to android.provider.Settings.Global, returning read-only value.
+12-10 23:35:21.117  1160  1160 I QTI PowerHAL: Power setMode: 5 to: 1
+12-10 23:35:21.137  3874  3874 D GameMode: isScreenUnlocked: true
+12-10 23:35:21.137  3874  3874 D GameMode: exiting game mode
+12-10 23:35:21.144  3874  3874 D GameMode: reset:
+12-10 23:35:21.146  4917  5857 W DynamicVolume-DynamicVolumeService: onForegroundActivitiesChanged, record latest volume: a[packageName=com.lifitness, time=Wed Dec 10 23:35:21 GMT-03:00 2025, startVolume=11]
+12-10 23:35:21.152  3874  3874 D MFL     : Always in FF not supported; Disabling always in freeform
+12-10 23:35:21.154  3874  5325 D MFL     : getFreeFormPackages: is blank
+12-10 23:35:21.158  3874  5325 D MFL     : getDensityIndependentPixel: smallest width = 411
+12-10 23:35:21.159  3874  5325 D MFL     : getLaunchRect: margin = 0
+12-10 23:35:21.161 21370 21370 D LifecycleMonitor: Lifecycle status change: androidx.activity.ComponentActivity@ad75fda in: PRE_ON_CREATE
+12-10 23:35:21.162 21370 21370 V ActivityScenario: Activity lifecycle changed event received but ignored because the reported transition was not ON_CREATE while the last known transition was PRE_ON_CREATE
+12-10 23:35:21.174  2735  2749 I ndroid.systemu: NativeAlloc concurrent copying GC freed 2938(205KB) AllocSpace objects, 0(0B) LOS objects, 49% free, 7784KB/15MB, paused 179us total 203.636ms
+12-10 23:35:21.177  2735  2754 W System  : A resource failed to call release.
+12-10 23:35:21.192 21370 21370 D LifecycleMonitor: Lifecycle status change: androidx.activity.ComponentActivity@ad75fda in: CREATED
+12-10 23:35:21.193 21370 21370 V ActivityScenario: Update currentActivityStage to CREATED, currentActivity=androidx.activity.ComponentActivity@ad75fda
+12-10 23:35:21.200 21370 21370 D LifecycleMonitor: Lifecycle status change: androidx.activity.ComponentActivity@ad75fda in: STARTED
+12-10 23:35:21.201 21370 21370 V ActivityScenario: Update currentActivityStage to STARTED, currentActivity=androidx.activity.ComponentActivity@ad75fda
+12-10 23:35:21.205 21370 21370 D LifecycleMonitor: Lifecycle status change: androidx.activity.ComponentActivity@ad75fda in: RESUMED
+12-10 23:35:21.206 21370 21370 V ActivityScenario: Update currentActivityStage to RESUMED, currentActivity=androidx.activity.ComponentActivity@ad75fda
+12-10 23:35:21.283  2056  2214 D ArtManagerInternalImpl: /data/misc/iorapd/com.lifitness/1/androidx.activity.ComponentActivity/compiled_traces/compiled_trace.pb doesn't exist
+12-10 23:35:21.285  2056  2214 I ActivityTaskManager: Displayed com.lifitness/androidx.activity.ComponentActivity: +171ms
+12-10 23:35:21.286  1160  1160 I QTI PowerHAL: Power setMode: 5 to: 0
+12-10 23:35:21.303  1160  1160 I QTI PowerHAL: Power setBoost: 0, duration: 0
+12-10 23:35:21.378 23314 21391 I NetworkScheduler: (REDACTED) Error inserting %s
+12-10 23:35:21.419  4079  4079 I GoogleInputMethodService: GoogleInputMethodService.onFinishInput():2097
+12-10 23:35:21.422  4079  4079 I Module  : DeviceLockedStatusModuleProvider$Module.updateDeviceLockedStatus():103 repeatCheckTimes = 0, locked = false
+12-10 23:35:21.423  4079  4079 I GoogleInputMethodService: GoogleInputMethodService.onStartInput():1347 onStartInput(EditorInfo{EditorInfo{packageName=com.lifitness, inputType=0, inputTypeString=NULL, enableLearning=false, autoCorrection=false, autoComplete=false, imeOptions=0, privateImeOptions=null, actionName=UNSPECIFIED, actionLabel=null, initialSelStart=-1, initialSelEnd=-1, initialCapsMode=0, label=null, fieldId=-1, fieldName=null, extras=null, hintText=null, hintLocales=[]}}, false)
+12-10 23:35:21.426  4079  4079 I Module  : DeviceLockedStatusModuleProvider$Module.updateDeviceLockedStatus():103 repeatCheckTimes = 1, locked = false
+12-10 23:35:21.510   996   996 I Zygote  : Process 19315 exited due to signal 9 (Killed)
+12-10 23:35:21.510  1160  1160 I QTI PowerHAL: Power setMode: 5 to: 1
+12-10 23:35:21.520  2056  2248 I libprocessgroup: Successfully killed process cgroup uid 10244 pid 19315 in 53ms
+12-10 23:35:21.528 21370 21370 D LifecycleMonitor: Lifecycle status change: androidx.activity.ComponentActivity@ad75fda in: PAUSED
+12-10 23:35:21.530 21370 21370 V ActivityScenario: Update currentActivityStage to PAUSED, currentActivity=androidx.activity.ComponentActivity@ad75fda
+12-10 23:35:21.542  3874  3874 D GameMode: isScreenUnlocked: true
+12-10 23:35:21.543  3874  3874 D GameMode: exiting game mode
+12-10 23:35:21.556  4917  5857 W DynamicVolume-DynamicVolumeService: onForegroundActivitiesChanged, record latest volume: a[packageName=com.lifitness.test, time=Wed Dec 10 23:35:21 GMT-03:00 2025, startVolume=11]
+12-10 23:35:21.613  3874  3874 D GameMode: reset:
+12-10 23:35:21.635  3874  3874 D MFL     : Always in FF not supported; Disabling always in freeform
+12-10 23:35:21.636  3874  5323 D MFL     : getFreeFormPackages: is blank
+12-10 23:35:21.640  3874  5323 D MFL     : getDensityIndependentPixel: smallest width = 411
+12-10 23:35:21.641  3874  5323 D MFL     : getLaunchRect: margin = 0
+12-10 23:35:21.644 21370 21370 D LifecycleMonitor: Lifecycle status change: androidx.activity.ComponentActivity@ad75fda in: STOPPED
+12-10 23:35:21.644 21370 21370 V ActivityScenario: Update currentActivityStage to STOPPED, currentActivity=androidx.activity.ComponentActivity@ad75fda
+12-10 23:35:21.659 21370 21370 D LifecycleMonitor: Lifecycle status change: androidx.activity.ComponentActivity@ad75fda in: DESTROYED
+12-10 23:35:21.661 21370 21370 V ActivityScenario: Update currentActivityStage to DESTROYED, currentActivity=null
+12-10 23:35:21.699 21370 21413 D IdlingRegistry: Unregistering idling resources: [androidx.compose.ui.test.junit4.EspressoLink@b14a8f7]
+12-10 23:35:21.700 21370 21413 I TestRunner: finished: testSmallButtonHeight(com.lifitness.composables.ButtonTests)

@@ -1,0 +1,25 @@
+#Wed Dec 10 23:34:12 BRT 2025
+path.4=14/classes.dex
+path.3=12/classes.dex
+path.2=10/classes.dex
+path.1=0/classes.dex
+path.7=4/classes.dex
+path.6=2/classes.dex
+path.5=15/classes.dex
+path.0=classes.dex
+base.4=/home/nero/Downloads/Lifitness-Kotlin/Lifitness-Kotlin/Lifitness/app/build/intermediates/dex/debugAndroidTest/mergeProjectDexDebugAndroidTest/14/classes.dex
+base.3=/home/nero/Downloads/Lifitness-Kotlin/Lifitness-Kotlin/Lifitness/app/build/intermediates/dex/debugAndroidTest/mergeProjectDexDebugAndroidTest/12/classes.dex
+base.2=/home/nero/Downloads/Lifitness-Kotlin/Lifitness-Kotlin/Lifitness/app/build/intermediates/dex/debugAndroidTest/mergeProjectDexDebugAndroidTest/10/classes.dex
+base.1=/home/nero/Downloads/Lifitness-Kotlin/Lifitness-Kotlin/Lifitness/app/build/intermediates/dex/debugAndroidTest/mergeProjectDexDebugAndroidTest/0/classes.dex
+base.0=/home/nero/Downloads/Lifitness-Kotlin/Lifitness-Kotlin/Lifitness/app/build/intermediates/dex/debugAndroidTest/mergeExtDexDebugAndroidTest/classes.dex
+renamed.3=classes4.dex
+renamed.2=classes3.dex
+renamed.1=classes2.dex
+renamed.0=classes.dex
+renamed.7=classes8.dex
+renamed.6=classes7.dex
+base.7=/home/nero/Downloads/Lifitness-Kotlin/Lifitness-Kotlin/Lifitness/app/build/intermediates/dex/debugAndroidTest/mergeProjectDexDebugAndroidTest/4/classes.dex
+renamed.5=classes6.dex
+base.6=/home/nero/Downloads/Lifitness-Kotlin/Lifitness-Kotlin/Lifitness/app/build/intermediates/dex/debugAndroidTest/mergeProjectDexDebugAndroidTest/2/classes.dex
+renamed.4=classes5.dex
+base.5=/home/nero/Downloads/Lifitness-Kotlin/Lifitness-Kotlin/Lifitness/app/build/intermediates/dex/debugAndroidTest/mergeProjectDexDebugAndroidTest/15/classes.dex
