@@ -1,6 +1,6 @@
 package com.lifitness.domain.use_case
 
-import android.util.Patterns
+
 
 class ValidatePassword {
     fun execute(password: String) : ValidationResult{
