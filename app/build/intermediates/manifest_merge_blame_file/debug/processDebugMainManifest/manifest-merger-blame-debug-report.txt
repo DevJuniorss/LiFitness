@@ -9,12 +9,12 @@
 9        android:targetSdkVersion="34" />
 10
 11    <uses-feature android:name="android.hardware.camera.any" />
-11-->/home/nero/Downloads/Lifitness-Kotlin/Lifitness-Kotlin/Lifitness/app/src/main/AndroidManifest.xml:5:5-63
-11-->/home/nero/Downloads/Lifitness-Kotlin/Lifitness-Kotlin/Lifitness/app/src/main/AndroidManifest.xml:5:19-61
+11-->/home/nero/Dev/Projetos Mobile/LiFitness/app/src/main/AndroidManifest.xml:5:5-63
+11-->/home/nero/Dev/Projetos Mobile/LiFitness/app/src/main/AndroidManifest.xml:5:19-61
 12
 13    <uses-permission android:name="android.permission.CAMERA" />
-13-->/home/nero/Downloads/Lifitness-Kotlin/Lifitness-Kotlin/Lifitness/app/src/main/AndroidManifest.xml:6:5-64
-13-->/home/nero/Downloads/Lifitness-Kotlin/Lifitness-Kotlin/Lifitness/app/src/main/AndroidManifest.xml:6:22-62
+13-->/home/nero/Dev/Projetos Mobile/LiFitness/app/src/main/AndroidManifest.xml:6:5-64
+13-->/home/nero/Dev/Projetos Mobile/LiFitness/app/src/main/AndroidManifest.xml:6:22-62
 14    <uses-permission android:name="android.permission.INTERNET" />
 14-->[com.google.firebase:firebase-auth:22.3.0] /home/nero/.gradle/caches/8.13/transforms/916eb7c592e7678f95c923c684360ffe/transformed/firebase-auth-22.3.0/AndroidManifest.xml:25:5-67
 14-->[com.google.firebase:firebase-auth:22.3.0] /home/nero/.gradle/caches/8.13/transforms/916eb7c592e7678f95c923c684360ffe/transformed/firebase-auth-22.3.0/AndroidManifest.xml:25:22-64
@@ -54,47 +54,47 @@
 30-->[androidx.core:core:1.12.0] /home/nero/.gradle/caches/8.13/transforms/390ccdea279bf11267175344dc6978b5/transformed/core-1.12.0/AndroidManifest.xml:26:22-94
 31
 32    <application
-32-->/home/nero/Downloads/Lifitness-Kotlin/Lifitness-Kotlin/Lifitness/app/src/main/AndroidManifest.xml:7:5-28:19
+32-->/home/nero/Dev/Projetos Mobile/LiFitness/app/src/main/AndroidManifest.xml:7:5-28:19
 33        android:allowBackup="true"
-33-->/home/nero/Downloads/Lifitness-Kotlin/Lifitness-Kotlin/Lifitness/app/src/main/AndroidManifest.xml:8:9-35
+33-->/home/nero/Dev/Projetos Mobile/LiFitness/app/src/main/AndroidManifest.xml:8:9-35
 34        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
 34-->[androidx.core:core:1.12.0] /home/nero/.gradle/caches/8.13/transforms/390ccdea279bf11267175344dc6978b5/transformed/core-1.12.0/AndroidManifest.xml:28:18-86
 35        android:dataExtractionRules="@xml/data_extraction_rules"
-35-->/home/nero/Downloads/Lifitness-Kotlin/Lifitness-Kotlin/Lifitness/app/src/main/AndroidManifest.xml:9:9-65
+35-->/home/nero/Dev/Projetos Mobile/LiFitness/app/src/main/AndroidManifest.xml:9:9-65
 36        android:debuggable="true"
 37        android:extractNativeLibs="false"
 38        android:fullBackupContent="@xml/backup_rules"
-38-->/home/nero/Downloads/Lifitness-Kotlin/Lifitness-Kotlin/Lifitness/app/src/main/AndroidManifest.xml:10:9-54
+38-->/home/nero/Dev/Projetos Mobile/LiFitness/app/src/main/AndroidManifest.xml:10:9-54
 39        android:icon="@mipmap/lifitness_icon"
-39-->/home/nero/Downloads/Lifitness-Kotlin/Lifitness-Kotlin/Lifitness/app/src/main/AndroidManifest.xml:11:9-46
+39-->/home/nero/Dev/Projetos Mobile/LiFitness/app/src/main/AndroidManifest.xml:11:9-46
 40        android:label="@string/app_name"
-40-->/home/nero/Downloads/Lifitness-Kotlin/Lifitness-Kotlin/Lifitness/app/src/main/AndroidManifest.xml:12:9-41
+40-->/home/nero/Dev/Projetos Mobile/LiFitness/app/src/main/AndroidManifest.xml:12:9-41
 41        android:roundIcon="@mipmap/lifitness_icon_round"
-41-->/home/nero/Downloads/Lifitness-Kotlin/Lifitness-Kotlin/Lifitness/app/src/main/AndroidManifest.xml:13:9-57
+41-->/home/nero/Dev/Projetos Mobile/LiFitness/app/src/main/AndroidManifest.xml:13:9-57
 42        android:supportsRtl="true"
-42-->/home/nero/Downloads/Lifitness-Kotlin/Lifitness-Kotlin/Lifitness/app/src/main/AndroidManifest.xml:14:9-35
+42-->/home/nero/Dev/Projetos Mobile/LiFitness/app/src/main/AndroidManifest.xml:14:9-35
 43        android:testOnly="true"
 44        android:theme="@style/Theme.Lifitness" >
-44-->/home/nero/Downloads/Lifitness-Kotlin/Lifitness-Kotlin/Lifitness/app/src/main/AndroidManifest.xml:15:9-47
+44-->/home/nero/Dev/Projetos Mobile/LiFitness/app/src/main/AndroidManifest.xml:15:9-47
 45        <activity
-45-->/home/nero/Downloads/Lifitness-Kotlin/Lifitness-Kotlin/Lifitness/app/src/main/AndroidManifest.xml:17:9-27:20
+45-->/home/nero/Dev/Projetos Mobile/LiFitness/app/src/main/AndroidManifest.xml:17:9-27:20
 46            android:name="com.lifitness.MainActivity"
-46-->/home/nero/Downloads/Lifitness-Kotlin/Lifitness-Kotlin/Lifitness/app/src/main/AndroidManifest.xml:18:13-41
+46-->/home/nero/Dev/Projetos Mobile/LiFitness/app/src/main/AndroidManifest.xml:18:13-41
 47            android:exported="true"
-47-->/home/nero/Downloads/Lifitness-Kotlin/Lifitness-Kotlin/Lifitness/app/src/main/AndroidManifest.xml:19:13-36
+47-->/home/nero/Dev/Projetos Mobile/LiFitness/app/src/main/AndroidManifest.xml:19:13-36
 48            android:label="@string/app_name"
-48-->/home/nero/Downloads/Lifitness-Kotlin/Lifitness-Kotlin/Lifitness/app/src/main/AndroidManifest.xml:20:13-45
+48-->/home/nero/Dev/Projetos Mobile/LiFitness/app/src/main/AndroidManifest.xml:20:13-45
 49            android:theme="@style/Theme.Lifitness" >
-49-->/home/nero/Downloads/Lifitness-Kotlin/Lifitness-Kotlin/Lifitness/app/src/main/AndroidManifest.xml:21:13-51
+49-->/home/nero/Dev/Projetos Mobile/LiFitness/app/src/main/AndroidManifest.xml:21:13-51
 50            <intent-filter>
-50-->/home/nero/Downloads/Lifitness-Kotlin/Lifitness-Kotlin/Lifitness/app/src/main/AndroidManifest.xml:22:13-26:29
+50-->/home/nero/Dev/Projetos Mobile/LiFitness/app/src/main/AndroidManifest.xml:22:13-26:29
 51                <action android:name="android.intent.action.MAIN" />
-51-->/home/nero/Downloads/Lifitness-Kotlin/Lifitness-Kotlin/Lifitness/app/src/main/AndroidManifest.xml:23:17-69
-51-->/home/nero/Downloads/Lifitness-Kotlin/Lifitness-Kotlin/Lifitness/app/src/main/AndroidManifest.xml:23:25-66
+51-->/home/nero/Dev/Projetos Mobile/LiFitness/app/src/main/AndroidManifest.xml:23:17-69
+51-->/home/nero/Dev/Projetos Mobile/LiFitness/app/src/main/AndroidManifest.xml:23:25-66
 52
 53                <category android:name="android.intent.category.LAUNCHER" />
-53-->/home/nero/Downloads/Lifitness-Kotlin/Lifitness-Kotlin/Lifitness/app/src/main/AndroidManifest.xml:25:17-77
-53-->/home/nero/Downloads/Lifitness-Kotlin/Lifitness-Kotlin/Lifitness/app/src/main/AndroidManifest.xml:25:27-74
+53-->/home/nero/Dev/Projetos Mobile/LiFitness/app/src/main/AndroidManifest.xml:25:17-77
+53-->/home/nero/Dev/Projetos Mobile/LiFitness/app/src/main/AndroidManifest.xml:25:27-74
 54            </intent-filter>
 55        </activity>
 56        <activity

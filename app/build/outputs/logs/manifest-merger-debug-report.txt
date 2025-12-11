@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /home/nero/Downloads/Lifitness-Kotlin/Lifitness-Kotlin/Lifitness/app/src/main/AndroidManifest.xml:2:1-30:12
-INJECTED from /home/nero/Downloads/Lifitness-Kotlin/Lifitness-Kotlin/Lifitness/app/src/main/AndroidManifest.xml:2:1-30:12
-INJECTED from /home/nero/Downloads/Lifitness-Kotlin/Lifitness-Kotlin/Lifitness/app/src/main/AndroidManifest.xml:2:1-30:12
-INJECTED from /home/nero/Downloads/Lifitness-Kotlin/Lifitness-Kotlin/Lifitness/app/src/main/AndroidManifest.xml:2:1-30:12
+ADDED from /home/nero/Dev/Projetos Mobile/LiFitness/app/src/main/AndroidManifest.xml:2:1-30:12
+INJECTED from /home/nero/Dev/Projetos Mobile/LiFitness/app/src/main/AndroidManifest.xml:2:1-30:12
+INJECTED from /home/nero/Dev/Projetos Mobile/LiFitness/app/src/main/AndroidManifest.xml:2:1-30:12
+INJECTED from /home/nero/Dev/Projetos Mobile/LiFitness/app/src/main/AndroidManifest.xml:2:1-30:12
 MERGED from [io.coil-kt:coil-compose:1.3.2] /home/nero/.gradle/caches/8.13/transforms/9b40e76e80fd29cac62eb0ce9a1ee0f5/transformed/coil-compose-1.3.2/AndroidManifest.xml:2:1-9:12
 MERGED from [com.google.firebase:firebase-auth:22.3.0] /home/nero/.gradle/caches/8.13/transforms/916eb7c592e7678f95c923c684360ffe/transformed/firebase-auth-22.3.0/AndroidManifest.xml:17:1-75:12
 MERGED from [androidx.browser:browser:1.4.0] /home/nero/.gradle/caches/8.13/transforms/3a485b48127a9819bec488578a05f783/transformed/browser-1.4.0/AndroidManifest.xml:17:1-24:12
@@ -141,26 +141,26 @@ MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/nero/.gradle/cach
 MERGED from [io.grpc:grpc-android:1.52.1] /home/nero/.gradle/caches/8.13/transforms/8e2f7938718f8e03434c94ad5d5f2c3e/transformed/grpc-android-1.52.1/AndroidManifest.xml:2:1-11:12
 MERGED from [com.google.firebase:protolite-well-known-types:18.0.0] /home/nero/.gradle/caches/8.13/transforms/28f6ee94f27120facda045a2de81df2e/transformed/protolite-well-known-types-18.0.0/AndroidManifest.xml:2:1-11:12
 	package
-		INJECTED from /home/nero/Downloads/Lifitness-Kotlin/Lifitness-Kotlin/Lifitness/app/src/main/AndroidManifest.xml
+		INJECTED from /home/nero/Dev/Projetos Mobile/LiFitness/app/src/main/AndroidManifest.xml
 	android:versionName
-		INJECTED from /home/nero/Downloads/Lifitness-Kotlin/Lifitness-Kotlin/Lifitness/app/src/main/AndroidManifest.xml
+		INJECTED from /home/nero/Dev/Projetos Mobile/LiFitness/app/src/main/AndroidManifest.xml
 	xmlns:tools
-		ADDED from /home/nero/Downloads/Lifitness-Kotlin/Lifitness-Kotlin/Lifitness/app/src/main/AndroidManifest.xml:3:5-51
+		ADDED from /home/nero/Dev/Projetos Mobile/LiFitness/app/src/main/AndroidManifest.xml:3:5-51
 	android:versionCode
-		INJECTED from /home/nero/Downloads/Lifitness-Kotlin/Lifitness-Kotlin/Lifitness/app/src/main/AndroidManifest.xml
+		INJECTED from /home/nero/Dev/Projetos Mobile/LiFitness/app/src/main/AndroidManifest.xml
 	xmlns:android
-		ADDED from /home/nero/Downloads/Lifitness-Kotlin/Lifitness-Kotlin/Lifitness/app/src/main/AndroidManifest.xml:2:11-69
+		ADDED from /home/nero/Dev/Projetos Mobile/LiFitness/app/src/main/AndroidManifest.xml:2:11-69
 uses-feature#android.hardware.camera.any
-ADDED from /home/nero/Downloads/Lifitness-Kotlin/Lifitness-Kotlin/Lifitness/app/src/main/AndroidManifest.xml:5:5-63
+ADDED from /home/nero/Dev/Projetos Mobile/LiFitness/app/src/main/AndroidManifest.xml:5:5-63
 	android:name
-		ADDED from /home/nero/Downloads/Lifitness-Kotlin/Lifitness-Kotlin/Lifitness/app/src/main/AndroidManifest.xml:5:19-61
+		ADDED from /home/nero/Dev/Projetos Mobile/LiFitness/app/src/main/AndroidManifest.xml:5:19-61
 uses-permission#android.permission.CAMERA
-ADDED from /home/nero/Downloads/Lifitness-Kotlin/Lifitness-Kotlin/Lifitness/app/src/main/AndroidManifest.xml:6:5-64
+ADDED from /home/nero/Dev/Projetos Mobile/LiFitness/app/src/main/AndroidManifest.xml:6:5-64
 	android:name
-		ADDED from /home/nero/Downloads/Lifitness-Kotlin/Lifitness-Kotlin/Lifitness/app/src/main/AndroidManifest.xml:6:22-62
+		ADDED from /home/nero/Dev/Projetos Mobile/LiFitness/app/src/main/AndroidManifest.xml:6:22-62
 application
-ADDED from /home/nero/Downloads/Lifitness-Kotlin/Lifitness-Kotlin/Lifitness/app/src/main/AndroidManifest.xml:7:5-28:19
-INJECTED from /home/nero/Downloads/Lifitness-Kotlin/Lifitness-Kotlin/Lifitness/app/src/main/AndroidManifest.xml:7:5-28:19
+ADDED from /home/nero/Dev/Projetos Mobile/LiFitness/app/src/main/AndroidManifest.xml:7:5-28:19
+INJECTED from /home/nero/Dev/Projetos Mobile/LiFitness/app/src/main/AndroidManifest.xml:7:5-28:19
 MERGED from [com.google.firebase:firebase-auth:22.3.0] /home/nero/.gradle/caches/8.13/transforms/916eb7c592e7678f95c923c684360ffe/transformed/firebase-auth-22.3.0/AndroidManifest.xml:28:5-73:19
 MERGED from [com.google.firebase:firebase-auth:22.3.0] /home/nero/.gradle/caches/8.13/transforms/916eb7c592e7678f95c923c684360ffe/transformed/firebase-auth-22.3.0/AndroidManifest.xml:28:5-73:19
 MERGED from [com.google.firebase:firebase-database:20.3.0] /home/nero/.gradle/caches/8.13/transforms/781be8d622d743b308b04f91e40af9e5/transformed/firebase-database-20.3.0/AndroidManifest.xml:25:5-36:19
@@ -240,51 +240,51 @@ MERGED from [com.google.android.datatransport:transport-runtime:3.1.3] /home/ner
 MERGED from [androidx.startup:startup-runtime:1.1.1] /home/nero/.gradle/caches/8.13/transforms/2c76ad1e5e3181474e803fa442292c29/transformed/startup-runtime-1.1.1/AndroidManifest.xml:25:5-31:19
 MERGED from [androidx.startup:startup-runtime:1.1.1] /home/nero/.gradle/caches/8.13/transforms/2c76ad1e5e3181474e803fa442292c29/transformed/startup-runtime-1.1.1/AndroidManifest.xml:25:5-31:19
 	android:extractNativeLibs
-		INJECTED from /home/nero/Downloads/Lifitness-Kotlin/Lifitness-Kotlin/Lifitness/app/src/main/AndroidManifest.xml
+		INJECTED from /home/nero/Dev/Projetos Mobile/LiFitness/app/src/main/AndroidManifest.xml
 	android:appComponentFactory
 		ADDED from [androidx.core:core:1.12.0] /home/nero/.gradle/caches/8.13/transforms/390ccdea279bf11267175344dc6978b5/transformed/core-1.12.0/AndroidManifest.xml:28:18-86
 	android:supportsRtl
-		ADDED from /home/nero/Downloads/Lifitness-Kotlin/Lifitness-Kotlin/Lifitness/app/src/main/AndroidManifest.xml:14:9-35
+		ADDED from /home/nero/Dev/Projetos Mobile/LiFitness/app/src/main/AndroidManifest.xml:14:9-35
 	android:label
-		ADDED from /home/nero/Downloads/Lifitness-Kotlin/Lifitness-Kotlin/Lifitness/app/src/main/AndroidManifest.xml:12:9-41
+		ADDED from /home/nero/Dev/Projetos Mobile/LiFitness/app/src/main/AndroidManifest.xml:12:9-41
 	android:fullBackupContent
-		ADDED from /home/nero/Downloads/Lifitness-Kotlin/Lifitness-Kotlin/Lifitness/app/src/main/AndroidManifest.xml:10:9-54
+		ADDED from /home/nero/Dev/Projetos Mobile/LiFitness/app/src/main/AndroidManifest.xml:10:9-54
 	android:roundIcon
-		ADDED from /home/nero/Downloads/Lifitness-Kotlin/Lifitness-Kotlin/Lifitness/app/src/main/AndroidManifest.xml:13:9-57
+		ADDED from /home/nero/Dev/Projetos Mobile/LiFitness/app/src/main/AndroidManifest.xml:13:9-57
 	tools:targetApi
-		ADDED from /home/nero/Downloads/Lifitness-Kotlin/Lifitness-Kotlin/Lifitness/app/src/main/AndroidManifest.xml:16:9-29
+		ADDED from /home/nero/Dev/Projetos Mobile/LiFitness/app/src/main/AndroidManifest.xml:16:9-29
 	android:icon
-		ADDED from /home/nero/Downloads/Lifitness-Kotlin/Lifitness-Kotlin/Lifitness/app/src/main/AndroidManifest.xml:11:9-46
+		ADDED from /home/nero/Dev/Projetos Mobile/LiFitness/app/src/main/AndroidManifest.xml:11:9-46
 	android:allowBackup
-		ADDED from /home/nero/Downloads/Lifitness-Kotlin/Lifitness-Kotlin/Lifitness/app/src/main/AndroidManifest.xml:8:9-35
+		ADDED from /home/nero/Dev/Projetos Mobile/LiFitness/app/src/main/AndroidManifest.xml:8:9-35
 	android:theme
-		ADDED from /home/nero/Downloads/Lifitness-Kotlin/Lifitness-Kotlin/Lifitness/app/src/main/AndroidManifest.xml:15:9-47
+		ADDED from /home/nero/Dev/Projetos Mobile/LiFitness/app/src/main/AndroidManifest.xml:15:9-47
 	android:dataExtractionRules
-		ADDED from /home/nero/Downloads/Lifitness-Kotlin/Lifitness-Kotlin/Lifitness/app/src/main/AndroidManifest.xml:9:9-65
+		ADDED from /home/nero/Dev/Projetos Mobile/LiFitness/app/src/main/AndroidManifest.xml:9:9-65
 activity#com.lifitness.MainActivity
-ADDED from /home/nero/Downloads/Lifitness-Kotlin/Lifitness-Kotlin/Lifitness/app/src/main/AndroidManifest.xml:17:9-27:20
+ADDED from /home/nero/Dev/Projetos Mobile/LiFitness/app/src/main/AndroidManifest.xml:17:9-27:20
 	android:label
-		ADDED from /home/nero/Downloads/Lifitness-Kotlin/Lifitness-Kotlin/Lifitness/app/src/main/AndroidManifest.xml:20:13-45
+		ADDED from /home/nero/Dev/Projetos Mobile/LiFitness/app/src/main/AndroidManifest.xml:20:13-45
 	android:exported
-		ADDED from /home/nero/Downloads/Lifitness-Kotlin/Lifitness-Kotlin/Lifitness/app/src/main/AndroidManifest.xml:19:13-36
+		ADDED from /home/nero/Dev/Projetos Mobile/LiFitness/app/src/main/AndroidManifest.xml:19:13-36
 	android:theme
-		ADDED from /home/nero/Downloads/Lifitness-Kotlin/Lifitness-Kotlin/Lifitness/app/src/main/AndroidManifest.xml:21:13-51
+		ADDED from /home/nero/Dev/Projetos Mobile/LiFitness/app/src/main/AndroidManifest.xml:21:13-51
 	android:name
-		ADDED from /home/nero/Downloads/Lifitness-Kotlin/Lifitness-Kotlin/Lifitness/app/src/main/AndroidManifest.xml:18:13-41
+		ADDED from /home/nero/Dev/Projetos Mobile/LiFitness/app/src/main/AndroidManifest.xml:18:13-41
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from /home/nero/Downloads/Lifitness-Kotlin/Lifitness-Kotlin/Lifitness/app/src/main/AndroidManifest.xml:22:13-26:29
+ADDED from /home/nero/Dev/Projetos Mobile/LiFitness/app/src/main/AndroidManifest.xml:22:13-26:29
 action#android.intent.action.MAIN
-ADDED from /home/nero/Downloads/Lifitness-Kotlin/Lifitness-Kotlin/Lifitness/app/src/main/AndroidManifest.xml:23:17-69
+ADDED from /home/nero/Dev/Projetos Mobile/LiFitness/app/src/main/AndroidManifest.xml:23:17-69
 	android:name
-		ADDED from /home/nero/Downloads/Lifitness-Kotlin/Lifitness-Kotlin/Lifitness/app/src/main/AndroidManifest.xml:23:25-66
+		ADDED from /home/nero/Dev/Projetos Mobile/LiFitness/app/src/main/AndroidManifest.xml:23:25-66
 category#android.intent.category.LAUNCHER
-ADDED from /home/nero/Downloads/Lifitness-Kotlin/Lifitness-Kotlin/Lifitness/app/src/main/AndroidManifest.xml:25:17-77
+ADDED from /home/nero/Dev/Projetos Mobile/LiFitness/app/src/main/AndroidManifest.xml:25:17-77
 	android:name
-		ADDED from /home/nero/Downloads/Lifitness-Kotlin/Lifitness-Kotlin/Lifitness/app/src/main/AndroidManifest.xml:25:27-74
+		ADDED from /home/nero/Dev/Projetos Mobile/LiFitness/app/src/main/AndroidManifest.xml:25:27-74
 uses-sdk
-INJECTED from /home/nero/Downloads/Lifitness-Kotlin/Lifitness-Kotlin/Lifitness/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from /home/nero/Downloads/Lifitness-Kotlin/Lifitness-Kotlin/Lifitness/app/src/main/AndroidManifest.xml
-INJECTED from /home/nero/Downloads/Lifitness-Kotlin/Lifitness-Kotlin/Lifitness/app/src/main/AndroidManifest.xml
+INJECTED from /home/nero/Dev/Projetos Mobile/LiFitness/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/nero/Dev/Projetos Mobile/LiFitness/app/src/main/AndroidManifest.xml
+INJECTED from /home/nero/Dev/Projetos Mobile/LiFitness/app/src/main/AndroidManifest.xml
 MERGED from [io.coil-kt:coil-compose:1.3.2] /home/nero/.gradle/caches/8.13/transforms/9b40e76e80fd29cac62eb0ce9a1ee0f5/transformed/coil-compose-1.3.2/AndroidManifest.xml:5:5-7:41
 MERGED from [io.coil-kt:coil-compose:1.3.2] /home/nero/.gradle/caches/8.13/transforms/9b40e76e80fd29cac62eb0ce9a1ee0f5/transformed/coil-compose-1.3.2/AndroidManifest.xml:5:5-7:41
 MERGED from [com.google.firebase:firebase-auth:22.3.0] /home/nero/.gradle/caches/8.13/transforms/916eb7c592e7678f95c923c684360ffe/transformed/firebase-auth-22.3.0/AndroidManifest.xml:21:5-23:64
@@ -560,9 +560,9 @@ MERGED from [com.google.firebase:protolite-well-known-types:18.0.0] /home/nero/.
 	tools:overrideLibrary
 		ADDED from [com.google.firebase:firebase-auth:22.3.0] /home/nero/.gradle/caches/8.13/transforms/916eb7c592e7678f95c923c684360ffe/transformed/firebase-auth-22.3.0/AndroidManifest.xml:23:9-61
 	android:targetSdkVersion
-		INJECTED from /home/nero/Downloads/Lifitness-Kotlin/Lifitness-Kotlin/Lifitness/app/src/main/AndroidManifest.xml
+		INJECTED from /home/nero/Dev/Projetos Mobile/LiFitness/app/src/main/AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from /home/nero/Downloads/Lifitness-Kotlin/Lifitness-Kotlin/Lifitness/app/src/main/AndroidManifest.xml
+		INJECTED from /home/nero/Dev/Projetos Mobile/LiFitness/app/src/main/AndroidManifest.xml
 uses-permission#android.permission.INTERNET
 ADDED from [com.google.firebase:firebase-auth:22.3.0] /home/nero/.gradle/caches/8.13/transforms/916eb7c592e7678f95c923c684360ffe/transformed/firebase-auth-22.3.0/AndroidManifest.xml:25:5-67
 MERGED from [com.google.firebase:firebase-database:20.3.0] /home/nero/.gradle/caches/8.13/transforms/781be8d622d743b308b04f91e40af9e5/transformed/firebase-database-20.3.0/AndroidManifest.xml:23:5-67
