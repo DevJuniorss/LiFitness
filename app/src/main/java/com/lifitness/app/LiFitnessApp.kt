@@ -55,6 +55,7 @@ import com.lifitness.screens.home.client.HomeScreen
 import com.lifitness.screens.home.personal.PersonalHomeScreen
 import com.lifitness.screens.login.LoginScreen
 import com.lifitness.screens.personalClient.PersonalClientScreen
+import com.lifitness.screens.profile.ProfileScreen
 import com.lifitness.screens.progress.ProgressScreen
 import com.lifitness.screens.register.MainRegistrationScreen
 import com.lifitness.screens.register.goalRegistration.GoalRegistrationScreen
@@ -247,6 +248,9 @@ fun LiFitnessApp() {
                 }
                 composable("Food_Screen/{diet}") { backStackEntry ->
                     FoodScreen(navController, Json.decodeFromString(backStackEntry.arguments?.getString("diet")!!))
+                }
+                composable(LifitnessScreen.Profile.name) {
+                    ProfileScreen(modifier = Modifier, navController)
                 }
                 composable(LifitnessScreen.Charts.name) {
                     ProgressScreen(navController)
