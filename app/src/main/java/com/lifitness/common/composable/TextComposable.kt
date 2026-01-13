@@ -80,10 +80,8 @@ fun ExerciseListTitle(){
 }
 
 @Composable
-fun HomeTitle(
-    title: String = stringResource(AppText.home_title)
-){
-    Text(title,
+fun HomeTitle(){
+    Text(stringResource(AppText.home_title),
         color = TextColor,
         fontFamily = FontFamily.SansSerif,
         fontSize = 24.sp,
